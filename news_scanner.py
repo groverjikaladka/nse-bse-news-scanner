@@ -68,8 +68,8 @@ KEYWORDS = {
 
 import re
 
-def classify_announcement(headline, category_name, subcategory_name):
-    combined_text = f"{headline} {category_name} {subcategory_name}".lower()
+def classify_announcement(headline, detailed_text, category_name, subcategory_name):
+    combined_text = f"{headline} {detailed_text} {category_name} {subcategory_name}".lower()
     matched_categories = []
     for category, terms in KEYWORDS.items():
         term_idx = 0
@@ -155,12 +155,15 @@ def process_announcement_list(announcements, source_name, seen_ids):
         if source_name == "BSE":
             ann_id = "BSE_" + str(ann.get("NEWSID", ""))
             headline = ann.get("HEADLINE", "")
+            detailed_text = ann.get("MORE", "")
+            display_text = detailed_text if len(detailed_text) > len(headline) else headline
             company = ann.get("SLONGNAME", "")
             category_name = ann.get("CATEGORYNAME", "")
             subcategory_name = ann.get("SUBCATNAME", "")
         else:
             ann_id = "NSE_" + str(ann.get("seq_id", ""))
             headline = ann.get("attchmntText", "") or ann.get("desc", "")
+            display_text = headline
             company = ann.get("sm_name", "") or ann.get("symbol", "")
             category_name = ann.get("desc", "")
             subcategory_name = ""
@@ -168,11 +171,15 @@ def process_announcement_list(announcements, source_name, seen_ids):
         if already_seen:
             ann_idx = ann_idx + 1
             continue
-        categories = classify_announcement(headline, category_name, subcategory_name)
+        categories = classify_announcement(headline, display_text, category_name, subcategory_name)
         is_relevant = len(categories) > 0
         if is_relevant:
             categories_str = ", ".join(categories)
-            message = f"[{source_name}] <b>{company}</b>\n{headline}\n\nMatched: {categories_str}"
+            safe_text = display_text[:3500]
+            text_was_cut = len(display_text) > 3500
+            if text_was_cut:
+                safe_text = safe_text + "... (truncated)"
+            message = f"[{source_name}] <b>{company}</b>\n{safe_text}\n\nMatched: {categories_str}"
             send_result = send_telegram_message(message)
             send_succeeded = send_result.get("ok", False)
             if send_succeeded:
