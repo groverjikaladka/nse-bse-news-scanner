@@ -110,8 +110,10 @@ def send_telegram_message(text):
 
 def fetch_today_nse_announcements():
     try:
+        today = datetime.now()
+        start_date = get_lookback_start_date()
         nse = NSE(download_folder="./")
-        data = nse.announcements(index="equities")
+        data = nse.announcements(index="equities", from_date=start_date, to_date=today)
         nse.exit()
         return data
     except Exception as e:
@@ -119,13 +121,23 @@ def fetch_today_nse_announcements():
         return []
 
 
+def get_lookback_start_date():
+    from datetime import timedelta
+    today = datetime.now()
+    is_monday = today.weekday() == 0
+    lookback_days = 3 if is_monday else 1
+    return today - timedelta(days=lookback_days)
+
+
 def fetch_today_announcements():
+    today = datetime.now()
+    start_date = get_lookback_start_date()
     bse = BSE(download_folder="./")
     all_rows = []
     page_no = 1
     total_count = None
     while True:
-        data = bse.announcements(page_no=page_no)
+        data = bse.announcements(page_no=page_no, from_date=start_date, to_date=today)
         rows = data.get("Table", [])
         no_rows = len(rows) == 0
         if no_rows:
@@ -212,3 +224,4 @@ def run_scan():
 
 
 run_scan()
+
