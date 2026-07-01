@@ -68,6 +68,14 @@ KEYWORDS = {
 
 import re
 
+EXCLUSIONS = {
+    "Order/MoU/Contract": [
+        "appointment", "managing director", "cmd", "whole time director",
+        "board meeting", "agm", "egm", "resignation", "cessation",
+        "court order", "tribunal order", "nclt order", "nclat order"
+    ]
+}
+
 def classify_announcement(headline, detailed_text, category_name, subcategory_name):
     combined_text = f"{headline} {detailed_text} {category_name} {subcategory_name}".lower()
     matched_categories = []
@@ -82,7 +90,10 @@ def classify_announcement(headline, detailed_text, category_name, subcategory_na
                 found_in_category = True
             term_idx = term_idx + 1
         if found_in_category:
-            matched_categories.append(category)
+            exclusion_terms = EXCLUSIONS.get(category, [])
+            excluded = any(re.search(r"\b" + re.escape(e) + r"\b", combined_text) for e in exclusion_terms)
+            if not excluded:
+                matched_categories.append(category)
     return matched_categories
 
 
