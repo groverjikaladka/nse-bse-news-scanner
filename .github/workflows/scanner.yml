@@ -40,3 +40,5 @@ jobs:
           git add sent_alerts.json
           git diff --staged --quiet || git commit -m "Update seen alerts"
           git push
+
+          # Updated schedule 
