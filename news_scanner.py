@@ -229,14 +229,19 @@ def process_announcement_list(announcements, source_name, seen_ids):
         if source_name == "BSE":
             ann_id = "BSE_" + str(ann.get("NEWSID", ""))
             headline = ann.get("HEADLINE", "")
+            newssub = ann.get("NEWSSUB", "")
             detailed_text = ann.get("MORE", "")
             display_text = detailed_text if len(detailed_text) > len(headline) else headline
+            if not display_text.strip() or display_text.strip() == "As per the attached intimation":
+                display_text = newssub
             company = ann.get("SLONGNAME", "")
             category_name = ann.get("CATEGORYNAME", "")
             subcategory_name = ann.get("SUBCATNAME", "")
+            attachment = ann.get("ATTACHMENTNAME", "")
         else:
             ann_id = "NSE_" + str(ann.get("seq_id", ""))
             headline = ann.get("attchmntText", "") or ann.get("desc", "")
+            newssub = ""
             display_text = headline
             company = ann.get("sm_name", "") or ann.get("symbol", "")
             category_name = ann.get("desc", "")
@@ -245,7 +250,8 @@ def process_announcement_list(announcements, source_name, seen_ids):
         if already_seen:
             ann_idx = ann_idx + 1
             continue
-        categories = classify_announcement(headline, display_text, category_name, subcategory_name)
+        extra_text = newssub if source_name == "BSE" else ""
+        categories = classify_announcement(headline + " " + extra_text, display_text, category_name, subcategory_name)
         is_relevant = len(categories) > 0
         if is_relevant:
             categories_str = ", ".join(categories)
@@ -409,9 +415,7 @@ def run_scan():
 
 
 run_scan()
-        
-                
-
+    
 
 
 
