@@ -20,12 +20,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-       - name: Restore seen alerts cache
+      - name: Restore seen alerts cache
         uses: actions/cache@v4
         with:
-          path: |
-            sent_alerts.json
-            alerts_log.json
+          path: sent_alerts.json
           key: seen-alerts-${{ github.run_id }}
           restore-keys: |
             seen-alerts-
