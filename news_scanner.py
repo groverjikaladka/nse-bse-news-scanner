@@ -296,7 +296,9 @@ def save_alerts_log(alerts):
 
 
 def generate_dashboard(alerts):
-    now = datetime.now().strftime("%d %b %Y, %I:%M %p IST")
+    from datetime import timedelta
+    ist_now = datetime.utcnow() + timedelta(hours=5, minutes=30)
+    now = ist_now.strftime("%d %b %Y, %I:%M %p IST")
     rows = ""
     for a in alerts:
         dt = datetime.fromisoformat(a["date"])
@@ -406,7 +408,7 @@ def run_scan():
 
 
 run_scan()
-    
+        
 
 
 
