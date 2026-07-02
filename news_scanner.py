@@ -35,6 +35,7 @@ KEYWORDS = {
     "Order/MoU/Contract": [
         "order win", "bags order", "secures order", "wins order", "receives order",
         "order received", "new order", "award of order", "receipt of order",
+        "work awarded", "order awarded", "contract awarded",
         "mou", "memorandum of understanding", "letter of award", "loa",
         "letter of intent", "loi", "contract win", "awarded contract",
         "purchase order", "work order", "supply agreement", "definitive agreement"
