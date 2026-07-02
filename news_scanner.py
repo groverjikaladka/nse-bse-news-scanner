@@ -56,7 +56,9 @@ KEYWORDS = {
     ],
     "Financial/Results": [
         "credit rating upgrade", "credit rating downgrade", "rating upgrade",
-        "rating downgrade", "default", "insolvency", "nclt", "ibc proceedings"
+        "rating downgrade", "payment default", "default on payment",
+        "insolvency proceedings", "ibc proceedings", "nclt order",
+        "nclat order", "liquidation order", "resolution plan approved"
     ],
     "Litigation/Regulatory Action": [
         "sebi order", "show cause notice", "raid conducted", "fraud detected",
@@ -71,8 +73,7 @@ import re
 EXCLUSIONS = {
     "Order/MoU/Contract": [
         "appointment", "managing director", "cmd", "whole time director",
-        "board meeting", "agm", "egm", "resignation", "cessation",
-        "court order", "tribunal order", "nclt order", "nclat order"
+        "board meeting", "agm", "egm", "resignation", "cessation"
     ]
 }
 
@@ -411,6 +412,7 @@ def run_scan():
 
 
 run_scan()
+
                 
 
 
