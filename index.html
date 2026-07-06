@@ -6,6 +6,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
+<meta http-equiv="refresh" content="300">
 <title>Market Intelligence Dashboard</title>
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -15,9 +16,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .header h1 span { color: #38bdf8; }
 .updated { font-size: 12px; color: #64748b; }
 .stats { display: flex; gap: 16px; padding: 20px 32px; }
-.stat { background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 16px 20px; flex: 1; }
+.stat { background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 16px 20px; flex: 1; cursor: pointer; transition: all 0.15s; user-select: none; }
+.stat:hover { border-color: #38bdf8; transform: translateY(-1px); }
+.stat.active { border-color: #38bdf8; background: #1a3a5c; }
 .stat-value { font-size: 28px; font-weight: 700; color: #38bdf8; }
 .stat-label { font-size: 12px; color: #64748b; margin-top: 4px; }
+.filter-bar { padding: 0 32px 16px; display: flex; align-items: center; gap: 12px; }
+.filter-label { font-size: 12px; color: #64748b; }
+.reset-btn { padding: 4px 12px; border-radius: 6px; background: #334155; color: #94a3b8; border: none; font-size: 12px; cursor: pointer; display: none; }
+.reset-btn:hover { background: #475569; color: #e2e8f0; }
 .container { padding: 0 32px 32px; }
 .table-wrap { background: #1e293b; border: 1px solid #334155; border-radius: 12px; overflow: hidden; }
 table { width: 100%; border-collapse: collapse; }
@@ -25,686 +32,126 @@ thead { background: #0f172a; }
 th { padding: 12px 16px; text-align: left; font-size: 11px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; }
 td { padding: 14px 16px; border-top: 1px solid #263045; font-size: 13px; vertical-align: top; }
 tr:hover td { background: #263045; }
+tr.hidden { display: none; }
 .date { color: #64748b; font-size: 12px; white-space: nowrap; min-width: 130px; }
 .company { font-weight: 600; color: #f1f5f9; min-width: 180px; }
 .text { color: #94a3b8; line-height: 1.5; }
 .badge { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 11px; font-weight: 600; color: white; white-space: nowrap; }
 .source { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; background: #334155; color: #94a3b8; }
 .empty { text-align: center; padding: 60px; color: #64748b; }
-@media (max-width: 768px) { .stats { flex-direction: column; } }
+.no-results { display: none; text-align: center; padding: 60px; color: #64748b; }
+@media (max-width: 768px) { .stats { flex-direction: column; } .filter-bar { padding: 0 16px 16px; } .container { padding: 0 16px 16px; } .header { padding: 16px; } .stats { padding: 16px; } }
 </style>
 </head>
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 06 Jul 2026, 10:31 AM IST</span>
+<span class="updated">Last updated: 06 Jul 2026, 03:57 PM IST</span>
 </div>
 <div class="stats">
-<div class="stat"><div class="stat-value">108</div><div class="stat-label">Alerts (Last 7 Days)</div></div>
-<div class="stat"><div class="stat-value">61</div><div class="stat-label">Order Wins / Contracts</div></div>
-<div class="stat"><div class="stat-value">6</div><div class="stat-label">Regulatory / Drug</div></div>
-<div class="stat"><div class="stat-value">26</div><div class="stat-label">M&A / Corporate</div></div>
+<div class="stat" onclick="filterBy('all')" id="stat-all">
+<div class="stat-value">7</div>
+<div class="stat-label">All Alerts (Last 7 Days)</div>
+</div>
+<div class="stat" onclick="filterBy('Order')" id="stat-order">
+<div class="stat-value">5</div>
+<div class="stat-label">Order Wins / Contracts</div>
+</div>
+<div class="stat" onclick="filterBy('Drug')" id="stat-drug">
+<div class="stat-value">0</div>
+<div class="stat-label">Regulatory / Drug</div>
+</div>
+<div class="stat" onclick="filterBy('M&A')" id="stat-ma">
+<div class="stat-value">1</div>
+<div class="stat-label">M&A / Corporate</div>
+</div>
+</div>
+<div class="filter-bar">
+<span class="filter-label" id="filter-label">Showing all alerts</span>
+<button class="reset-btn" id="reset-btn" onclick="filterBy('all')">Show All</button>
 </div>
 <div class="container">
 <div class="table-wrap">
 <table>
-<thead><tr><th>Time</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody><tr>
-<td class="date">06 Jul 2026, 04:15 AM</td>
-<td class="company">Magellanic Cloud Ltd</td>
-<td class="text">Receipt of Letter of Acceptance by Provigil Surveillance Limited</td>
+<thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">06 Jul 2026, 03:57 PM</td>
+<td class="company">Faalcon Concepts Ltd</td>
+<td class="text">Received new work order amount worth Rs. 101.92 crore for site at Commercial Building, Splendor ONYX, Sector - 142, Noida - 201305, Uttar Pradesh, India.</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 05:01 PM</td>
-<td class="company">Diamond Power Infrastructure Limited</td>
-<td class="text">Diamond Power Infrastructure Limited has informed the Exchange regarding a press release dated July 05, 2026, titled "Press release on receipt of order".</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 04:45 PM</td>
-<td class="company">Diamond Power Infrastructure Ltd-$</td>
-<td class="text">Press release on receipt of order</td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">06 Jul 2026, 03:57 PM</td>
+<td class="company">Dev Information Technology Ltd</td>
+<td class="text">Announcement Related to Receipt of Order</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 04:31 PM</td>
-<td class="company">Diamond Power Infrastructure Limited</td>
-<td class="text">Diamond Power Infrastructure Limited has informed the Exchange about Receipt of Order for Supply of HT & LT Cables to Data Centre Projects Hyderabad</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 04:31 PM</td>
-<td class="company">Diamond Power Infrastructure Ltd-$</td>
-<td class="text">Receipt of order for supply of HT & LT Cables to Data Center Projects Hyderabad</td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">06 Jul 2026, 03:57 PM</td>
+<td class="company">Admach Systems Ltd</td>
+<td class="text">Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 12:01 PM</td>
-<td class="company">GK Energy Ltd</td>
-<td class="text">GK Energy Limited has informed the exchange that the Company has received a letter of empanelment from Maharashtra State Electricity Distribution Company Limited for 10,000 Off-Grid Solar Photovoltaic Water Pumping Systems (SPWPS) pumps under Magel Tyala Saur Krushi Pump Yojana. The total value of o...</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 10:31 AM</td>
-<td class="company">Rolex Rings Limited</td>
-<td class="text">Rolex Rings Limited has informed the Exchange about Letter of Offer along with Tender Forms and Share Transfer Form for the Buyback</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 10:15 AM</td>
-<td class="company">Rolex Rings Ltd</td>
-<td class="text">Submission of Copy of Letter of Offer along with Tender Forms and Share Transfer Form</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">05 Jul 2026, 04:31 AM</td>
-<td class="company">ICICI Prudential Life Insurance Company Ltd</td>
-<td class="text">Please find attached intimation on disclosure under Regulation 30, 30A and 51 of SEBI LODR Regulations.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 06:45 PM</td>
-<td class="company">Piramal Finance Limited</td>
-<td class="text">Piramal Finance Limited has informed the Exchange about Filing of Company Petition in Company Scheme Application No. C.A. CAA84MB2026 with the Honorable NCLT seeking sanction of the Scheme.</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 06:15 PM</td>
-<td class="company">NIS Management Ltd</td>
-<td class="text">Work order from West Bengal State Electricity Distribution company limited</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 02:45 PM</td>
-<td class="company">JK Cement Ltd</td>
-<td class="text">Receipt of Order passed by Add. Commission (Appeals), SGST</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 01:45 PM</td>
-<td class="company">Oswal Pumps Ltd</td>
-<td class="text">As per attached intimation letter.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 01:01 PM</td>
-<td class="company">Alphalogic Industries Ltd</td>
-<td class="text">In terms of Regulation 30 of SEBI (LODR) Regulations, 2015, this is to inform that Company has won order to design, manufacture, supply and installation of Storage Racking System from Blinkit Commerce Private Limited for their unit based in Pune in Maharashtra and Indore in Madhya Pradesh.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 01:01 PM</td>
-<td class="company">Swelect Energy Systems Ltd-$</td>
-<td class="text">SWELECT Energy Systems Limited has successfully commissioned 4.40 MW Solar Power plant on 3rd July 2026 at V. Muthulingapuram Village, Virudhunagar Taluk, Virudhunagar District, Tamil Nadu, connecting to 33/11KV Naranapuram SS at 33 KV level.</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 11:31 AM</td>
-<td class="company">Patel Integrated Logistics Ltd-$</td>
-<td class="text">Intimation Regarding Newspaper Advertisement Notice to all eligible shareholders-Buyback of equity share-Dispatched of Letter of offer and tender forms dated July 02,2026.</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 11:01 AM</td>
-<td class="company">Salasar Techno Engineering Limited</td>
-<td class="text">Salasar Techno Engineering Limited has informed the Exchange regarding Notice of fresh (de novo) Court Convened General Meeting to be held on August 08, 2026 in the matter of scheme of amalgamation.</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 10:46 AM</td>
-<td class="company">Salasar Techno Engineering Ltd</td>
-<td class="text">Please find enclosed notice for convening the fresh (de novo) meeting of Equity shareholders of the company under the supervision of Hon''ble NCLT, Allahabad Bench, Allahabad, scheduled to be held on Saturday, August 08, 2026 through VC/OAVM.</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 09:31 AM</td>
-<td class="company">Shakti Pumps India Ltd-$</td>
-<td class="text">We are glad to inform that Company has received a Letter of Empanelment from Maharashtra State Electricity Distribution Company Limited for 15,000 Off-Grid Solar Photovoltaic Water Pumping Systems (SPWPS) Pumps under Magel Tyala Saur Krushi Pump Yojana. The total value of 15,000 pumps is around Rs. ...</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 08:45 AM</td>
-<td class="company">Kalpataru Ltd</td>
-<td class="text">Disclosure with regard to the Order received by Abacus Real Estate Private Limited, a wholly-owned subsidiary of the Company, from Commissioner of Income Tax (Appeal), Mumbai</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 06:15 AM</td>
-<td class="company">Belrise Industries Limited</td>
-<td class="text">We wish to inform that the Company has received observation letters in terms of Regulation 37 of the Listing Regulations from National Stock Exchanges of India Limited and BSE Limited both dated July 3, 2026 with "no adverse observations" regarding scheme amalgamation (Merger by Absorption) amongst ...</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 06:15 AM</td>
-<td class="company">Hindustan Tin Works Ltd-$</td>
-<td class="text">Pursuant to Regulation 30 of SEBI (LODR), 2015, intimation regarding Order issued by Excise & Taxation Officer-cum-Assessing Authority, (W-05) Sonipat.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 06:01 AM</td>
-<td class="company">Belrise Industries Ltd</td>
-<td class="text">We wish to inform that the Company has received observation letters in terms of Regulation 37 of the Listing Regulations from National Stock Exchanges of India Limited and BSE Limited both dated July 3, 2026 with "no adverse observations" regarding scheme amalgamation (Merger by Absorption) amongst ...</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">04 Jul 2026, 05:31 AM</td>
-<td class="company">Globe Civil Projects Ltd</td>
-<td class="text">The Company has received a Letter of Acceptance from the Central University of Punjab for providing and fixing FRP Screens in the University.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 04:45 PM</td>
-<td class="company">Godrej Properties Ltd</td>
-<td class="text">Please find attached herewith the stock exchange intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 04:31 PM</td>
-<td class="company">Everest Industries Limited</td>
-<td class="text">We refer to our intimation dated February 21, 2023 about the approval by the Board of Directors of Everest Steel Building Private Limited ( ESBPL ), a wholly owned subsidiary of the Company for a CAPEX of Rs. 125 Crores for setting up a new manufacturing facility for Pre Engineered Steel Buildings (...</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 04:31 PM</td>
-<td class="company">Everest Industries Limited</td>
-<td class="text">We refer to our intimation dated February 25, 2025 about an in-principle approval by the Board of Directors of Everest Buildpro Private Limited ( EBPL ), a wholly owned subsidiary of the Company for a CAPEX of Rs. 138 crores for setting up a new Fibre Cement Boards plant at Matia, Goalpara, Assam. E...</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 04:15 PM</td>
-<td class="company">Everest Industries Ltd</td>
-<td class="text">We refer to our intimation dated February 25, 2025 about an in-principle approval by the Board of Directors of Everest Buildpro Private Limited ("EBPL"), a wholly owned subsidiary of the Company for a CAPEX of Rs. 138 Crores for setting up of a new Fibre Cement Board plant at Matia, Goalpara, Assam....</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 04:01 PM</td>
-<td class="company">Everest Industries Ltd</td>
-<td class="text">We refer to our intimation dated February 21, 2023 about the approval of Board of Directors of Everest Steel Building Private Limited ("ESBPL"), a wholly owned subsidiary of the Company for a CAPEX of RS. 125 Crores for setting up a new manufacturing facility for Pre Engineered Steel Buildings (PEB)...</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 01:31 PM</td>
-<td class="company">Quality Power Electrical Equipments Ltd</td>
-<td class="text">Intimation of Receipt of Order by material subsidiary for supply of 400 KV Instrument Transformers.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 01:01 PM</td>
-<td class="company">Innovision Ltd</td>
-<td class="text">Corrigendum to the intimation submitted on 25 june 26 as per regulation 30 of SEBI LODR Regulation 2015 in respect of receipt of Letter of Award from NHAI w.r.t Ghamroj Fee Plaza</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 01:01 PM</td>
-<td class="company">CFF Fluid Control Ltd</td>
-<td class="text">Receipt of Purchase Order: Intimation under Regulation 30 (LODR) Regulations, 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 01:01 PM</td>
-<td class="company">Innovision Ltd</td>
-<td class="text">Corrigendum to the intimation submitted under regulation 30 of SEBI LODR Regulation 2015 for receipt of letter of award from NHAI wrt to SIROHI BAHALI Fee Plaza</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 12:45 PM</td>
-<td class="company">Protean eGov Technologies Limited</td>
-<td class="text">Protean eGov Technologies Limited has informed the Exchange about signing of Memorandum of Understanding with North East Centre of Technology Application and Reach (NECTAR) on July 3, 2026</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 12:45 PM</td>
-<td class="company">Sugs Lloyd Ltd</td>
-<td class="text">Intimation of Receipt of order from Madhya Pradesh Paschim Kshetra Vidyut Vitaran company Limited valued at Rs. 3,37,31,718/-</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 12:45 PM</td>
-<td class="company">Protean eGov Technologies Ltd</td>
-<td class="text">Intimation for signing Memorandum of Understanding (MoU) with North East Centre for Technology Application and Reach (NECTAR)</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 12:31 PM</td>
-<td class="company">True Colors Ltd</td>
-<td class="text">Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015- Participation at Future Print, in Brazil by Inkia Inks Private Limited, Transferor Entity under Scheme of Amalgamation.</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 12:16 PM</td>
-<td class="company">Rubicon Research Ltd</td>
-<td class="text">Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - US FDA inspection of Company''s manufacturing facility in Pithampur, Madhya Pradesh.</td>
-<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Tulive Developers Ltd</td>
-<td class="text">We are attaching herewith the a copy of the Exit Letter of Offer for the delisting offer</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">HCL Technologies Ltd</td>
-<td class="text">Enclosed please find an intimation by the Company under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Tulive Developers Ltd</td>
-<td class="text">Saffron Capital Advisors Pvt. Ltd. (Manager to the Delisting Offer") has submitted to BSE a copy of Exit Letter of Offer dated July 02, 2026, for the attention of the Public Shareholders of Tulive Developers Ltd ("Target Company").</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Bluspring Enterprises Ltd</td>
-<td class="text">Intimation of Bagging/ Receiving of order/ Contracts</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Jay Bharat Maruti Ltd</td>
-<td class="text">Intimation of approval of Voluntary Delisting of Equity Shares of the Company from the Calcutta Stock Exchange (CSE)</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
+</tr><tr data-category="Financial/Results">
+<td class="date">06 Jul 2026, 03:57 PM</td>
 <td class="company">JSW Steel Ltd</td>
-<td class="text">Receipt of final order issued by Hon''ble NCLT in respect of scheme of amalgamation of ARCL, MCL, JRDL with JSW Steel Limited.</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Krystal Integrated Services Ltd</td>
-<td class="text">Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Quality Power Electrical Equipments Ltd</td>
-<td class="text">Intimation of Receipt of Significant Order by Material subsidiary for FACTS Equipment Supply in Japan</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Indian Hume Pipe Company Ltd</td>
-<td class="text">The Company has received letter of Acceptance (LOA) with order value of Rs.738.61 Crores as per attached letter.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Marsons Ltd</td>
-<td class="text">We would like to inform you that our company has received a purchase order from S. T. Electricals Pvt. Ltd. for supply of 10 MVA Power Transformers.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Schneider Electric Infrastructure Ltd</td>
-<td class="text">We wish to inform that the Company in it''s meeting today have approved revisions in capital expenditure / investment earmarked for capex enhancement at Company Kolkata plant. Detailed intimation enclosed herewith.</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Bharat Heavy Electricals Ltd</td>
-<td class="text">Information regarding BHEL''s Credit Rating upgrade by M/s CRISIL Ratings</td>
+<td class="text">Upgrade in credit rating by Fitch Ratings.</td>
 <td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Sikozy Realtors Ltd</td>
-<td class="text">Please find the attached submission.</td>
-<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">06 Jul 2026, 03:57 PM</td>
+<td class="company">South West Pinnacle Exploration Ltd</td>
+<td class="text">Intimation pursuant to Reg 30 of SEBI(Listing Obligation and Disclosure Requirement)Regulations 2015</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">06 Jul 2026, 03:57 PM</td>
 <td class="company">Associated Ceramics Ltd</td>
-<td class="text">Approval of Voluntary Delisting of Equity Shares of the Company from The Calcutta Stock Exchange Ltd.</td>
+<td class="text">Newspaper Publication for Voluntary Delisting of equity shares from The Calcutta Stock Exchange</td>
 <td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Mediaone Global Entertainment Ltd</td>
-<td class="text">Intimation of SEBI order in the matter of Mediaone Global Entertainment Limited</td>
-<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">GSL Securities Ltd</td>
-<td class="text">Please find attached intimation of voluntary delisting of the equity shares of the Company from the Culcutta Stock Exchange with effect from 01st July, 2026.</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Aptech Ltd</td>
-<td class="text">Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015</td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">06 Jul 2026, 03:57 PM</td>
+<td class="company">Sattrix Information Security Ltd</td>
+<td class="text">Sattrix Information security limited is releasing press release in respect of purchase order received during the month of June 2026.</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Housing & Urban Development Corporation Ltd</td>
-<td class="text">Signing of MoU between HUDCO and the Government of Bihar on 03.07.2026</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">RRP Defense Ltd</td>
-<td class="text">Please find attached intimation regarding purchase order received from Bharat Electronics Limited (BEL), Machilipatnam Unit.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">TeamLease Services Ltd</td>
-<td class="text">TeamLease: Disposal/Quash of Show Cause Notice issued by Employees'' Provident Fund Organisation (EPFO) by the Hon''ble High Court of Karnataka</td>
-<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Enviro Infra Engineers Ltd</td>
-<td class="text">Receipt of Order worth Rs. 130.14 Crores</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">03 Jul 2026, 11:31 AM</td>
-<td class="company">Enviro Infra Engineers Ltd</td>
-<td class="text">Receipt of Order worth Rs. 126.78 Crores.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Balkrishna Paper Mills Limited</td>
-<td class="text">Balkrishna Paper Mills Limited has informed the Exchange regarding Proceedings of Postal Ballot. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results:Further to our Postal Ballot Notice dated April 10, 2026, we hereby to inform you that Balkrishna Pa...</td>
-<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Orbit Exports Ltd</td>
-<td class="text">Orbit Exports Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 07/07/2026 ,inter alia, to consider and approve The proposal for buyback of its fully paid up equity shares of the
-Company</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Purple Agrotech Industries Ltd</td>
-<td class="text">Intimation Letter regarding the order received from SEBI is attached herewith.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Lenskart Solutions Ltd</td>
-<td class="text">Lenskart Solutions Limited has informed the Exchange about approval of Scheme of Amalgamation of Dealskart Online Services Private Limited and Lenskart Eyetech Private Limited, wholly-owned subsidiaries of the Company, with and into Lenskart Solution Limited and their respective shareholders and cre...</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Jammu & Kashmir Bank Ltd</td>
-<td class="text">Corporate Agency Agreement with SBI Life Insurance Company Limited and HDFC Life Insurance Company Limited</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">RailTel Corporation of India Ltd</td>
-<td class="text">New Order Received</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Ashiana Housing Ltd-$</td>
-<td class="text">Intimation of receipt of Penalty Order under Section 271C and 271H of the Income Tax, Act 1961, the details of which are mentioned in the pdf attached.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Aditya Birla Fashion and Retail Ltd</td>
-<td class="text">Pronouncement of order by Hon''ble NCLT regarding scheme of Amalgamation amongst Jaypore E-Commerce Private Limited, TG Apparel & Decor Private Limited and Aditya Birla Fashion and Retail Limited and their respective Shareholders and Creditors</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Goenka Business & Finance Ltd</td>
-<td class="text">Intimation Under Regulation 30</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Sasken Technologies Ltd</td>
-<td class="text">Please find enclosed details of the Order passed by ITAT Bengaluru.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">GRE Renew Enertech Ltd</td>
-<td class="text">Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Business Update on Orders Received (Fortnightly Update)</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Chiraharit Ltd</td>
-<td class="text">We wish to inform you that the Company has received a Purchase Order from VSL Green Power Private Limited for supply and services for solar cell and solar cell and solar module manufacturing facility.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">NHC Foods Ltd</td>
-<td class="text">The Board of Directors signed the Letter of Intent (LOI) for proposed investment and acquisition of M/s. Agriconnect Solutions Private Limited.
-
-Detailed disclosure enclosed.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">3i Infotech Ltd</td>
-<td class="text">Please find attached letter that Company has signed a Renewal cum agreement on July 2, 2026 with SBI General Insurance Company Limited Under SEBI LODR Regulation 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Texmaco Rail & Engineering Ltd</td>
-<td class="text">Intimation of receipt of Letter of Acceptance worth Rs. 26.56 Crores (incl. taxes) from South Central Railway</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:02 PM</td>
-<td class="company">Delhivery Ltd</td>
-<td class="text">The Company has received an order under GST Act.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Glenmark Pharmaceuticals Ltd</td>
-<td class="text">Glenmark advances Multi-Country Phase 3 Clinical Trial of Trastuzmab rezetecan in Platinum-Resistant Ovarian Cancer</td>
-<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">GK Energy Ltd</td>
-<td class="text">GK Energy Limited has informed the Exchange that Company has received an allotment of 10 MW of Rooftop Solar Projects.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Meera Industries Ltd</td>
-<td class="text">MEERA Industries Limited Secures Domestic Order Worth Rs 7.95 Crore from DNB Textiles, Surat, for High speed BSY Yarn Twisting & Cop Winding Line.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">United Drilling Tools Ltd</td>
-<td class="text">Award of order from vedanta</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Kajaria Ceramics Ltd</td>
-<td class="text">Submission of newspaper advertisements for despatch of Letter of Offer with respect to buyback of upto 21.50 Lacs equity shares of the Company</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">JD Cables Ltd</td>
-<td class="text">BSE Intimation is hereby submitted for the Credit Rating Upgrade from IVR BBB-/Stable to IVR BBB/Stable (Upgraded) from Infomerics Valuation and Rating Limited.</td>
-<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Kernex Microsystems India Ltd</td>
-<td class="text">Successful Commissioning of Kernex-Built Kavach System on Tundla-Panki Dham Section of North Central Railways</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Crompton Greaves Consumer Electricals Ltd</td>
-<td class="text">Intimation of receipt of award</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Siyaram Recycling Industries Ltd</td>
-<td class="text">Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 97,70,400 pursuant to Regulation 30 of SEBI ( Listing Obligation and Disclosure Requirements) Regulation, 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Siyaram Recycling Industries Ltd</td>
-<td class="text">Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 2,29,68,700 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Siyaram Recycling Industries Ltd</td>
-<td class="text">Intimation with regards to "Siyaram Recycling" secured order amounting to Rs. 92,11,080 pursuant to Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements) Regulation, 2015.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Aster DM Healthcare Ltd</td>
-<td class="text">Successful completion of the merger between Aster DM Healthcare and Quality Care India Limited</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Bannari Amman Sugars Ltd</td>
-<td class="text">An order received from the District Collector, Erode District, Tamilnadu</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Onesource Specialty Pharma Ltd</td>
-<td class="text">We wish to inform that a routine current Good Manufacturing  (cGMP) inspection was conducted by the United States Food and Drug Administration (USFDA) at the Sterile Product Division facility (SPD) of OneSource Specialty Pharma Limited from June 22, 2026 to June 30, 2026.
-
-The inspection has concl...</td>
-<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Talbros Automotive Components Ltd</td>
-<td class="text">Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015, for execution of Joint Venture Agreement with Lohum Cleantech Private Limited.</td>
-<td><span class="badge" style="background:#64748b">Order/MoU/Contract, M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Artefact Projects Ltd</td>
-<td class="text">LETTER OF AWARD</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Talbros Automotive Components Ltd</td>
-<td class="text">Intimation under Regulation 30 of SEBI (LODR) Regulation, 2015, for execution of Joint Venture Agreement with Lohum Cleantech Private Limited</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">Airfloa Rail Technology Ltd</td>
-<td class="text">Receiving of Order of Value Rs.1.21 Crores</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">United Drilling Tools Ltd</td>
-<td class="text">Award of order from Vedanta</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:43 AM</td>
-<td class="company">SBC Exports Ltd</td>
-<td class="text">Extension of Existing order recieved from  (MPMMC)(BHU) amounting aprox 32 crores.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:25 AM</td>
-<td class="company">United Drilling Tools Limited</td>
-<td class="text">United Drilling Tools Limited has informed the Exchange regarding a press release dated July 02, 2026, titled "Award of order".</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">Kajaria Ceramics Limited</td>
-<td class="text">Submission of newspaper advertisements for despatch of Letter of Offer with respect to buyback of upto 21.50 Lacs equity shares of the Company</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">Kernex Microsystems (India) Limited</td>
-<td class="text">Kernex Microsystems (India) Limited has informed the Exchange regarding 'Successful Commissioning of Kernex-built Kavach System on North Central Railway'.</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">Siti Networks Limited</td>
-<td class="text">Siti Networks Limited has informed the Exchange regarding 'Disclosure in compliance with Para 3(C2) of SEBI Circular No. SEBI/HO/CFD/CMD1/CIR/2019/140 dated November 21, 2019, of default on payment of interest/repayment of principal amount on loans from Bank(s)'.</td>
-<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">KSS Limited</td>
-<td class="text">KSS Limited has informed the Exchange regarding 'Intimation under Regulation 30 read with Schedule III of the SEBI (ListingObligations and Disclosure Requirements) Regulations, 2015   Order dated 30th June,2026 passed by the Hon ble National Company Law Appellate Tribunal, Principal Bench,New Delhi,...</td>
-<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">Aster DM Healthcare Limited</td>
-<td class="text">Aster DM Healthcare Limited has informed the Exchange regarding a press release dated July 02, 2026, titled "Successful completion of the merger between Aster DM Healthcare and Quality Care India Limited".</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">Bannari Amman Sugars Limited</td>
-<td class="text">Bannari Amman Sugars Limited has informed the Exchange regarding 'Order received from the District Collector, Erode District, Tamilnadu'.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">SKIL Infrastructure Limited</td>
-<td class="text">SKIL Infrastructure Limited has informed the Exchange regarding the Post Facto Intimation of the Seventh (7th) Committee of Creditors meeting held on Wednesday, July 01, 2026</td>
-<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">Talbros Automotive Components Limited</td>
-<td class="text">Talbros Automotive Components Limited has informed the Exchange about Execution of Joint Venture Agreement with Lohum Cleantech Private Limited</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 10:15 AM</td>
-<td class="company">BASF India Limited</td>
-<td class="text">Transcript of the NCLT convened meeting of the Equity Shareholders of BASF India Limited held on Wednesday, 24th June 2026</td>
-<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:33 AM</td>
-<td class="company">Utkarsh Small Finance Bank Limited</td>
-<td class="text">Utkarsh Small Finance Bank Limited has informed the Exchange about Newspaper Publication regarding hearing of Petition in connection with the Scheme of Amalgamation of Utkarsh CoreInvest Limited with Utkarsh Small Finance Bank Limited</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr>
-<td class="date">02 Jul 2026, 05:33 AM</td>
-<td class="company">Glenmark Pharmaceuticals Limited</td>
-<td class="text">Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated July 02, 2026, titled "Glenmark Advances Multi-Country Phase 3 Clinical Trial of Trastuzumab rezetecan in Platinum-Resistant Ovarian Cancer".</td>
-<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
-<td><span class="source">NSE</span></td>
 </tr></tbody>
 </table>
+<div class="no-results" id="no-results">No alerts match this filter</div>
 </div>
 </div>
+<script>
+var currentFilter = 'all';
+function filterBy(category) {
+  currentFilter = category;
+  var rows = document.querySelectorAll('#table-body tr');
+  var visibleCount = 0;
+  rows.forEach(function(row) {
+    var cat = row.getAttribute('data-category') || '';
+    var show = category === 'all' || cat.indexOf(category) !== -1;
+    row.classList.toggle('hidden', !show);
+    if (show) visibleCount++;
+  });
+  var stats = document.querySelectorAll('.stat');
+  stats.forEach(function(s) { s.classList.remove('active'); });
+  var activeId = category === 'all' ? 'stat-all' : category === 'Order' ? 'stat-order' : category === 'Drug' ? 'stat-drug' : 'stat-ma';
+  var activeEl = document.getElementById(activeId);
+  if (activeEl) activeEl.classList.add('active');
+  var label = document.getElementById('filter-label');
+  var resetBtn = document.getElementById('reset-btn');
+  var noResults = document.getElementById('no-results');
+  if (category === 'all') {
+    label.textContent = 'Showing all alerts';
+    resetBtn.style.display = 'none';
+  } else {
+    var names = {'Order': 'Order Wins / Contracts', 'Drug': 'Regulatory / Drug', 'M&A': 'M&A / Corporate'};
+    label.textContent = 'Filtered: ' + (names[category] || category) + ' (' + visibleCount + ' alerts)';
+    resetBtn.style.display = 'inline-block';
+  }
+  noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+}
+document.getElementById('stat-all').classList.add('active');
+</script>
 </body>
 </html>
