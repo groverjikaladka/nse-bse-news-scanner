@@ -37,8 +37,9 @@ KEYWORDS = {
         "order received", "new order", "award of order", "receipt of order",
         "work awarded", "order awarded", "contract awarded",
         "mou", "memorandum of understanding", "letter of award", "loa",
-        "letter of intent", "loi", "contract win", "awarded contract",
-        "purchase order", "work order", "supply agreement", "definitive agreement"
+        "letter of acceptance", "letter of intent", "loi", "contract win",
+        "awarded contract", "purchase order", "work order",
+        "supply agreement", "definitive agreement"
     ],
     "Regulatory/Drug Approval": [
         "usfda", "us fda", "fda approval", "anda approval", "cdsco approval",
@@ -74,7 +75,16 @@ import re
 EXCLUSIONS = {
     "Order/MoU/Contract": [
         "appointment", "managing director", "cmd", "whole time director",
-        "board meeting", "agm", "egm", "resignation", "cessation"
+        "board meeting", "agm", "egm", "resignation", "cessation",
+        "income tax", "gst act", "tax act", "tax demand", "tax order",
+        "district collector", "district magistrate",
+        "order received from sebi", "order passed by sebi",
+        "sebi order", "sebi circular",
+        "itat", "income tax appellate",
+        "penalty order", "demand order", "show cause",
+        "please find the attached submission",
+        "committee of creditors", "nclt convened",
+        "regulation 30 of sebi",
     ]
 }
 
@@ -261,8 +271,10 @@ def process_announcement_list(announcements, source_name, seen_ids):
             if send_succeeded:
                 new_alerts_sent = new_alerts_sent + 1
                 seen_ids.add(ann_id)
+                from datetime import timedelta
+                ist_now = datetime.utcnow() + timedelta(hours=5, minutes=30)
                 new_alert_items.append({
-                    "date": datetime.now().isoformat(),
+                    "date": ist_now.isoformat(),
                     "company": company,
                     "text": display_text[:500],
                     "categories": categories_str,
@@ -316,7 +328,7 @@ def generate_dashboard(alerts):
             "Financial/Results": "#6366f1",
         }.get(a["categories"], "#64748b")
         safe_text = a["text"][:300] + ("..." if len(a["text"]) > 300 else "")
-        rows += f"""<tr>
+        rows += f"""<tr data-category="{a["categories"]}">
 <td class="date">{formatted_date}</td>
 <td class="company">{a["company"]}</td>
 <td class="text">{safe_text}</td>
@@ -337,6 +349,7 @@ def generate_dashboard(alerts):
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
+<meta http-equiv="refresh" content="300">
 <title>Market Intelligence Dashboard</title>
 <style>
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
@@ -346,9 +359,15 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; 
 .header h1 span {{ color: #38bdf8; }}
 .updated {{ font-size: 12px; color: #64748b; }}
 .stats {{ display: flex; gap: 16px; padding: 20px 32px; }}
-.stat {{ background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 16px 20px; flex: 1; }}
+.stat {{ background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 16px 20px; flex: 1; cursor: pointer; transition: all 0.15s; user-select: none; }}
+.stat:hover {{ border-color: #38bdf8; transform: translateY(-1px); }}
+.stat.active {{ border-color: #38bdf8; background: #1a3a5c; }}
 .stat-value {{ font-size: 28px; font-weight: 700; color: #38bdf8; }}
 .stat-label {{ font-size: 12px; color: #64748b; margin-top: 4px; }}
+.filter-bar {{ padding: 0 32px 16px; display: flex; align-items: center; gap: 12px; }}
+.filter-label {{ font-size: 12px; color: #64748b; }}
+.reset-btn {{ padding: 4px 12px; border-radius: 6px; background: #334155; color: #94a3b8; border: none; font-size: 12px; cursor: pointer; display: none; }}
+.reset-btn:hover {{ background: #475569; color: #e2e8f0; }}
 .container {{ padding: 0 32px 32px; }}
 .table-wrap {{ background: #1e293b; border: 1px solid #334155; border-radius: 12px; overflow: hidden; }}
 table {{ width: 100%; border-collapse: collapse; }}
@@ -356,13 +375,15 @@ thead {{ background: #0f172a; }}
 th {{ padding: 12px 16px; text-align: left; font-size: 11px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; }}
 td {{ padding: 14px 16px; border-top: 1px solid #263045; font-size: 13px; vertical-align: top; }}
 tr:hover td {{ background: #263045; }}
+tr.hidden {{ display: none; }}
 .date {{ color: #64748b; font-size: 12px; white-space: nowrap; min-width: 130px; }}
 .company {{ font-weight: 600; color: #f1f5f9; min-width: 180px; }}
 .text {{ color: #94a3b8; line-height: 1.5; }}
 .badge {{ display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 11px; font-weight: 600; color: white; white-space: nowrap; }}
 .source {{ display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; background: #334155; color: #94a3b8; }}
 .empty {{ text-align: center; padding: 60px; color: #64748b; }}
-@media (max-width: 768px) {{ .stats {{ flex-direction: column; }} }}
+.no-results {{ display: none; text-align: center; padding: 60px; color: #64748b; }}
+@media (max-width: 768px) {{ .stats {{ flex-direction: column; }} .filter-bar {{ padding: 0 16px 16px; }} .container {{ padding: 0 16px 16px; }} .header {{ padding: 16px; }} .stats {{ padding: 16px; }} }}
 </style>
 </head>
 <body>
@@ -371,19 +392,68 @@ tr:hover td {{ background: #263045; }}
 <span class="updated">Last updated: {now}</span>
 </div>
 <div class="stats">
-<div class="stat"><div class="stat-value">{len(alerts)}</div><div class="stat-label">Alerts (Last 7 Days)</div></div>
-<div class="stat"><div class="stat-value">{order_count}</div><div class="stat-label">Order Wins / Contracts</div></div>
-<div class="stat"><div class="stat-value">{drug_count}</div><div class="stat-label">Regulatory / Drug</div></div>
-<div class="stat"><div class="stat-value">{ma_count}</div><div class="stat-label">M&A / Corporate</div></div>
+<div class="stat" onclick="filterBy('all')" id="stat-all">
+<div class="stat-value">{len(alerts)}</div>
+<div class="stat-label">All Alerts (Last 7 Days)</div>
+</div>
+<div class="stat" onclick="filterBy('Order')" id="stat-order">
+<div class="stat-value">{order_count}</div>
+<div class="stat-label">Order Wins / Contracts</div>
+</div>
+<div class="stat" onclick="filterBy('Drug')" id="stat-drug">
+<div class="stat-value">{drug_count}</div>
+<div class="stat-label">Regulatory / Drug</div>
+</div>
+<div class="stat" onclick="filterBy('M&A')" id="stat-ma">
+<div class="stat-value">{ma_count}</div>
+<div class="stat-label">M&A / Corporate</div>
+</div>
+</div>
+<div class="filter-bar">
+<span class="filter-label" id="filter-label">Showing all alerts</span>
+<button class="reset-btn" id="reset-btn" onclick="filterBy('all')">Show All</button>
 </div>
 <div class="container">
 <div class="table-wrap">
 <table>
-<thead><tr><th>Time</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody>{tbody}</tbody>
+<thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
+<tbody id="table-body">{tbody}</tbody>
 </table>
+<div class="no-results" id="no-results">No alerts match this filter</div>
 </div>
 </div>
+<script>
+var currentFilter = 'all';
+function filterBy(category) {{
+  currentFilter = category;
+  var rows = document.querySelectorAll('#table-body tr');
+  var visibleCount = 0;
+  rows.forEach(function(row) {{
+    var cat = row.getAttribute('data-category') || '';
+    var show = category === 'all' || cat.indexOf(category) !== -1;
+    row.classList.toggle('hidden', !show);
+    if (show) visibleCount++;
+  }});
+  var stats = document.querySelectorAll('.stat');
+  stats.forEach(function(s) {{ s.classList.remove('active'); }});
+  var activeId = category === 'all' ? 'stat-all' : category === 'Order' ? 'stat-order' : category === 'Drug' ? 'stat-drug' : 'stat-ma';
+  var activeEl = document.getElementById(activeId);
+  if (activeEl) activeEl.classList.add('active');
+  var label = document.getElementById('filter-label');
+  var resetBtn = document.getElementById('reset-btn');
+  var noResults = document.getElementById('no-results');
+  if (category === 'all') {{
+    label.textContent = 'Showing all alerts';
+    resetBtn.style.display = 'none';
+  }} else {{
+    var names = {{'Order': 'Order Wins / Contracts', 'Drug': 'Regulatory / Drug', 'M&A': 'M&A / Corporate'}};
+    label.textContent = 'Filtered: ' + (names[category] || category) + ' (' + visibleCount + ' alerts)';
+    resetBtn.style.display = 'inline-block';
+  }}
+  noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+}}
+document.getElementById('stat-all').classList.add('active');
+</script>
 </body>
 </html>"""
     with open(DASHBOARD_FILE, "w") as f:
@@ -402,19 +472,7 @@ def run_scan():
     print(f"Fetched {len(nse_announcements)} total announcements from NSE today.")
     nse_alerts, nse_alert_items = process_announcement_list(nse_announcements, "NSE", seen_ids)
 
-    new_alert_items.extend(nse_alert_items)
-    alerts_log.extend(new_alert_items)
-    alerts_log = save_alerts_log(alerts_log)
-    generate_dashboard(alerts_log)
 
-    save_seen_ids(seen_ids)
-    total_alerts = bse_alerts + nse_alerts
-    print(f"Sent {total_alerts} new alerts ({bse_alerts} BSE, {nse_alerts} NSE).")
-    timestamp = datetime.now().isoformat()
-    print(f"Scan complete at {timestamp}")
-
-
-run_scan()
     
 
 
