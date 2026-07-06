@@ -471,6 +471,7 @@ def run_scan():
     nse_announcements = fetch_today_nse_announcements()
     print(f"Fetched {len(nse_announcements)} total announcements from NSE today.")
     nse_alerts, nse_alert_items = process_announcement_list(nse_announcements, "NSE", seen_ids)
+    
 
 
     
