@@ -13,16 +13,10 @@
 
 import json
 import os
-import sys
 import requests
 from datetime import datetime
 from bse import BSE
 from nse import NSE
-
-print("Script started successfully")
-print(f"Python version: {sys.version}")
-print(f"TELEGRAM_BOT_TOKEN set: {bool(os.environ.get('TELEGRAM_BOT_TOKEN', ''))}")
-print(f"TELEGRAM_CHAT_ID set: {bool(os.environ.get('TELEGRAM_CHAT_ID', ''))}")
 
 # ---- CONFIG: token and chat ID are read from environment variables.
 # In GitHub Actions, these are securely injected from repository Secrets.
