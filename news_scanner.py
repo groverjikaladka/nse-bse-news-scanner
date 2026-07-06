@@ -472,9 +472,23 @@ def run_scan():
 
     bse_announcements = fetch_today_announcements()
     print(f"Fetched {len(bse_announcements)} total announcements from BSE today.")
-    bse_alerts, new_alert_items = process_announcement_list(bse_announcements, "BS
-    
+    bse_alerts, new_alert_items = process_announcement_list(bse_announcements, "BSE", seen_ids)
+
+    nse_announcements = fetch_today_nse_announcements()
+    print(f"Fetched {len(nse_announcements)} total announcements from NSE today.")
+    nse_alerts, nse_alert_items = process_announcement_list(nse_announcements, "NSE", seen_ids)
+
+    new_alert_items.extend(nse_alert_items)
+    alerts_log.extend(new_alert_items)
+    alerts_log = save_alerts_log(alerts_log)
+    generate_dashboard(alerts_log)
+
+    save_seen_ids(seen_ids)
+    total_alerts = bse_alerts + nse_alerts
+    print(f"Sent {total_alerts} new alerts ({bse_alerts} BSE, {nse_alerts} NSE).")
+    timestamp = datetime.now().isoformat()
+    print(f"Scan complete at {timestamp}")
 
 
-
+run_scan()
 
