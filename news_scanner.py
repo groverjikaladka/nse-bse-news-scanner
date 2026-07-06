@@ -13,10 +13,16 @@
 
 import json
 import os
+import sys
 import requests
 from datetime import datetime
 from bse import BSE
 from nse import NSE
+
+print("Script started successfully")
+print(f"Python version: {sys.version}")
+print(f"TELEGRAM_BOT_TOKEN set: {bool(os.environ.get('TELEGRAM_BOT_TOKEN', ''))}")
+print(f"TELEGRAM_CHAT_ID set: {bool(os.environ.get('TELEGRAM_CHAT_ID', ''))}")
 
 # ---- CONFIG: token and chat ID are read from environment variables.
 # In GitHub Actions, these are securely injected from repository Secrets.
@@ -466,14 +472,7 @@ def run_scan():
 
     bse_announcements = fetch_today_announcements()
     print(f"Fetched {len(bse_announcements)} total announcements from BSE today.")
-    bse_alerts, new_alert_items = process_announcement_list(bse_announcements, "BSE", seen_ids)
-
-    nse_announcements = fetch_today_nse_announcements()
-    print(f"Fetched {len(nse_announcements)} total announcements from NSE today.")
-    nse_alerts, nse_alert_items = process_announcement_list(nse_announcements, "NSE", seen_ids)
-    
-
-
+    bse_alerts, new_alert_items = process_announcement_list(bse_announcements, "BS
     
 
 
