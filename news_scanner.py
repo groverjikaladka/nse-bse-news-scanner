@@ -127,8 +127,66 @@ def extract_key_details(text):
     return details
 
 
+def clean_company_name_for_search(name):
+    cleaned = re.sub(r'\b(ltd\.?|limited|pvt\.?|private|inc\.?|corp\.?|corporation)\b', '', name, flags=re.IGNORECASE)
+    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+    return cleaned
+
+
+def search_order_value_from_news(company_name):
+    try:
+        import xml.etree.ElementTree as ET
+        from urllib.parse import quote
+        import time
+        clean_name = clean_company_name_for_search(company_name)
+        query = quote(f'"{clean_name}" order crore')
+        url = f"https://news.google.com/rss/search?q={query}&hl=en-IN&gl=IN&ceid=IN:en"
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+        response = requests.get(url, headers=headers, timeout=8)
+        no_results = response.status_code != 200
+        if no_results:
+            return None
+        root = ET.fromstring(response.content)
+        items = root.findall(".//item")
+        money_patterns = [
+            r'rs\.?\s*[\d,]+(?:\.\d+)?\s*(?:crore|cr|lakh|lac)',
+            r'inr\s*[\d,]+(?:\.\d+)?\s*(?:crore|cr|lakh)',
+            r'[\d,]+(?:\.\d+)?\s*(?:crore|cr)\b',
+            r'usd\s*[\d,]+(?:\.\d+)?\s*(?:million|billion)',
+        ]
+        for item in items[:5]:
+            title = item.findtext("title", "")
+            desc = item.findtext("description", "")
+            combined = f"{title} {desc}".lower()
+            for pattern in money_patterns:
+                match = re.search(pattern, combined)
+                if match:
+                    return match.group(0).strip()
+        return None
+    except Exception:
+        return None
+
+
+def format_telegram_message_with_details(company, display_text, categories_str, source, details):
+    lines = []
+    lines.append(f"[{source}] <b>{company}</b>")
+    lines.append(f"Category: {categories_str}")
+    if "order_value" in details:
+        lines.append(f"Value: {details['order_value'].upper()}")
+    if "client" in details:
+        lines.append(f"Client: {details['client']}")
+    lines.append(f"\n{display_text[:600]}{'...' if len(display_text) > 600 else ''}")
+    return "\n".join(lines)
+
+
 def format_telegram_message(company, display_text, categories_str, source):
     details = extract_key_details(display_text)
+    is_order = "Order" in categories_str
+    no_value_found = "order_value" not in details
+    if is_order and no_value_found:
+        news_value = search_order_value_from_news(company)
+        if news_value:
+            details["order_value"] = news_value + " (via news)"
     lines = []
     lines.append(f"[{source}] <b>{company}</b>")
     lines.append(f"Category: {categories_str}")
@@ -265,7 +323,16 @@ def process_announcement_list(announcements, source_name, seen_ids):
         is_relevant = len(categories) > 0
         if is_relevant:
             categories_str = ", ".join(categories)
-            message = format_telegram_message(company, display_text, categories_str, source_name)
+            details = extract_key_details(display_text)
+            is_order = "Order" in categories_str
+            no_value_found = "order_value" not in details
+            enriched_value = None
+            if is_order and no_value_found:
+                news_value = search_order_value_from_news(company)
+                if news_value:
+                    enriched_value = news_value + " (via news)"
+                    details["order_value"] = enriched_value
+            message = format_telegram_message_with_details(company, display_text, categories_str, source_name, details)
             send_result = send_telegram_message(message)
             send_succeeded = send_result.get("ok", False)
             if send_succeeded:
@@ -273,10 +340,13 @@ def process_announcement_list(announcements, source_name, seen_ids):
                 seen_ids.add(ann_id)
                 from datetime import timedelta
                 ist_now = datetime.utcnow() + timedelta(hours=5, minutes=30)
+                display_with_value = display_text[:500]
+                if enriched_value:
+                    display_with_value = f"[Value: {enriched_value.upper()}] " + display_with_value
                 new_alert_items.append({
                     "date": ist_now.isoformat(),
                     "company": company,
-                    "text": display_text[:500],
+                    "text": display_with_value,
                     "categories": categories_str,
                     "source": source_name
                 })
@@ -485,4 +555,3 @@ def run_scan():
 
 
 run_scan()
-
