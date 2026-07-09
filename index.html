@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 09 Jul 2026, 04:01 PM IST</span>
+<span class="updated">Last updated: 09 Jul 2026, 04:20 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">109</div>
+<div class="stat-value">110</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">41</div>
+<div class="stat-value">42</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">09 Jul 2026, 04:20 PM</td>
+<td class="company">BOROSIL RENEWABLES LIMITED</td>
+<td class="text">The Exchange has sought clarification from BOROSIL RENEWABLES LIMITED with respect to recent news item captioned Borosil Renewables stock surges over 10% on report of strategic investment talks..  The response from the Company is attached.</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">09 Jul 2026, 03:34 PM</td>
 <td class="company">United Drilling Tools Ltd</td>
 <td class="text">[Value: 3.89 CRORE (VIA NEWS)] Press Release on order received from Trident East Ltd. Russia</td>
