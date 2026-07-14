@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-14T20:45:55.422588",
+    "company": "Digilogic Systems Ltd",
+    "text": "[Value: RS 1.60 CRORE (VIA NEWS)] The Company has received a purchase order from the Ministry of defense, Government of India",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-14T20:32:00.637533",
     "company": "The Jammu & Kashmir Bank Limited",
     "text": "The Jammu & Kashmir Bank Limited has informed the Exchange about Proposed Divestment of Stake in PNB MetLife India Insurance Company Limited",
@@ -1313,13 +1320,6 @@
     "company": "Chiraharit Ltd",
     "text": "[Value: 4.50 CRORE (VIA NEWS)] We wish to inform the Exchange that we received two purchase orders from Zetwerk Manufacturing Businesses Limited for Supply and Installation of Pipe and Fittings for Solar Module Cleaning System.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-07T15:15:51.928619",
-    "company": "Raunaq International Ltd",
-    "text": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"the Regulations\") we are pleased to inform you that the Company is in Receipt of work order(s) from Ambuja Cements Limited for:\r\na) Supply, Erection , Testing and Commissioning of Raw Water Pipeline and associated Equipment - ACL Maratha amounting Rs. 10.85 Crores; and \r\nb) Erection, testing and Commissioning of Raw Water Pipeline and associated Equipment - ACL Maratha amounting Rs. 7.25 C",
-    "categories": "Order/MoU/Contract, Capacity/Expansion",
     "source": "BSE"
   }
 ]
