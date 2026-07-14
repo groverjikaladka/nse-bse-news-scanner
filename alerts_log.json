@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-14T17:45:59.868538",
+    "company": "Nanta Tech Ltd",
+    "text": "[Value: 2.90 CRORE (VIA NEWS)] Enclosed herewith detailed disclosure for MOU entered by Company with Aimtron Technologies Private Limited and Press Release for the same",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-14T17:45:59.216670",
+    "company": "Nanta Tech Ltd",
+    "text": "[Value: 2.90 CRORE (VIA NEWS)] Enclosed herewith Press Release for MOU entered by Company with Aimtron Technologies Private Limited.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-14T16:15:55.877880",
     "company": "Easy Trip Planners Limited",
     "text": "[Value: RS 90.40 CRORE (VIA NEWS)] Easy Trip Planners Limited has informed the Exchange regarding a press release dated July 14, 2026, titled \"EaseMyTrip Signs Strategic MoU with Government of Jharkhand to Drive Digital Promotion of the State's Tourism\".",
@@ -1272,12 +1286,5 @@
     "text": "[Value: RS 58 CR (VIA NEWS)] We are pleased to inform you that the company has received a work order from the HDFC Bank Limited for Management Information System (MIS).",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-07-07T12:15:52.287271",
-    "company": "Texmaco Rail & Engineering Limited",
-    "text": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Award worth Rs. 70.72 Crores (incl. taxes) from Central Warehousing Corporation.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
