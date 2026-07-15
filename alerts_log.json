@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-15T15:45:51.786998",
+    "company": "Himadri Speciality Chemical Ltd",
+    "text": "Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we would like to inform you that the Board of the Company at its' meeting held today i.e. on 15 July 2026, inter-alia has considered and approved the following:\r\n\r\n1. Unaudited Financial Results (Consolidated & Standalone) for the quarter ended 30 June 2026 is enclosed as 'Annexure-I'.\r\n2. Capex of Rs 128 Crores for expanding the capacity ",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-15T15:45:51.257864",
+    "company": "Chiraharit Ltd",
+    "text": "[Value: 4.50 CRORE (VIA NEWS)] We wish to inform your esteemed organization that the Company has received a purchase order from Tata Power Renewable Energy Limited for Supply and Services for Borewell",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-15T14:45:55.241822",
     "company": "EMS Limited",
     "text": "[Value: 105.82 CRORE (VIA NEWS)] Ems Limited has informed the Exchange about Bagging/Receiving of orders/contracts, Receipt of Letter of Acceptance from UP Jal Nigam (Urban), Varanasi",
@@ -1257,20 +1271,6 @@
     "company": "Torrent Pharmaceuticals Ltd",
     "text": "Intimation of Effective Date of Scheme of Amalgamation of J. B. Chemicals & Pharmaceuticals Limited with Torrent Pharmaceuticals Limited and their respective shareholders",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-08T10:15:50.589660",
-    "company": "Marksans Pharma Limited",
-    "text": "[Value: INR 5,000 CRORE (VIA NEWS)] Marksans Pharma Limited has informed the Exchange regarding a press release dated July 08, 2026, titled \"Marksans Pharma signed a definitive agreement to acquire 100 percent share capital of a German based Company namely ABCnow GmbH\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-08T10:15:49.012899",
-    "company": "Marksans Pharma Ltd",
-    "text": "[Value: INR 5,000 CRORE (VIA NEWS)] Marksans Pharma signed a definitive agreement to acquire 100 percent share capital of  a German based Company namely ABCnow GmbH",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
