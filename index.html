@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 15 Jul 2026, 10:31 AM IST</span>
+<span class="updated">Last updated: 15 Jul 2026, 10:45 AM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">173</div>
+<div class="stat-value">175</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">83</div>
+<div class="stat-value">85</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">15 Jul 2026, 10:45 AM</td>
+<td class="company">Anupam Rasayan India Ltd</td>
+<td class="text">[Value: RS 1,369 CRORE (VIA NEWS)] Press Release Intimation titled "Anupam Rasayan signs Letter of Intent with BASQUEVOLT, S.A. for the potential long-term supply of a specialty chemical product worth ?300 Mn.</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract, Capacity/Expansion">
+<td class="date">15 Jul 2026, 10:45 AM</td>
+<td class="company">HBL Engineering Ltd-$</td>
+<td class="text">The Company has accepted an order worth Rs.24 Crores (Excluding 18% GST) from Integral Coach Factory (ICF), Chennai, for supply, installation, testing and commissioning of On-Board Kavach equipment (Ver 4.0). The order to be completed on or before March 31, 2028.</td>
+<td><span class="badge" style="background:#64748b">Order/MoU/Contract, Capacity/Expansion</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">15 Jul 2026, 10:31 AM</td>
 <td class="company">Sammaan Capital Limited</td>
 <td class="text">Sammaan Capital Limited has informed the Exchange regarding 'Pursuant to Regulation 29(1) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ( LODR Regulations ), this is to inform you that a meeting of the Securities Issuance and Investment Committee of the ...</td>
