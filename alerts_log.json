@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-16T19:31:59.920811",
+    "company": "Winsome Yarns Limited",
+    "text": "Winsome Yarns Limited has informed the Exchange that Record date for the purpose of  reduction/cancellation and extinguishment of the existing paid-up share capital of the Company in accordance with NCLT Order is 31-Jul-2026.",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-16T19:31:57.674058",
+    "company": "Suraj Industries Ltd",
+    "text": "[Value: RS. 14.85 CRORE (VIA NEWS)] Execution of Franchise Tie-Up Agreement.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-16T19:31:56.962140",
+    "company": "Suraj Industries Ltd",
+    "text": "[Value: RS. 14.85 CRORE (VIA NEWS)] Intimation",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-16T19:16:00.491968",
     "company": "Winsome Yarns Ltd",
     "text": "Intimation of Record Date pertaining to the reduction/cancellation and extinguishment of the existing paid-up share capital of the Company in accordance with NCLT Order",
@@ -1242,41 +1263,6 @@
     "date": "2026-07-09T14:45:54.491921",
     "company": "BPL Ltd",
     "text": "[Value: 1,323 CRORE (VIA NEWS)] Award of Order by NCLT,Kochi",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-09T14:01:37.312579",
-    "company": "BOROSIL RENEWABLES LIMITED",
-    "text": "The Exchange has sought clarification from BOROSIL RENEWABLES LIMITED with respect to recent news item captioned Borosil Renewables stock surges over 10% on report of strategic investment talks..  The response from the Company is awaited.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-09T13:50:58.070550",
-    "company": "Choice International Limited",
-    "text": "Execution of Definitive Transaction Agreements for Strategic Investment via Issuance of CCPS to NH Investment & Securities Co., Ltd. ( Investor ) by Choice Equity Broking Pvt. Ltd. a material subsidiary of Company, and disclosure of resulting dilution",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-09T13:50:57.585530",
-    "company": "Choice International Limited",
-    "text": "Execution of Definitive Transaction Agreements for Strategic Investment via Issuance of CCPS to NH Investment & Securities Co., Ltd. ( Investor ) by Choice Equity Broking Pvt. Ltd. a material subsidiary of Company, and disclosure of resulting dilution",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-09T13:50:56.272074",
-    "company": "Choice International Ltd",
-    "text": "Execution of Definitive Transaction Agreements for Strategic Investment via Issuance of CCPS to NH Investment & Securities Co. Ltd. (''Investor'') by Choice Equity Broking Pvt. Ltd. a material subsidiary of Company and disclosure of resulting dilution",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-09T13:50:55.790336",
-    "company": "Choice International Ltd",
-    "text": "[Value: 62.5 CR (VIA NEWS)] Execution of Definitive Transaction Agreements for Strategic Investments via issuance of CCPS to NH Investment & Securities Co. Ltd. (''Investor'') by Choice Equity Broking Priavte Limited, a material subsidiary of the Company, and disclosure of resulting dilution.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
