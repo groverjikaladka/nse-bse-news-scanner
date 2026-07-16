@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-16T18:15:53.606728",
+    "company": "Shardul Securities Ltd",
+    "text": "[Value: 131.55 CRORE (VIA NEWS)] Intimation under Regulations 30 and 30A, read with Schedule III of the SEBI (LODR) Regulations, 2015.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-16T17:31:47.176312",
     "company": "Gallard Steel Ltd",
     "text": "[Value: RS 10.6 CRORE (VIA NEWS)] Pursuant to  the Regulation 30 read with sub-clause 5 of Para Bof Part A of Schedule III of the SEBI (LODR) Regulation,2015 and our previous Corporate Announcements dated 25/06/2026.\r\n\r\nWe wish to inform you that the company has made an application for allotment of lease hold industrial land in Sector-7, Pithampur (M.P.) from the Madhya Pradesh Industrial Development Corporation.\r\n\r\nWe are pleased to inform that MPIDC , Regional Office of Indore has issued us a LOI for allotment of Plot no. A-09",
@@ -1236,20 +1243,6 @@
     "company": "Choice International Ltd",
     "text": "[Value: 62.5 CR (VIA NEWS)] Execution of Definitive Transaction Agreements for Strategic Investments via issuance of CCPS to NH Investment & Securities Co. Ltd. (''Investor'') by Choice Equity Broking Priavte Limited, a material subsidiary of the Company, and disclosure of resulting dilution.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-09T12:32:25.356059",
-    "company": "Sundrop Brands Limited",
-    "text": "Sundrop Brands Limited has informed the Exchange about approval by Board of Directors for Scheme of Amalgamation between Wholly-owned-subsidiaries",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-09T12:32:23.830076",
-    "company": "Sundrop Brands Ltd",
-    "text": "Intimation of approval by Board of Directors for Scheme of Amalgamation between Wholly-owned-subsidiaries",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
