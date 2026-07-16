@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-16T22:16:00.971208",
+    "company": "GRE Renew Enertech Ltd",
+    "text": "[Value: 224 CR (VIA NEWS)] Announcement under Regulation 30 (LODR)- Business update on orders received",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-16T20:15:56.813892",
     "company": "Jindal Photo Limited",
     "text": "Jindal Photo Limited has informed the Exchange about Voluntary Delisting",
@@ -1237,12 +1244,5 @@
     "text": "Godrej Properties Limited has informed the Exchange about Amalgamation/Merger",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-07-09T16:41:55.276900",
-    "company": "Godrej Properties Ltd",
-    "text": "Please find attached intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 for receipt of NCLT Order for approval of merger.",
-    "categories": "M&A/Corporate Action, Financial/Results",
-    "source": "BSE"
   }
 ]
