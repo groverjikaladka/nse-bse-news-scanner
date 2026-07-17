@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-07-17T17:45:58.975367",
+    "company": "Orbit Exports Limited",
+    "text": "Orbit Exports Limited has informed the Exchange about Letter of Offer",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-17T17:45:58.317067",
+    "company": "Ugro Capital Limited",
+    "text": "Intimation of filing of Company Application (Scheme of Amalgamation) before the Hon'ble National Company Law Tribunal , Mumbai Bench.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-17T17:45:56.475399",
+    "company": "Tips Music Ltd",
+    "text": "Tips Music Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 22/07/2026 ,inter alia, to consider and approve Unaudited Financial Results for the quarter ended June 30, 2026 and Proposal for Buyback of fully paid-up equity shares of the Company",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-17T17:45:55.821295",
+    "company": "Ugro Capital Ltd",
+    "text": "Intimation of filing of Company Application (Scheme of Amalgamation) before the Hon''ble National Company Law Tribunal, Mumbai Bench.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-17T17:45:55.178437",
+    "company": "Orbit Exports Ltd",
+    "text": "Submission of Letter of Offer for Buyback of Equity Shares of Orbit Exports Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-17T17:01:21.305169",
     "company": "MPS Limited",
     "text": "MPS Limited has informed the Exchange regarding the First Motion Order passed by the Honble National Company Law Tribunal, Chennai Bench, in relation to the Scheme of amalgamation of ADI BPO Services Limited with MPS Limited.",
@@ -1237,12 +1272,5 @@
     "text": "[Value: 205 CR (VIA NEWS)] ION Exchange (India) Limited has informed the Exchange that the Company has been awarded an international contract by Hyundai Engineering & Construction Co. Ltd.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-07-10T12:01:29.767184",
-    "company": "Ndr Auto Components Limited",
-    "text": "Ndr Auto Components Limited has informed the Exchange regarding 'Inauguration of new plant of wholly owned subsidiary'.",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
   }
 ]
