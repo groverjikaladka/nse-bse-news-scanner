@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 20 Jul 2026, 08:31 PM IST</span>
+<span class="updated">Last updated: 20 Jul 2026, 08:46 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">176</div>
+<div class="stat-value">177</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">102</div>
+<div class="stat-value">103</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Capacity/Expansion">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">20 Jul 2026, 08:45 PM</td>
+<td class="company">InterGlobe Aviation Ltd</td>
+<td class="text">[Value: RS. 458 CRORE (VIA NEWS)] Press Release titled ''IndiGo and CFM sign MoU paving the way to a record agreement for 1,000+ LEAP-1A engines''.</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
 <td class="date">20 Jul 2026, 08:01 PM</td>
 <td class="company">ACME Solar Holdings Ltd</td>
 <td class="text">Update on commissioning of Battery Energy Storage System (BESS) Project</td>
