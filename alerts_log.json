@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-20T22:31:27.734142",
+    "company": "Ambuja Cements Ltd",
+    "text": "Ambuja Cements Limited has informed the Exchange about the update in respect of Scheme of Amalgamation of Orient Cement Limited \"Transferor Company\" with Ambuja Cements Limited \"Transferee Company\".",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-20T21:45:58.147232",
     "company": "RITES Ltd",
     "text": "[Value: 79.22 CRORE (VIA NEWS)] Press release titled \"RITES & MECON sign MoU to explore business avenue\" dated 20.07.2026.",
@@ -1215,20 +1222,6 @@
     "company": "Bharat Electronics Ltd",
     "text": "BEL receives orders worthj Rs.572 Crore.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-13T17:01:41.606113",
-    "company": "Mercantile Ventures Ltd",
-    "text": "Regulation 42 - SEBI LODR - The record date is fixed on Friday, 24th July 2026, for the purpose of determining the eligible shareholders of India Radiators Limited (Transferor Company) to whom the equity shares of the Company would be allotted as per the share exchange ratio.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-13T17:01:41.047397",
-    "company": "India Radiators Ltd",
-    "text": "Regulation 42- SEBI(LODR) -The Record date is fixed on Friday, 24th July 2026 for the purpose of determining the eligible shareholders of the Company to whom equity shares would be allotted in Mercantile Ventures Limited (Transferee Company) as per the share exchange ratio.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
