@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-20T17:16:03.378347",
+    "company": "Tech Mahindra Ltd",
+    "text": "Tech Mahindra Limited has informed the Exchange regarding Scheme of Merger between Zen3 Infosolutions Private Limited, Tech Mahindra Enterprise Service Limited, Begig Private Limited and Tech Mahindra Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-20T17:01:10.903732",
     "company": "Orbit Exports Ltd",
     "text": "Submission of Corrigendum to the Letter of Offer for Buyback of Equity Shares of the Orbit Exports Limited",
@@ -1207,20 +1214,6 @@
     "date": "2026-07-13T14:15:51.444492",
     "company": "Magellanic Cloud Ltd",
     "text": "[Value: 6.93 CR (VIA NEWS)] Press Release on the Letter of Acceptance received by Provigil Surveillance Limited from South Central Railway, Vijayawada Division",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-13T11:31:45.415022",
-    "company": "Pace Digitek Limited",
-    "text": "[Value: 4,200 CRORE (VIA NEWS)] Pace Digitek Limited has informed the Exchange regarding a press release dated July 13, 2026, titled \"Memorandum of Understanding (MOU) with M/s. Bondada Renewable Energy Private Limited\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-13T11:31:43.987249",
-    "company": "Pace Digitek Ltd",
-    "text": "[Value: 4,200 CRORE (VIA NEWS)] Press release for memorandum of Understanding with Bondada Renewable Energy Private Limited.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
