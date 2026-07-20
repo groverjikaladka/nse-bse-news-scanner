@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 20 Jul 2026, 06:46 AM IST</span>
+<span class="updated">Last updated: 20 Jul 2026, 07:01 AM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">161</div>
+<div class="stat-value">162</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">99</div>
+<div class="stat-value">100</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">20 Jul 2026, 07:01 AM</td>
+<td class="company">VA Tech Wabag Ltd</td>
+<td class="text">[Value: 1,000 CRORE (VIA NEWS)] WABAG secures "Large'' Order inflow from BWSSB for Two Energy-Efficient Wastewater Treatment Facilities</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">19 Jul 2026, 12:31 PM</td>
 <td class="company">MPS Ltd</td>
 <td class="text">First Motion Order passed by the Hon''ble National Company Law Tribunal, Chennai Bench in relation to the Scheme of Amalgamation of ADI BPO Services Limited with MPS Limited.</td>
