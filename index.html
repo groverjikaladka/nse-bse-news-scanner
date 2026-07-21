@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 21 Jul 2026, 06:15 PM IST</span>
+<span class="updated">Last updated: 21 Jul 2026, 06:31 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">172</div>
+<div class="stat-value">174</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -58,7 +58,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">7</div>
+<div class="stat-value">9</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="Litigation/Regulatory Action">
+<td class="date">21 Jul 2026, 06:31 PM</td>
+<td class="company">Emami Paper Mills Limited</td>
+<td class="text">Emami Paper Mills Limited has informed the Exchange about General Updates - Disclosure regarding Demand-Cum-Show Cause Notice received from GST Authority.</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Litigation/Regulatory Action">
+<td class="date">21 Jul 2026, 06:31 PM</td>
+<td class="company">Emami Paper Mills Ltd</td>
+<td class="text">In compliance with the requirements of Regulation 30 and other applicable Regulations, if any, of the SEBI LODR, we hereby submit the disclosure regarding the Demand-Cum-Show Cause Notice received from GST Authority.</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">21 Jul 2026, 06:15 PM</td>
 <td class="company">Chiraharit Ltd</td>
 <td class="text">[Value: 4.50 CRORE (VIA NEWS)] Pursuant to the provisions of Regulation 30 of the SEBI (LODR) Regulations, 2015, we hereby inform your esteemed organisation regarding the amendment in purchase order reported on 9th April 2026, received through ICOMM Tele Limited.</td>
