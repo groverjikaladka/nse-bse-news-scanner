@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-22T20:16:00.220118",
+    "company": "Rubicon Research Limited",
+    "text": "Filing of Scheme of Merger of Kia Health Tech Private Limited (Wholly Owned Subsidiary) with Rubicon Research Limited   For Disclosure Purposes Only, in terms of the Exemption under Paragraph 4 of SEBI Master Circular No. SEBI/HO/CFD/POD-2/P/CIR/2023/93 dated June 20, 2023",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-22T20:15:58.629069",
+    "company": "Rubicon Research Ltd",
+    "text": "Filing of Scheme of Merger of KIA Health Tech Pvt Ltd (WOS) with Rubicon Research Limited - for Disclosure Purposes Only, in terms of the Exemption under Para 4 of SEBI Master circular No. SEBI/HO/CFD/POD-2/p/CIR/2023/93 dated June 20, 2023",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-22T19:16:05.451371",
     "company": "Saatvik Green Energy Ltd",
     "text": "[Value: RS 108.75 CRORE (VIA NEWS)] Receipt of the order",
@@ -1172,20 +1186,6 @@
     "date": "2026-07-15T15:45:51.257864",
     "company": "Chiraharit Ltd",
     "text": "[Value: 4.50 CRORE (VIA NEWS)] We wish to inform your esteemed organization that the Company has received a purchase order from Tata Power Renewable Energy Limited for Supply and Services for Borewell",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-15T14:45:55.241822",
-    "company": "EMS Limited",
-    "text": "[Value: 105.82 CRORE (VIA NEWS)] Ems Limited has informed the Exchange about Bagging/Receiving of orders/contracts, Receipt of Letter of Acceptance from UP Jal Nigam (Urban), Varanasi",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-15T14:45:53.012565",
-    "company": "EMS Ltd",
-    "text": "[Value: 105.82 CRORE (VIA NEWS)] In continuation to our intimation dated June 06, 2026, regarding Receipt of L 1 Status, we wish to inform about Receipt of Letter of Acceptance (LOA) from UP Jal Nigam (urban), Varanasi",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
