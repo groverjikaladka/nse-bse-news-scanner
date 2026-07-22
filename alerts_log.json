@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-22T16:08:50.501826",
+    "company": "Electrotherm (India) Limited",
+    "text": "Electrotherm (India) Limited has informed the Exchange regarding 'Update - NCLT Order - Issuance and allotment of Preference Shares under Section 55(3) of the Companies Act, 2013'.",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-22T16:08:49.412010",
+    "company": "Electrotherm (India) Ltd",
+    "text": "Update - NCLT Order - Issuance and allotment of Preference Shares under Section 55(3) of the Companies Act, 2013",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-22T16:08:48.909588",
+    "company": "Speciality Restaurants Ltd",
+    "text": "[Value: 7.87 CRORE (VIA NEWS)] Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), Regulations, 2015.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-22T15:15:56.831828",
     "company": "Talbros Engineering Ltd",
     "text": "[Value: 580 CRORE (VIA NEWS)] Company has entered into Formal Lease Agreement.",
@@ -1131,20 +1152,6 @@
     "company": "HBL Engineering Ltd-$",
     "text": "The Company has accepted an order worth Rs.24 Crores (Excluding 18% GST) from Integral Coach Factory (ICF), Chennai, for supply, installation, testing and commissioning of On-Board Kavach equipment (Ver 4.0). The order to be completed on or before March 31, 2028.",
     "categories": "Order/MoU/Contract, Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-15T10:31:43.275922",
-    "company": "Sammaan Capital Limited",
-    "text": "Sammaan Capital Limited has informed the Exchange regarding 'Pursuant to Regulation 29(1) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ( LODR Regulations ), this is to inform you that a meeting of the Securities Issuance and Investment Committee of the Company is scheduled to be held on or after July 20, 2026, inter alia, to consider, and if thought fit, approve the proposal for buyback of the USD denominated bonds, subject to applicable laws, regul",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-15T10:31:41.992133",
-    "company": "Sammaan Capital Ltd",
-    "text": "Pursuant to Regulation 29(1) of SEBI (LODR) Regulations, 2015, as amended, this is to inform you that a meeting of the Securities Issuance and Investment Committee of the Company is scheduled to be held on or after July 20, 2026, inter-alia, to consider and if thought fit, approve the proposal for buyback of the USD denominated Bonds, subject to applicable Laws, regulatory approvals, market conditions and terms of the respective issue documents.\r\n\r\nRefer attached PDF file for more details.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
