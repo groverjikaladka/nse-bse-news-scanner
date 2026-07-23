@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-23T17:45:54.430316",
+    "company": "Majestic Auto Ltd-$",
+    "text": "Details as per attachment enclosed.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-23T17:31:22.620100",
     "company": "Mercantile Ventures Ltd",
     "text": "Intimation regarding effectiveness of the Scheme of Amalgamation and filing of Form INC 28 on 23.07.2026.",
@@ -1138,20 +1145,6 @@
     "company": "Crystal Business System Ltd",
     "text": "Crystal Business System Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 21/07/2026 ,inter alia, to consider and approve 1. The Board will consider the proposal for Voluntary Delisting of Equity Shares from Metropolitan Stock Exchange of India Limited (MSEI).\r\n2. Any other matter with the permission of the Chairman.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-16T12:15:51.003506",
-    "company": "Arisinfra Solutions Limited",
-    "text": "Arisinfra Solutions Limited has informed the Exchange regarding a press release dated July 16, 2026, titled \"Arisinfra Bags &#8377;79.05 Crore Work Order for Mumbai's GMLR Twin Tunnel Project\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-16T12:15:49.586671",
-    "company": "ArisInfra Solutions Ltd",
-    "text": "Press Release titled \"Arisinfra Bags Rs. 79.05 Crore Work Order for Mumbai''s GMLR Twin Tunnel Project\"",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
