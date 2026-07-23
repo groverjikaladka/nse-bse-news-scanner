@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-23T20:16:09.428767",
+    "company": "RailTel Corporation of India Ltd",
+    "text": "New Order Received",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-23T19:46:01.254086",
     "company": "Blue Dart Express Ltd",
     "text": "[Value: RS 1,533.47 CRORE (VIA NEWS)] As per the attachment",
@@ -1180,13 +1187,6 @@
     "company": "Coal India Ltd",
     "text": "Please find the attached.",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-16T14:31:47.667270",
-    "company": "BCPL Railway Infrastructure Ltd",
-    "text": "[Value: 4.62 CRORE (VIA NEWS)] Please find attached the press release for emerging as the lowest bidder from Eastern Railway, contract/work order for which is yet to be received.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
