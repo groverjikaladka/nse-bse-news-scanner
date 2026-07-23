@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-23T19:46:01.254086",
+    "company": "Blue Dart Express Ltd",
+    "text": "[Value: RS 1,533.47 CRORE (VIA NEWS)] As per the attachment",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-23T19:46:00.052541",
+    "company": "JD Cables Ltd",
+    "text": "BSE Intimation is hereby given for the Work Order received by the Company on 23rd July 2026 by reputed Government and Private Entities for cables and conductors for a value of approx. Rs. 18 Crores (including GST)",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-23T19:01:23.984112",
     "company": "Gloster Ltd",
     "text": "Scheme of Amalgamation - for information of the Exchange",
@@ -1172,13 +1186,6 @@
     "date": "2026-07-16T14:31:47.667270",
     "company": "BCPL Railway Infrastructure Ltd",
     "text": "[Value: 4.62 CRORE (VIA NEWS)] Please find attached the press release for emerging as the lowest bidder from Eastern Railway, contract/work order for which is yet to be received.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-16T14:01:39.780733",
-    "company": "Artefact Projects Ltd",
-    "text": "[Value: RS 2.93 CR (VIA NEWS)] letter of Award",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
