@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-24T17:15:54.934042",
+    "company": "Sumeet Industries Limited",
+    "text": "Sumeet Industries Limited has informed the Exchange regarding a press release dated July 24, 2026, titled \"Sumeet Industries Limited Completes &#8377;199.75 Cr Rights Issue to Drive Capacity Expansion and Long-Term Growth\".",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-24T17:15:53.262538",
+    "company": "Takyon Networks Ltd",
+    "text": "[Value: RS 2.62 CR (VIA NEWS)] Kindly take this in your record.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-24T17:01:11.239670",
     "company": "Timken India Limited",
     "text": "[Value: RS 107.86 CRORE (VIA NEWS)] In furtherance to our earlier communication dated 18 May, 2026 regarding Amalgamation ofTimken GGB Technology Private Limited (a wholly owned subsidiary) with the Company, wewrite to inform you that National Company Law Tribunal (NCLT) has accepted first motionapplication for Scheme of Amalgamation amongst Timken India Limited and Timken GGBTechnology Private Limited and the Company is now in the process of submitting secondmotion application to NCLT.Copy of the Order received from NCLT is avail",
@@ -1158,20 +1172,6 @@
     "date": "2026-07-17T12:15:48.655938",
     "company": "Indobell Insulations Ltd",
     "text": "New Domestic Order Valuing Rs 15,660,960.00",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-17T11:45:51.929119",
-    "company": "Indobell Insulations Ltd",
-    "text": "New Domestic Order Valuing Rs 48,739,015.00",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-17T11:31:24.649660",
-    "company": "Indobell Insulations Ltd",
-    "text": "New Domestic Order valuing Rs 31,504,000.00",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
