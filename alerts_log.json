@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-24T22:06:23.836167",
+    "company": "Orient Technologies Ltd",
+    "text": "[Value: 76.20 CR (VIA NEWS)] Intimation under Reg 30 of SEBI (LODR) Regulations, 2015 pursuant to receipt of order .",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-24T21:01:37.032700",
     "company": "Lemon Tree Hotels Limited",
     "text": "Lemon Tree Hotels Limited has informed the Exchange about Awarding of order(s)/contract(s)- Extension of validity of Letter of Award received by Fleur Hotels Limited (Material Subsidiary) from Delhi Development Authority (\"DDA\") for Development and Operations of -Aurika, Nehru Place.",
@@ -1109,34 +1116,6 @@
     "date": "2026-07-17T16:45:52.088312",
     "company": "Jammu & Kashmir Bank Ltd",
     "text": "[Value: 120.10 CRORE (VIA NEWS)] Agreement of Sale",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-17T16:31:25.644064",
-    "company": "Ahasolar Technologies Ltd",
-    "text": "[Value: RS 7 CRORE (VIA NEWS)] Intimation of Receipt of Work Order Received.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-17T16:31:24.850968",
-    "company": "Jindal Photo Ltd",
-    "text": "Intimation of Postal Ballot Notice for Voluntary Delisting",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-17T16:01:21.743972",
-    "company": "Artson Ltd",
-    "text": "[Value: 0.40 CRORE (VIA NEWS)] Receipt of Letter of Intent for an Award - details enclosed.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-17T16:01:20.804787",
-    "company": "Ruby Mills Ltd",
-    "text": "[Value: RS 202 CRORE (VIA NEWS)] Registration of Cancellation Agreement",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
