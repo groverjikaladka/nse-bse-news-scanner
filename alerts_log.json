@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-27T23:01:26.629642",
+    "company": "Cipla Limited",
+    "text": "Cipla Limited has informed the Exchange regarding 'Cipla Receives U.S. FDA Approval for Generic Advair Diskus\u00ae'.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-27T23:01:25.338561",
+    "company": "Cipla Ltd",
+    "text": "Please find enclosed disclosure",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-27T22:45:59.857814",
     "company": "Hindalco Industries Limited",
     "text": "[Value: 27.82 CRORE (VIA NEWS)] Novelis Inc. a wholly owned subsidiary of the Company has announced entry into a Material Definitive Agreement.",
@@ -1074,13 +1088,6 @@
     "date": "2026-07-20T17:45:51.510386",
     "company": "Rubicon Research Ltd",
     "text": "1. Date of 27th AGM and Record date for payment of final dividend for FY 2025-26.\r\n2. Update on merger of KIA Health Tech Private Limited, WOS with Rubicon Research Ltd.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-20T17:16:03.378347",
-    "company": "Tech Mahindra Ltd",
-    "text": "Tech Mahindra Limited has informed the Exchange regarding Scheme of Merger between Zen3 Infosolutions Private Limited, Tech Mahindra Enterprise Service Limited, Begig Private Limited and Tech Mahindra Limited.",
     "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
