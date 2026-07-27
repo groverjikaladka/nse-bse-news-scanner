@@ -35,7 +35,8 @@ KEYWORDS = {
     "Order/MoU/Contract": [
         "order win", "bags order", "secures order", "wins order", "receives order",
         "order received", "new order", "award of order", "receipt of order",
-        "work awarded", "order awarded", "contract awarded",
+        "work awarded", "order awarded", "contract awarded", "export order",
+        "bags rs", "bags inr", "bags usd", "secures rs", "secures inr", "secures usd", "wins rs",
         "mou", "memorandum of understanding", "letter of award", "loa",
         "letter of acceptance", "letter of intent", "loi", "contract win",
         "awarded contract", "purchase order", "work order",
@@ -51,6 +52,14 @@ KEYWORDS = {
         "definitive acquisition", "completes acquisition", "announces acquisition",
         "merger", "amalgamation", "stake sale", "divestment",
         "joint venture agreement", "strategic investment", "delisting", "buyback"
+    ],
+    "Partnership/Certification": [
+        "partner program", "partnership agreement", "strategic partnership",
+        "authorized distributor", "authorized partner", "distributor designation",
+        "certification", "certified partner", "alliance agreement",
+        "preferred partner", "platinum partner", "gold partner",
+        "distributor agreement", "reseller agreement",
+        "collaboration agreement", "technology partnership"
     ],
     "Capacity/Expansion": [
         "capacity expansion", "new plant", "greenfield", "brownfield",
