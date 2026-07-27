@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-27T14:46:02.417267",
+    "company": "SBC Exports Ltd",
+    "text": "Work Order received from NICSI for an amount of Rs. 52,19,862/-.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-27T14:46:01.723949",
+    "company": "Larsen & Toubro Ltd",
+    "text": "L&T wins (Major*) Order for Residential, commercial Buildings & Factories Business",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-27T14:01:15.459459",
     "company": "Nitin Castings Ltd",
     "text": "Navigant Corporate Advisors Ltd (\"Manager to the Delisting Offer\") has submitted to BSE a copy of Detailed Public Announcement for the attention of Public Shareholders of Nitin Castings Ltd (\"Target Company\").",
@@ -1074,13 +1088,6 @@
     "date": "2026-07-20T10:16:04.216516",
     "company": "Lords Mark Industries Ltd",
     "text": "[Value: 500 CRORE (VIA NEWS)] Corporate announcement for work order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-20T09:15:51.453990",
-    "company": "Larsen & Toubro Ltd",
-    "text": "[Value: RS 20.81 CRORE (VIA NEWS)] L&T Wins Orders (Mega*) for Metals & Minerals Business",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
