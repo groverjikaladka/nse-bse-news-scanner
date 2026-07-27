@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-27T23:46:00.570900",
+    "company": "Ekam Leasing & Finance Company Ltd",
+    "text": "Voting Results and Scrutinizer''s Report, on the Resolution passed by the Shareholders, in the matter of Scheme of Amalgamation of the meeting convened and held on Friday, July 24, 2026, pursuant to the direction of Hon''ble NCLT, New Delhi Bench-III vide Order dated May 08, 2026.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-27T23:01:26.629642",
     "company": "Cipla Limited",
     "text": "Cipla Limited has informed the Exchange regarding 'Cipla Receives U.S. FDA Approval for Generic Advair Diskus\u00ae'.",
@@ -1061,13 +1068,6 @@
     "company": "Tatva Chintan Pharma Chem Ltd",
     "text": "Groundbreaking Ceremony (Bhoomi Pujan) at the new greenfield unit at Dahej - III, Dahej Industrial Estate, Taluka: Vagra, District: Bharuch, Gujarat, India.",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-20T18:16:01.044322",
-    "company": "KCP Sugar & Industries Corporation Ltd",
-    "text": "[Value: 111.31 CRORE (VIA NEWS)] Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
