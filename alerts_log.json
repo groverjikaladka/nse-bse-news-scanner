@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-28T14:15:57.773399",
+    "company": "Kratikal Tech Ltd",
+    "text": "Kratikal Tech Limited (\"The Company\")''s wholly owned Subsidiary in the United States, Threatcop AI Inc., has received an order from it first financial institution customer in the United States, valued at approximately USD 22,267.51 (Approx. Rs. 21,27,910/-).\r\n",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-28T13:45:48.763568",
     "company": "Coal India Ltd",
     "text": "Press Release on \"Coal India''s Capex Rises 16.64% in Q1 FY''27, Surpasses Quarterly Target",
@@ -1097,19 +1104,5 @@
     "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated July 21, 2026, titled \"Glenmark Receives U.S. FDA Approval to Expand the Use of RYALTRIS\u00ae Nasal Spray for Children Aged 6 to Less Than 12 Years\".",
     "categories": "Regulatory/Drug Approval",
     "source": "NSE"
-  },
-  {
-    "date": "2026-07-21T08:45:54.310740",
-    "company": "ACME Solar Holdings Ltd",
-    "text": "[Value: 2,800 CRORE (VIA NEWS)] Execution of Power Purchase Agreement",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-21T08:45:53.183455",
-    "company": "Glenmark Pharmaceuticals Ltd",
-    "text": "Glenmark receives U.S. FDA approval to expand the use of RYALTRIS Nasal Spray for Children aged 6 to less than 12 years",
-    "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
   }
 ]
