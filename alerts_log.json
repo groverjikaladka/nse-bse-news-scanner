@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-28T21:16:15.041330",
+    "company": "Max Estates Limited",
+    "text": "Max Estates Limited has informed the Exchange about the Show Cause Notice received in subsidiary Company.",
+    "categories": "Litigation/Regulatory Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-28T21:16:13.423835",
+    "company": "Max Estates Ltd",
+    "text": "Intimation for Show Cause Notice",
+    "categories": "Litigation/Regulatory Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-28T19:31:34.538302",
     "company": "Ind-Swift Laboratories Limited",
     "text": "[Value: 137.2 CRORE (VIA NEWS)] Execution of MOU for development of the Warehouse Facility of the Company",
@@ -1166,13 +1180,6 @@
     "company": "Crystal Business System Ltd",
     "text": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"LODR Regulations\"), we hereby inform you that in accordance with Regulation 6(1) of the SEBI (Delisting of Equity Shares) Regulations, 2021 ('Delisting Regulations'), the Board of Directors of CRYSTAL BUSINESS SYSTEM LIMITED ('the Company'), at its meeting held on Tuesday, 21st July, 2026, has considered and approved the proposal for voluntary delisting of the equity shares of the Company ",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-21T15:31:23.086734",
-    "company": "Takyon Networks Ltd",
-    "text": "This is to inform that company has received the order worth INR 261.86 lakhs from Indian Institute of Information Technology, Allahabad.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
