@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-29T21:02:30.562539",
+    "company": "Waaree Energies Limited",
+    "text": "Waaree Energies Limited has informed the Exchange about Commissioning of Project.",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-29T21:02:27.769170",
+    "company": "Waaree Energies Ltd",
+    "text": "Commissioning of Project.",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-29T20:32:41.029429",
     "company": "Zensar Technologies Limited",
     "text": "Zensar Technologies Limited has informed the Exchange about in-principle approval for Merger of the following US-based step-down subsidiary(ies) of the Company.",
@@ -1333,13 +1347,6 @@
     "date": "2026-07-22T16:08:48.909588",
     "company": "Speciality Restaurants Ltd",
     "text": "[Value: 7.87 CRORE (VIA NEWS)] Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), Regulations, 2015.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-22T15:15:56.831828",
-    "company": "Talbros Engineering Ltd",
-    "text": "[Value: 580 CRORE (VIA NEWS)] Company has entered into Formal Lease Agreement.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
