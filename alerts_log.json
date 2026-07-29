@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-29T17:31:25.999361",
+    "company": "Ameenji Rubber Ltd",
+    "text": "[Value: 19.97 CRORE (VIA NEWS)] Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 with respect to the Purchase Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-29T16:45:56.932280",
     "company": "Shyam Metalics and Energy Ltd",
     "text": "Commissioning of Beneficiation Plant",
@@ -1286,12 +1293,5 @@
     "text": "[Value: 3.44 CRORE (VIA NEWS)] Disclosure under Regulation 30 (LODR) - Receipt of Purchase Order from Southern Railway",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-07-22T12:01:07.992667",
-    "company": "Bharat Forge Limited",
-    "text": "[Value: 425 CRORE (VIA NEWS)] Bharat Forge Limited has informed the Exchange regarding a press release dated July 22, 2026, titled \"Bharat Forge And FLYING WHALES Sign Strategic MoU To Develop And Manufacture Heavy-Lift Airships For Sovereign Applications In India \".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
