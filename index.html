@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 29 Jul 2026, 06:46 PM IST</span>
+<span class="updated">Last updated: 29 Jul 2026, 07:01 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">187</div>
+<div class="stat-value">190</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">95</div>
+<div class="stat-value">96</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">57</div>
+<div class="stat-value">58</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,25 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Partnership/Certification">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">29 Jul 2026, 07:01 PM</td>
+<td class="company">SPEL Semiconductor Ltd</td>
+<td class="text">[Value: 1,000 CRORE (VIA NEWS)] The Board approved strategic tripatriate MOU with California Software company Limited and Natronix India Private Limited for collabaration in design, research and intellectual property creation for semi conductor chips , AI and related technology solutions</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">29 Jul 2026, 07:01 PM</td>
+<td class="company">Sandesh Ltd</td>
+<td class="text">Sandesh Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/08/2026 ,inter alia, to consider and approve Pursuant to Regulation 29 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('LODR'') ...</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
+<td class="date">29 Jul 2026, 07:01 PM</td>
+<td class="company">Eicher Motors Ltd</td>
+<td class="text">Capacity Addition - Greenfield expansion in Andhra Pradesh</td>
+<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Partnership/Certification">
 <td class="date">29 Jul 2026, 06:46 PM</td>
 <td class="company">Signatureglobal (India) Ltd</td>
 <td class="text">Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Company has entered into a Collaboration Agreement.</td>
