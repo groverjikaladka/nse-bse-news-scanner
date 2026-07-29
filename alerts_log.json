@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-29T18:46:14.108948",
+    "company": "Signatureglobal (India) Ltd",
+    "text": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Company has entered into a Collaboration Agreement.",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-29T18:46:13.624259",
+    "company": "Gail (India) Ltd",
+    "text": "[Value: 143 CRORE (VIA NEWS)] Please find enclosed a copy of Press Release on 'GAIL and RCF Sign MoU for Setting up Gas-Based Fertilizer Project in Maharashtra'.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-29T18:31:40.602623",
     "company": "GAIL (India) Limited",
     "text": "[Value: 143 CRORE (VIA NEWS)] GAIL (India) Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"GAIL and RCF Sign MoU for Setting up Gas-Based Fertilizer Project in Maharashtra\".",
@@ -1291,20 +1305,6 @@
     "date": "2026-07-22T13:45:57.265640",
     "company": "Oriental Rail Infrastructure Ltd",
     "text": "[Value: 1.62 CR (VIA NEWS)] Receipt of order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-22T13:15:54.627560",
-    "company": "Paras Defence and Space Technologies Limited",
-    "text": "Paras Defence And Space Technologies Limited has informed the Exchange regarding a press release dated July 22, 2026, titled \"Government of Madhya Pradesh and Paras Semiconductors Sign MoU for &#8377;6,200 Crore Semiconductor Facility\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-22T13:15:53.509560",
-    "company": "Ameenji Rubber Ltd",
-    "text": "[Value: 3.44 CRORE (VIA NEWS)] Disclosure under Regulation 30 (LODR) - Receipt of Purchase Order from Southern Railway",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
