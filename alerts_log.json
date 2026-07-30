@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-30T15:46:00.866697",
+    "company": "Garden Reach Shipbuilders & Engineers Ltd",
+    "text": "In terms of Regulation 30 and other applicable provisions of SEBI (LODR) Reg, 2015, we wish to inform you that the Company has received the Notification of Award (NOA) on 30 Jul 2026 for \"Construction of Four (04) Platform Service Vessels\" for Oil and Natural Gas Corporation Limited (ONGC) at a total value of ?1032.07 Crore.\r\n\r\nThe details of the order has been enclosed herewith.\r\n\r\nThis is for your information and record.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-30T15:31:23.658383",
     "company": "Oil India Ltd",
     "text": "[Value: RS 121.04 CRORE (VIA NEWS)] OIL signs MoU with MCD to establish Compressed Bio-Gas Plants based on Municipal Solid Waste in Delhi",
@@ -1306,20 +1313,6 @@
     "company": "PTC Industries Ltd",
     "text": "[Value: 1,800 CRORE (VIA NEWS)] As enclosed.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-23T10:15:49.085488",
-    "company": "Zydus Lifesciences Limited",
-    "text": "Zydus Lifesciences Limited has informed the Exchange regarding a press release dated July 23, 2026, titled \"Zydus receives approval for Phase III trial of Desidustat in patients with Sickle Cell Disease, to be conducted in collaboration with ICMR\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-23T10:15:47.585455",
-    "company": "Zydus Lifesciences Ltd",
-    "text": "Zydus receives approval for Phase III trial of Desidustat in patients with Sickle Cell Disease, to be conducted in collaboration with ICMR.",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
