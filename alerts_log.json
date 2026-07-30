@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-30T15:31:23.658383",
+    "company": "Oil India Ltd",
+    "text": "[Value: RS 121.04 CRORE (VIA NEWS)] OIL signs MoU with MCD to establish Compressed Bio-Gas Plants based on Municipal Solid Waste in Delhi",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-30T14:45:59.721703",
     "company": "Texmaco Rail & Engineering Ltd",
     "text": "Intimation of receipt of Order worth Rs. 0.74 Crore (incl. taxes) from South Western Railway",
@@ -1313,13 +1320,6 @@
     "company": "Zydus Lifesciences Ltd",
     "text": "Zydus receives approval for Phase III trial of Desidustat in patients with Sickle Cell Disease, to be conducted in collaboration with ICMR.",
     "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-23T09:45:46.287397",
-    "company": "Bharat Forge Ltd",
-    "text": "Divestment of Stake held in Joint Venture",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
