@@ -1321,19 +1321,5 @@
     "text": "New Order Received",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-07-23T19:46:01.254086",
-    "company": "Blue Dart Express Ltd",
-    "text": "[Value: RS 1,533.47 CRORE (VIA NEWS)] As per the attachment",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-23T19:46:00.052541",
-    "company": "JD Cables Ltd",
-    "text": "BSE Intimation is hereby given for the Work Order received by the Company on 23rd July 2026 by reputed Government and Private Entities for cables and conductors for a value of approx. Rs. 18 Crores (including GST)",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
