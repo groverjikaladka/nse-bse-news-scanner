@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-30T16:46:09.025697",
+    "company": "Refex Industries Limited",
+    "text": "[Value: 73.39 CRORE (VIA NEWS)] Refex Industries Limited bags order for Rate Contract for Ash Transportation to Road Construction Sites",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-07-30T16:46:07.462694",
+    "company": "Refex Industries Ltd",
+    "text": "[Value: 73.39 CRORE (VIA NEWS)] Refex Industries Limited bags order for Rate Contract for Ash Transportation to Road Construction Sites.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-30T16:31:20.598504",
     "company": "Thermax Ltd",
     "text": "Thermax Limited has informed the Exchanges that the Board of Directors at their meeting held on July 30, 2026 have approved the proposed Scheme of Arrangement and Amalgamation between Thermax Bioenergy Solutions Private Limited (Demerged Company) and Thermax Cooling Solutions Limited (Transferor Company) and Thermax Limited (\"Resulting Company\" or \"Transferee Company\") and their respective shareholders, subject to requisite statutory and regulatory approvals.",
@@ -1327,13 +1341,6 @@
     "company": "Manaksia Coated Metals & Industries Ltd",
     "text": "Please find enclosed the newspaper publication of notice of petition in Form No. NCLT -3A,  regarding merger.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-23T11:15:51.066349",
-    "company": "PTC Industries Ltd",
-    "text": "[Value: 1,800 CRORE (VIA NEWS)] As enclosed.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
