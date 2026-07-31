@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 31 Jul 2026, 05:45 PM IST</span>
+<span class="updated">Last updated: 31 Jul 2026, 06:01 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">206</div>
+<div class="stat-value">209</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">105</div>
+<div class="stat-value">106</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">57</div>
+<div class="stat-value">59</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,25 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">31 Jul 2026, 06:01 PM</td>
+<td class="company">Rolex Rings Limited</td>
+<td class="text">Rolex Rings Limited has informed the Exchange about Extinguishment of Equity shares pursuant to Buyback</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">31 Jul 2026, 06:01 PM</td>
+<td class="company">Rolex Rings Ltd</td>
+<td class="text">Completion of Extinguishment 10,000,000 (One Crore) Equity Shares of the company pursuant to the Buyback</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract, Capacity/Expansion">
+<td class="date">31 Jul 2026, 06:01 PM</td>
+<td class="company">Chiraharit Ltd</td>
+<td class="text">[Value: RS 1.72 CRORE (VIA NEWS)] We hereby inform you that Chiraharit Limited has received two purchase orders from SAEL Industries Limited for Suppy, Installation, Testing & Commissioning of PV Module Cleaning System.</td>
+<td><span class="badge" style="background:#64748b">Order/MoU/Contract, Capacity/Expansion</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">31 Jul 2026, 05:45 PM</td>
 <td class="company">IIRM Holdings India Ltd</td>
 <td class="text">Execution of Investment Agreements details as per the attached file.</td>
