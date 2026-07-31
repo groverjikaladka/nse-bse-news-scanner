@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-07-31T19:31:35.174760",
+    "company": "TCC Concept Ltd",
+    "text": "TCC Concept Limited has informed the exchange about the Merger.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-07-31T19:31:34.609465",
+    "company": "CESC Ltd",
+    "text": "Scheme of Amalgamation of RPSG Energy Services Limited with Purvah Green Power Private Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-31T19:01:17.836479",
     "company": "Powerica Ltd",
     "text": "[Value: 320 CRORE (VIA NEWS)] Execution of Power Purchase Agreement",
@@ -1439,34 +1453,6 @@
     "company": "Veerhealth Care Ltd",
     "text": "The Company wishes to announce that it has received a significant Export Order of Rs. 1573992 for supply of Gripe Water from an established buyer based at Sudan",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-24T14:01:09.952198",
-    "company": "Godawari Power And Ispat limited",
-    "text": "Godawari Power And Ispat limited has informed the Exchange regarding Outcome of Board Meeting held on July 24, 2026 for partial divestment of investment in Jammu Pigments Limited.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-24T14:01:09.454404",
-    "company": "Godawari Power And Ispat limited",
-    "text": "Godawari Power And Ispat limited has informed the Exchange about partial divestment of investment in Jammu Pigments Limited.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-24T14:01:08.226488",
-    "company": "Godawari Power and Ispat Ltd",
-    "text": "Please find attached herewith the Outcome of Board Meeting pertaining to approval for partial divestment of investment in Jammu Pigments Limited.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-24T14:01:07.612126",
-    "company": "Godawari Power and Ispat Ltd",
-    "text": "Please find attached herewith intimation of partial divestment in Jammu Pigments Limited.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
