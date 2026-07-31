@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-31T17:01:19.873606",
+    "company": "TV Vision Ltd",
+    "text": "[Value: 10.72 CRORE (VIA NEWS)] Intimation of receipt of Order Admitting application filed by Financial Creditor under Section 7 of the Insolvency and Bankruptcy Code, 2016",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-07-31T16:45:59.070069",
     "company": "PPAP Automotive Ltd",
     "text": "Update on merger of Avinya Batteries Limited, wholly owned subsidiary with PPAP Automotive Limited",
@@ -1438,13 +1445,6 @@
     "date": "2026-07-24T11:45:51.595085",
     "company": "RMC Switchgears Ltd",
     "text": "RMC SWITCHGEARS LIMITED RECEIVES ORDER WORTH RS. 28,447,125/-",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-24T11:31:16.442818",
-    "company": "RMC Switchgears Ltd",
-    "text": "RMC SWITCHGEARS LIMITED recieves order worth Rs. 50,172,500/-",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
