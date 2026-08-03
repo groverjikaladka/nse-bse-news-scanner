@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-03T20:16:04.545641",
+    "company": "Sab Events & Governance Now Media Limited",
+    "text": "Members of the Exchange are hereby informed that the trading in equity shares of Sab Events & Governance Now Media Limited shall be suspended w.e.f. August 05, 2026, on account of Reduction of Share Capital pursuant to NCLT order.",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-03T20:01:28.617677",
     "company": "Allied Blenders and Distillers Ltd",
     "text": "Update on Scheme of Amalgamation (Merger by Absorption)",
@@ -1516,20 +1523,6 @@
     "company": "Om Freight Forwarders Ltd",
     "text": "Commencement of commercial operations pursuant to capacity expansion in warehousing.",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-27T14:46:02.417267",
-    "company": "SBC Exports Ltd",
-    "text": "Work Order received from NICSI for an amount of Rs. 52,19,862/-.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-27T14:46:01.723949",
-    "company": "Larsen & Toubro Ltd",
-    "text": "L&T wins (Major*) Order for Residential, commercial Buildings & Factories Business",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
