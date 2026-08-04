@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-04T17:01:26.702758",
+    "company": "Associated Ceramics Ltd",
+    "text": "Voluntary Delisting from The Calcutta Stock Exchange Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-04T16:18:51.369132",
     "company": "Escorts Kubota Limited",
     "text": "Escorts Kubota Limited has informed the Exchange about Groundbreaking Ceremony of Greenfield Manufacturing Facility of the Company at YEIDA Industrial Area, Uttar Pradesh",
@@ -1529,13 +1536,6 @@
     "date": "2026-07-28T12:01:00.383310",
     "company": "Dilip Buildcon Ltd",
     "text": "Dilip Buildcon Limited has been declared as L-1 bidder for the project 'Construction of Sikasar to Kodar Reservoir Link Canal (Pipeline) on Lump-sum mode order worth Rs. 2524.32 Crores.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-28T11:31:18.280039",
-    "company": "Icon Facilitators Ltd",
-    "text": "Intimation of receipt of order for Technical Services",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
