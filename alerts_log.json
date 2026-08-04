@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-04T09:45:47.451714",
+    "company": "Larsen & Toubro Ltd",
+    "text": "[Value: RS 4,123 CR (VIA NEWS)] L&T Wins Ultra-Mega* Order from ADNOC Offshore",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-04T09:45:46.546721",
+    "company": "Rajesh Power Services Ltd",
+    "text": "[Value: 864.8 CRORE (VIA NEWS)] Intimation of order received from Paschim Gujarat Vij Company Limited (PGVCL).",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-04T09:01:12.373729",
     "company": "Cipla Limited",
     "text": "Update on USFDA inspection at InvaGen manufacturing facility in Hauppauge, Long Island, New York, USA",
