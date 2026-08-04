@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-04T22:01:12.608845",
+    "company": "Ventive Hospitality Ltd",
+    "text": "Merger of Sun Leisure (India) Private Limited into Soham Leisure Ventures Private Limited under Regulation 30 of the SEBI (LODR) Regulations, 2015.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-04T19:16:17.630861",
     "company": "Rajesh Power Services Ltd",
     "text": "[Value: 363 CRORE (VIA NEWS)] Press Release for Order received from Paschim Gujarat Vij Company limited (PGVCL).",
@@ -1501,34 +1508,6 @@
     "date": "2026-07-28T17:01:07.321834",
     "company": "Deccan Gold Mines Ltd",
     "text": "[Value: 405 CRORE (VIA NEWS)] Press Release titled \" Deccan Gold Mines Signs Startegic MoU with CSIR-CECRI to Advance Critical Minerals Processing and Battery Materials Research.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-28T16:01:11.267342",
-    "company": "Velox Shipping and Logistics Ltd",
-    "text": "[Value: 5 CRORE (VIA NEWS)] The Company has signed an amendment agreement to the agreement dated 24th June, 2026 for investment in Divinus Express Logistics Private Limited.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-28T15:45:54.343056",
-    "company": "Velox Shipping and Logistics Ltd",
-    "text": "[Value: 5 CRORE (VIA NEWS)] The Company has signed and executed an amendment agreement to the agreement signed on 25th June, 2026 for investment with Seaman Logistics Private Limited.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-28T15:16:26.471209",
-    "company": "Chiraharit Ltd",
-    "text": "[Value: 4.50 CRORE (VIA NEWS)] We wish to inform your esteemed organization that the Company has received a Purchase Order from Eagle Agrotech Tanzania Limited for Supply and installation of Center Pivot Irrigation System.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-28T14:15:57.773399",
-    "company": "Kratikal Tech Ltd",
-    "text": "Kratikal Tech Limited (\"The Company\")''s wholly owned Subsidiary in the United States, Threatcop AI Inc., has received an order from it first financial institution customer in the United States, valued at approximately USD 22,267.51 (Approx. Rs. 21,27,910/-).\r\n",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
