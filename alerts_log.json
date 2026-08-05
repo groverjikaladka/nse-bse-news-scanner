@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-05T16:02:10.194601",
+    "company": "Amrutanjan Health Care Ltd-$",
+    "text": "Commissioning of New Manufacturing Facility",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-05T16:02:09.665838",
+    "company": "Adani Power Ltd",
+    "text": "Adani Power Limited has informed the Exchange about update on the Scheme of Amalgamation",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-05T16:02:09.021862",
+    "company": "Interarch Building Solutions Ltd",
+    "text": "[Value: 102 CRORE (VIA NEWS)] Intimation under Regulation 30 of the SEBI(LODR) Regulations, 2015 ,regarding receipt of an Order.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-05T16:02:07.875624",
+    "company": "TVS Motor Company Ltd",
+    "text": "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Composite Scheme of Amalgamation amongst Home Credit India Finance Private Limited and STPL Trading and Services Private Limited and TVS Housing Finance Private Limited and TVS Credit Services Limited and their respective shareholders",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-05T13:31:12.954032",
     "company": "Narendra Properties Ltd",
     "text": "We wish to inform you that the Board of Directors of our Company have, at their meeting held at short notice on 5TH AUGUST 2026, and approved / taken on record the following:\r\n\r\n1. To enter into a Limited Liability Partnership Agreement with M/s. Solidus Developers LLP and invest a sum not exceeding Rs. 3,75,00,000/- (Rupees Three Crore Seventy-Five Lakhs only).\r\n\r\n2. To enter into a Limited Liability Partnership Agreement with M/s. Sugal Earthen Spaces Developers LLP and invest a sum not exceed",
@@ -1482,40 +1510,5 @@
     "text": "[Value: RS 126 CRORE (VIA NEWS)] Agreement with K Globes Digital Media Private Limited",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-07-29T10:31:20.526235",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: RS. 6.93 CRORE (VIA NEWS)] Magellanic Cloud Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"Submission of Press Release on the Intimation Regarding Purchase Order Received from Google LLC.\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-29T09:45:56.002274",
-    "company": "Larsen & Toubro Ltd",
-    "text": "[Value: RS 4,123 CR (VIA NEWS)] L&T Wins Major* Order from Kuwait Oil Company for Hydrocarbon Onshore Business",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-29T09:31:14.691719",
-    "company": "Magellanic Cloud Ltd",
-    "text": "[Value: RS. 6.93 CRORE (VIA NEWS)] Attached Herewith Intimation regarding Purchase Order Received from Google LLC.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-29T09:15:53.032372",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: RS. 6.93 CRORE (VIA NEWS)] Magellanic Cloud Limited has informed the Exchange regarding 'Intimation Regarding Purchase Order Received from Google LLC'.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-29T09:01:08.614475",
-    "company": "Shyam Metalics and Energy Limited",
-    "text": "Shyam Metalics And Energy Limited has informed the Exchange regarding a press release dated July 29, 2026, titled \"SHYAM METALICS AND ENERGY LIMITED ANNOUNCES COMMISSIONING OF NEW 1.5 MTPA BENEFICIATION PLANT\".",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
   }
 ]
