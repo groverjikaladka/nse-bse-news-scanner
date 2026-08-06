@@ -46,7 +46,7 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 06 Aug 2026, 03:31 PM IST</span>
+<span class="updated">Last updated: 06 Aug 2026, 03:45 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
@@ -54,15 +54,15 @@ tr.hidden { display: none; }
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">106</div>
+<div class="stat-value">107</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">21</div>
+<div class="stat-value">19</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">57</div>
+<div class="stat-value">58</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">06 Aug 2026, 03:45 PM</td>
+<td class="company">Ekam Leasing & Finance Company Ltd</td>
+<td class="text">Intimation of Filing of  2nd Motion Application with NCLT New Delhi Bench, in connection with Scheme of Amalgamation.</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">06 Aug 2026, 03:45 PM</td>
+<td class="company">CESC Ltd</td>
+<td class="text">[Value: 250 CRORE (VIA NEWS)] Letter is attached.</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">06 Aug 2026, 03:31 PM</td>
 <td class="company">Jayshree Chemicals Ltd</td>
 <td class="text">[Value: RS 6.56 CRORE (VIA NEWS)] In continuation of our letter dated 05.08.2026- Receipt of Award or Order, please find enclosed herewith the updates in the matter of Arbitration (Arbitration (P) No. 61 of 2024)</td>
@@ -1347,18 +1359,6 @@ These orders reaffirm the confidence reposed by our customers in the Comp...</td
 <td class="company">Jindal Drilling & Industries Ltd</td>
 <td class="text">[Value: 1,369 CRORE (VIA NEWS)] Award received from Oil & Natural Gas Corporation Ltd (ONGC)</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="Regulatory/Drug Approval">
-<td class="date">30 Jul 2026, 10:15 AM</td>
-<td class="company">Wanbury Limited</td>
-<td class="text">Wanbury Limited has informed the Exchange regarding a press release dated July 30, 2026, titled "Fully Compliant - No DMF deficiency letter received from the office of USFDA for multiple ANDAs".</td>
-<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr data-category="Regulatory/Drug Approval">
-<td class="date">30 Jul 2026, 10:15 AM</td>
-<td class="company">Wanbury Ltd</td>
-<td class="text">Press Release - No DMF deficiency letter received from the office of USFDA for multiple ANDAs</td>
-<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
 <td><span class="source">BSE</span></td>
 </tr></tbody>
 </table>

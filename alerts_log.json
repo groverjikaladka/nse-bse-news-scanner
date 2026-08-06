@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-06T15:45:57.124519",
+    "company": "Ekam Leasing & Finance Company Ltd",
+    "text": "Intimation of Filing of  2nd Motion Application with NCLT New Delhi Bench, in connection with Scheme of Amalgamation.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-06T15:45:56.461190",
+    "company": "CESC Ltd",
+    "text": "[Value: 250 CRORE (VIA NEWS)] Letter is attached.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-06T15:31:26.709350",
     "company": "Jayshree Chemicals Ltd",
     "text": "[Value: RS 6.56 CRORE (VIA NEWS)] In continuation of our letter dated 05.08.2026- Receipt of Award or Order, please find enclosed herewith the updates in the matter of Arbitration (Arbitration (P) No. 61 of 2024)",
@@ -1467,20 +1481,6 @@
     "company": "Jindal Drilling & Industries Ltd",
     "text": "[Value: 1,369 CRORE (VIA NEWS)] Award received from Oil & Natural Gas Corporation Ltd (ONGC)",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-30T10:15:51.963681",
-    "company": "Wanbury Limited",
-    "text": "Wanbury Limited has informed the Exchange regarding a press release dated July 30, 2026, titled \"Fully Compliant - No DMF deficiency letter received from the office of USFDA for multiple ANDAs\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-30T10:15:50.132988",
-    "company": "Wanbury Ltd",
-    "text": "Press Release - No DMF deficiency letter received from the office of USFDA for multiple ANDAs",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
