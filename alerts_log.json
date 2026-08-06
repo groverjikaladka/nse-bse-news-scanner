@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-06T18:23:51.560519",
+    "company": "Ansal Housing Ltd-$",
+    "text": "[Value: 6 CRORE (VIA NEWS)] Please find enclosed the intimation regarding order received from the Adjudicating Authority",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-06T18:23:50.455163",
+    "company": "RailTel Corporation of India Ltd",
+    "text": "New Order Received",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-06T17:32:43.768160",
     "company": "J. Kumar Infraprojects Ltd",
     "text": "We are pleased to inform you that the Company is in receipt of the \"Letter of Acceptance\" from Karnataka Housing Board for \"Design, Engineering, Procurement and Construction of International Cricket Stadium and Allied Development Works at Suryanagara, 4th Phase KHB Layout, Indlawadi Village, Anekal Taluk, Bengaluru, Urban District, Karnataka (EPC- Mode- I) for the total contract cost amounting to Rs. 990,16,12.700/- (Rupees Nine Hundred Ninety Crores Sixteen Lakhs Twelve Thousand and Seven Hundr",
@@ -1487,20 +1501,6 @@
     "date": "2026-07-30T14:16:23.803585",
     "company": "Texmaco Rail & Engineering Limited",
     "text": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Order worth Rs. 0.74 Crores (incl. taxes) from South Western Railway",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-30T12:31:26.984709",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: RS 1.21 CRORE (VIA NEWS)] Magellanic Cloud Limited has informed the Exchange regarding a press release dated July 30, 2026, for the Press Release regarding Wholly owned Subsidiary of Magellanic Cloud Limited Provigil Surveillance limited securing purchase order from GAIL India.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-30T12:15:56.535060",
-    "company": "Magellanic Cloud Limited",
-    "text": "Magellanic Cloud Limited has informed the Exchange regarding 'Magellanic Cloud Limited wholly owned subsidiary Provigil Surveillance received Purchase order from GAIL India'.",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
   }
