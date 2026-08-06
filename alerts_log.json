@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-06T16:32:17.941398",
+    "company": "Alkem Laboratories Limited",
+    "text": "Alkem Laboratories Limited has informed the Exchange about Update on US FDA Inspection at Company s manufacturing facility located at Amaliya, Daman",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-06T16:16:46.199641",
     "company": "Powerica Ltd",
     "text": "[Value: 320 CRORE (VIA NEWS)] Receipt of Letter of Award for Wind Power Project",
@@ -1480,13 +1487,6 @@
     "date": "2026-07-30T11:31:20.457717",
     "company": "B.R.Goyal Infrastructure Ltd",
     "text": "[Value: RS 118 CRORE (VIA NEWS)] Receipt of LOA from Uttar Pradesh Expressways Industrial Development Authority for collection of user fees and O & M of Toll Plazas along Bundelkhand Expressway.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-30T11:01:09.838951",
-    "company": "Jindal Drilling & Industries Ltd",
-    "text": "[Value: 1,369 CRORE (VIA NEWS)] Award received from Oil & Natural Gas Corporation Ltd (ONGC)",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
