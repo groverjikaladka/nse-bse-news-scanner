@@ -1,5 +1,96 @@
 [
   {
+    "date": "2026-08-07T23:34:03.983847",
+    "company": "Rossell Techsys Ltd",
+    "text": "[Value: 154.71 CRORE (VIA NEWS)] Receipt of order from Semiconductor customer",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:34:03.033513",
+    "company": "Aurum PropTech Ltd",
+    "text": "Aurum Proptech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/08/2026 ,inter alia, to consider and approve the updated Audited Financial Results (Standalone and Consolidated) of the Company for the quarter and financial year ended March 31, 2026 consequent to the Scheme of Merger of Aurum Softwares and Solutions Private Limited with Liv Real Solutions Private Limited, both wholly owned subsidiaries of the Company.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:34:02.449586",
+    "company": "Atishay Ltd",
+    "text": "The Company has been awarded a new Work Order from The Barmer Central Co Operative Bank Ltd, Barmer for Supply of Micro ATMs, Order Value Rs. 32.90 lakhs",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:34:01.867265",
+    "company": "Fujiyama Power Systems Ltd",
+    "text": "Fujiyama Power Systems Limited has informed the Exchange regarding a press release, titled \" Commissioning of 2 GW Power Electronics Manufacturing Facility at Ratlam\"",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:34:01.320759",
+    "company": "RITES Ltd",
+    "text": "[Value: 10,000 CRORE (VIA NEWS)] Press Release titled \"RITES & HPCL sign MoU for rail infra consultancy\"",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:34:00.372382",
+    "company": "Pradeep Metals Ltd",
+    "text": "Press release on the 43rd Annual General Meeting and an update on Setting up of Greenfield Manufacturing Facility at Butibori, Nagpur",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:33:59.808806",
+    "company": "SIS Ltd",
+    "text": "Submission of a public announcement dated August 6, 2026, for the buyback of fully paid-up equity shares of face value of ?5/- each by SIS Limited from the open market route.\r\n",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:33:59.286515",
+    "company": "SEPC Ltd",
+    "text": "[Value: 855 CRORE (VIA NEWS)] SEPC update on its earlier submission of order received and cancelled from TCIL - Detailed Letter Enclosed",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:33:58.322337",
+    "company": "MPS Ltd",
+    "text": "Completion of the Merger of American Journal Experts, LLC, Delaware, with and into MPS North America LLC.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:33:57.796862",
+    "company": "Lemon Tree Hotels Ltd",
+    "text": "The Board of Directors has approved the execution of a Joint Venture Agreement between Carnation Hotels Private Limited, wholly owned subsidiary of the Company and RJ Corp Limited in respect of Arum Hotels Private Limited, the Special Purpose Vehicle established for the development and execution of the Aurika Shillong Project.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:33:57.270367",
+    "company": "Universal Cables Ltd",
+    "text": "Disclosure under Regulation 30 SEBI(LODR) Regulation, 2015 regarding proposed Capacity Expansion",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:33:56.779305",
+    "company": "Transworld Shipping Lines Ltd",
+    "text": "[Value: RS 29.51 CRORE (VIA NEWS)] Signing of Memorandum of Agreement",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T23:33:56.249304",
+    "company": "Transworld Shipping Lines Ltd",
+    "text": "[Value: RS 29.51 CRORE (VIA NEWS)] Signing of Memorandum of Agreement",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-07T22:46:00.326605",
     "company": "Universal Cables Limited",
     "text": "Universal Cables Limited has informed the Exchange about Capacity Expansion.",
@@ -1432,27 +1523,6 @@
     "company": "Bharat Electronics Ltd",
     "text": "Press Release: BEL receives order worth Rs.847 Crore.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-31T18:01:19.408968",
-    "company": "Rolex Rings Limited",
-    "text": "Rolex Rings Limited has informed the Exchange about Extinguishment of Equity shares pursuant to Buyback",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-07-31T18:01:17.992248",
-    "company": "Rolex Rings Ltd",
-    "text": "Completion of Extinguishment 10,000,000 (One Crore) Equity Shares of the company pursuant to the Buyback",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-07-31T18:01:17.356931",
-    "company": "Chiraharit Ltd",
-    "text": "[Value: RS 1.72 CRORE (VIA NEWS)] We hereby inform you that Chiraharit Limited has received two purchase orders from SAEL Industries Limited for Suppy, Installation, Testing & Commissioning of PV Module Cleaning System.",
-    "categories": "Order/MoU/Contract, Capacity/Expansion",
     "source": "BSE"
   }
 ]
