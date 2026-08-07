@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-07T16:16:28.573385",
+    "company": "Haryana Financial Corporation Ltd",
+    "text": "VC Corporate Advisors Pvt Ltd (\"Manager to the Delisting Offer\") has submitted to BSE a copy of Initial Public Announcement under Regulation 8 of the Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021 and subsequent amendments thereto (\"Delisting Regulations\") for the attention of the Public Shareholders of Haryana Financial Corporation Ltd (\"HFC\"/\"Corporation\").",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-07T16:01:32.063071",
     "company": "Panabyte Technologies Ltd",
     "text": "[Value: 4.91 CRORE (VIA NEWS)] We are pleased to inform that the Company has received a contract work order for Supply, Installation, Testing and Commissioning (SITC) of Access Control System at an establishment located in Kota, Rajasthan, under the Department of Atomic Energy, Central Government of India.",
@@ -1545,12 +1552,5 @@
     "text": "Lupin Limited has informed the Exchange regarding a press release dated July 31, 2026, titled \"Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection\".",
     "categories": "Regulatory/Drug Approval",
     "source": "NSE"
-  },
-  {
-    "date": "2026-07-31T10:45:48.841390",
-    "company": "EMS Ltd",
-    "text": "[Value: 105.82 CRORE (VIA NEWS)] Intimation of Receipt of Letter of Intent (LOI) from Delhi Jal Board for Sewerage Work",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
