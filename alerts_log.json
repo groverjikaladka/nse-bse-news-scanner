@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-07T16:46:28.412392",
+    "company": "Bloom Dekor Ltd-$",
+    "text": "Approved the Reclassification of the Exsiting Promoters and Promoters Group to Public Category pursuant to Regulation 31A of the SEBI (LODR) Regulation, 2015 and Approved Resolution Plan Vide NCLT Order Dated June 18, 2026",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-07T16:16:28.573385",
     "company": "Haryana Financial Corporation Ltd",
     "text": "VC Corporate Advisors Pvt Ltd (\"Manager to the Delisting Offer\") has submitted to BSE a copy of Initial Public Announcement under Regulation 8 of the Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021 and subsequent amendments thereto (\"Delisting Regulations\") for the attention of the Public Shareholders of Haryana Financial Corporation Ltd (\"HFC\"/\"Corporation\").",
@@ -1545,12 +1552,5 @@
     "text": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection.",
     "categories": "Regulatory/Drug Approval",
     "source": "BSE"
-  },
-  {
-    "date": "2026-07-31T11:15:52.806277",
-    "company": "Lupin Limited",
-    "text": "Lupin Limited has informed the Exchange regarding a press release dated July 31, 2026, titled \"Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
   }
 ]
