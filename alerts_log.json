@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-07T17:00:25.886012",
+    "company": "Bloom Dekor Ltd-$",
+    "text": "Considered and approved reduction and reorganisation of equity share capital pursuant to the resolution plan approved by Honable NCLT vide its order Dated June 18, 2026",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T17:00:25.295206",
+    "company": "NHPC Ltd",
+    "text": "In continuation to our earlier letter dated 29.09.2025 and in compliance to Regulation 30 of SEBI LODR,  it is to inform that MCA has fixed 25.08.2026 as hearing date in the matter of scheme of amalgamation between JPCL and NHPC Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-07T17:00:24.713625",
+    "company": "Bloom Dekor Ltd-$",
+    "text": "Considered and approved the Allotment of equity shares pursuant to Resolution plan Approved by Honable NCLT vide its order dated June 18, 2026.",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-07T16:46:28.412392",
     "company": "Bloom Dekor Ltd-$",
     "text": "Approved the Reclassification of the Exsiting Promoters and Promoters Group to Public Category pursuant to Regulation 31A of the SEBI (LODR) Regulation, 2015 and Approved Resolution Plan Vide NCLT Order Dated June 18, 2026",
@@ -1545,12 +1566,5 @@
     "text": "Thirumalai Chemicals Limited has informed the Exchange about show cause notice received from regulatory authority.",
     "categories": "Litigation/Regulatory Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-07-31T11:18:33.422002",
-    "company": "Lupin Ltd",
-    "text": "Lupin Announces U.S. FDA Approval and Launch of Sugammadex Injection.",
-    "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
   }
 ]
