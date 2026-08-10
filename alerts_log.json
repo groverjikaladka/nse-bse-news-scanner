@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-10T15:01:20.081542",
+    "company": "Steel Authority of India Limited",
+    "text": "The Exchange has sought clarification from Steel Authority of India Limited with respect to recent news item captioned Steel Authority of India eyes 5% FPO in FY27 to raise funds for capex push..  The response from the Company is awaited.",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-10T15:01:18.419607",
+    "company": "Om Power Transmission Ltd",
+    "text": "[Value: 82 CRORE (VIA NEWS)] Intimation of receipt of order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-10T14:45:59.774294",
     "company": "Gabion Technologies India Ltd",
     "text": "[Value: 6.43 CRORE (VIA NEWS)] Intimation of Work/Supply Order Received during the period from July 19, 2026 to August 08, 2026",
@@ -1432,13 +1446,6 @@
     "company": "ITCONS E-Solutions Ltd",
     "text": "We are pleased to in form that our Company has bagged a new contract from Hindustan Aeronautics Limited (HAL), Department of Defence Production, Ministry of Defence of value of Rs. 2987844.86. For further details kindly refer attached file",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-03T09:31:16.148890",
-    "company": "HBL Engineering Ltd-$",
-    "text": "HBL has accepted an order worth Rs.31.49 crores (excluding 18% GST) from Intergal Coach Factory, Chennai for supply, installation, testing and commissioning of on-baord Kavach Loco equipment (ver 4.0)",
-    "categories": "Order/MoU/Contract, Capacity/Expansion",
     "source": "BSE"
   }
 ]
