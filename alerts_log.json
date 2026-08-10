@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-10T17:46:19.798647",
+    "company": "Elpro International Ltd",
+    "text": "Announcement of the Outcome of the Fixed Price Delisting Process, in terms of Regulation 17(3) of the SEBI (Delisting of Equity Shares) Regulations, 2021, as amended from time to time.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-10T17:01:26.344085",
     "company": "IKIO Technologies Limited",
     "text": "[Value: RS 165.35 CRORE (VIA NEWS)] IKIO Technologies Limited has informed the Exchange about Intimation about Execution of Memorandum of Understanding (MoU) between Royalux FZCO, UAE, a step-down subsidiary of IKIO Technologies Limited & Frontline Solutions, Riyadh, Saudi Arabia.",
@@ -1459,20 +1466,6 @@
     "date": "2026-08-03T12:31:19.801728",
     "company": "Aastha Spintex Ltd",
     "text": "[Value: 77 CR (VIA NEWS)] Announcement under SEBI (Listing obligation and disclosure requirements) Regulation, 2015.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-03T12:16:01.306590",
-    "company": "GACM Technologies Ltd",
-    "text": "[Value: RS 6.00 CRORE (VIA NEWS)] This is to inform the Company has Entered MOU with Meridian Intelligence Private Limited.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-03T12:16:00.600642",
-    "company": "GACM Technologies Ltd",
-    "text": "[Value: RS 6.00 CRORE (VIA NEWS)] This is to inform the Company has Entered MOU with Meridian Intelligence Private Limited.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
