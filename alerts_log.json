@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-12T16:31:47.511146",
+    "company": "Paramount Cosmetics India Ltd",
+    "text": "Intimation of Deed of Conveyance entered by the Company.\r\n\r\n",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-12T16:14:29.164837",
     "company": "Citizen Solar Ltd",
     "text": "Trading approval letter received from BSE regarding New Equity Shares of Rs. 10/- bearing distinctive Numbers from 5397301 to 14043300 pursuant to Scheme of Amalgamation.",
@@ -1496,12 +1503,5 @@
     "text": "[Value: RS 16.90 CRORE (VIA NEWS)] Intimation for receipt of Purchase Order from EKS InTec India  Private Limited",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-05T10:57:41.555714",
-    "company": "Mahindra & Mahindra Financial Services Limited",
-    "text": "Mahindra & Mahindra Financial Services Limited has informed the Exchange about Outcome of Board Meeting - Scheme of Merger",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
   }
 ]
