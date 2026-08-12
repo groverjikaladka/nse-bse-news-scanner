@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-12T17:17:15.641453",
+    "company": "Vascon Engineers Ltd",
+    "text": "Receipt of work order worth Rs.126.39 Crore",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-12T16:31:47.511146",
     "company": "Paramount Cosmetics India Ltd",
     "text": "Intimation of Deed of Conveyance entered by the Company.\r\n\r\n",
@@ -1480,27 +1487,6 @@
     "date": "2026-08-05T12:31:29.487611",
     "company": "Shayona Engineering Ltd",
     "text": "[Value: RS 3.53 CRORE (VIA NEWS)] Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Purchase Orders",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-05T11:45:55.168928",
-    "company": "Ceinsys Tech Limited",
-    "text": "[Value: RS 16.90 CRORE (VIA NEWS)] Ceinsys Tech Limited has informed the Exchange about Bagging/Receiving of orders/contracts - Intimation for receipt of Purchase Order from EKS InTec India Private Limited.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-05T11:45:53.749675",
-    "company": "Mahindra & Mahindra Financial Services Ltd",
-    "text": "Outcome of Board Meeting - Scheme of Merger",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-05T11:45:53.057915",
-    "company": "Ceinsys Tech Ltd",
-    "text": "[Value: RS 16.90 CRORE (VIA NEWS)] Intimation for receipt of Purchase Order from EKS InTec India  Private Limited",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
