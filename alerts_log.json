@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-12T15:01:24.741284",
+    "company": "Coal India Limited",
+    "text": "[Value: 2,831 CRORE (VIA NEWS)] Coal India Limited has informed the Exchange about Non-Binding Memorandum of Understanding (MoU) between Coal India Limited and ArcelorMittal Nippon Steel India Private Limited.",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-12T15:01:23.526715",
+    "company": "Ahasolar Technologies Ltd",
+    "text": "[Value: RS 7 CRORE (VIA NEWS)] Intimation of Receipt of work Order Received.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-12T15:01:22.726817",
+    "company": "Sree Rayalaseema Hi-Strength Hypo Ltd",
+    "text": "[Value: RS 514.36 CRORE (VIA NEWS)] Submission of details of Order received from Business and Property Courts of England and Wales, commercial court in relation to proceedings initiated by Maersk Shipping Line",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-12T15:01:21.974638",
+    "company": "Coal India Ltd",
+    "text": "[Value: 2,831 CRORE (VIA NEWS)] Non binding MoU between CIL and AMNS",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-12T14:01:21.807357",
     "company": "AVG Logistics Ltd",
     "text": "[Value: 1,250 CRORE (VIA NEWS)] Award of Long term contract from a renowned Cement Manufacturer in India",
@@ -1468,19 +1496,5 @@
     "text": "We are delighted to inform you that the Company has received Letter of Award for supply of bivalent Oral Polio Vaccine (bOPV) to UNICEF in 10 and 20 dose presentation worth ~US$8.205 million (~Rs.78.24 Crore) in Calendar Year 2028.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-05T09:31:24.562045",
-    "company": "Ola Electric Mobility Limited",
-    "text": "[Value: INR 780 CRORE (VIA NEWS)] Ola Electric Mobility Limited has informed the Exchange regarding a press release dated August 05, 2026, titled \"Ola Electric Expands into Utility-Scale Energy Storage; Signs first MoU with Axis Energy\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-05T09:31:23.322029",
-    "company": "Hatsun Agro Product Limited",
-    "text": "Hatsun Agro Product Limited has informed the Exchange regarding a press release dated August 05, 2026, titled \"Hatsun Agro  Product plans &#8377;1000 crore capex in FY27 to enhance Production\".",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
   }
 ]
