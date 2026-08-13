@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-13T13:16:03.141859",
+    "company": "Kridhan Infra Ltd",
+    "text": "Disclosure under regulation 30 of SEBI (LODR) Regulations, 2015, regarding receipt of show cause notice by SEBI",
+    "categories": "Litigation/Regulatory Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-13T13:01:20.328226",
     "company": "Wanbury Ltd",
     "text": "Press Release regarding EDQM approval for new product Rivaroxaban API, USFDA DMF Clearances.",
@@ -1503,12 +1510,5 @@
     "text": "[Value: 3,000 CRORE (VIA NEWS)] Swan Defence and Heavy Industries Limited has informed the Exchange regarding a Press Release dated August 6, 2026, titled \"SDHI wins Order from Svitzer to build four TRAnsverse 3200 Tugs.\"",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-06T07:45:48.443113",
-    "company": "Swan Defence and Heavy Industries Limited",
-    "text": "[Value: 3,000 CRORE (VIA NEWS)] Swan Defence and Heavy Industries Limited has informed the Exchange regarding a press release dated August 06, 2026, titled \"SDHI Wins Order from Svitzer to Build four TRAnsverse 3200 Tugs\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
