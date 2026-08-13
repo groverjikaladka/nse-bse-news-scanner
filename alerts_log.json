@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-13T14:46:59.723810",
+    "company": "Solex Energy Ltd",
+    "text": "[Value: 629 CRORE (VIA NEWS)] Intimation of Receipt of Work Order as per attachment",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-13T14:32:14.452456",
     "company": "Trishakti Industries Ltd",
     "text": "Press Relase in respect to Company''s Rs. 125 Crores MoU with XCMG and addition of 900-Tonne Crane to power its next phase of growth for Wind Energy Expansion.",
@@ -1489,19 +1496,5 @@
     "text": "[Value: 127.62 CRORE (VIA NEWS)] Magellanic Cloud Limited has informed the Exchange regarding 'Receipt of LOA from Western Railway, Ratlam Division by Provigil Surveillance Limited, wholly owned subsidiary'.",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-06T09:15:47.386744",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: 127.62 CRORE (VIA NEWS)] Magellanic Cloud Limited has informed the Exchange regarding 'Receipt of LOA from Western Railway, Ratlam Division by Provigil Surveillance Limited, wholly owned subsidiary'.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-06T09:15:46.074929",
-    "company": "Magellanic Cloud Ltd",
-    "text": "[Value: 127.62 CRORE (VIA NEWS)] Magellanic Cloud Limited''s wholly owned subsidiary Provigil Surveillance Limited receives LOA from Western Railway, Ratlam Division",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
