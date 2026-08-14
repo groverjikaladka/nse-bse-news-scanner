@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 14 Aug 2026, 12:15 PM IST</span>
+<span class="updated">Last updated: 14 Aug 2026, 12:31 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">215</div>
+<div class="stat-value">217</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">52</div>
+<div class="stat-value">54</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Capacity/Expansion">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">14 Aug 2026, 12:31 PM</td>
+<td class="company">Tata Steel Limited</td>
+<td class="text">Tata Steel Limited has informed the Exchange regarding outcome of the Meeting of Committee of Directors - Divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary.</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">14 Aug 2026, 12:31 PM</td>
+<td class="company">Tata Steel Ltd</td>
+<td class="text">Divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
 <td class="date">14 Aug 2026, 12:01 PM</td>
 <td class="company">KMC Speciality Hospitals (India) Ltd</td>
 <td class="text">Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015: (i) Intimation of approval of new capacity expansion/ hospital projects at Trichy and Bengaluru; & 
