@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-14T16:48:21.241692",
+    "company": "NHPC Ltd",
+    "text": "In continuation to our earlier letter dated 07.08.2026, intimation regarding publication of notice in various newspapers in respect of hearing date in the matter of scheme of amalgamation of JPCL and NHPC Limited is submitted. The details given in the attached letter.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-14T16:09:42.983896",
     "company": "Seamec Ltd",
     "text": "[Value: RS 30.69 CRORE (VIA NEWS)] Intimation on Execution of Agreement with Supreme Hydro Engineering Pvt. Limited for availing Diving Technical Expertise support on Vessel \"SAMUDRA PRABHA\" managed by SEAMEC",
@@ -1643,12 +1650,5 @@
     "text": "[Value: 50 CRORE (VIA NEWS)] Texmaco Rail & Engineering Limited informed the exchange about Memorandum of Understanding",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-07T11:15:53.626936",
-    "company": "Texmaco Rail & Engineering Limited",
-    "text": "[Value: 50 CRORE (VIA NEWS)] Texmaco Rail & Engineering Limited has informed the Exchange about Memorandum of Understanding/Agreements",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
