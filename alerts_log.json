@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-17T16:31:10.321798",
+    "company": "NELCO Limited",
+    "text": "NELCO Limited has informed the Exchange about  Strategic Investment in Lunar Holdco, Inc.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-17T16:18:40.721611",
     "company": "Nelco Ltd",
     "text": "Strategic Investment in Lunar Holdco, Inc.",
@@ -1375,13 +1382,6 @@
     "date": "2026-08-10T12:15:52.971299",
     "company": "United Drilling Tools Ltd",
     "text": "[Value: 38.85 CRORE (VIA NEWS)] Award of Order from USA",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-10T11:01:09.964935",
-    "company": "Waaree Renewable Technologies Ltd",
-    "text": "[Value: RS 210 LAKH (VIA NEWS)] Received LOA of EPC works of 124MWp.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
