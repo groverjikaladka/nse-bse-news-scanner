@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 18 Aug 2026, 01:15 PM IST</span>
+<span class="updated">Last updated: 18 Aug 2026, 01:21 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">195</div>
+<div class="stat-value">196</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">113</div>
+<div class="stat-value">114</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">18 Aug 2026, 01:21 PM</td>
+<td class="company">Airfloa Rail Technology Ltd</td>
+<td class="text">Receiving Orders value of Rs70.56 Lakhs</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">18 Aug 2026, 12:45 PM</td>
 <td class="company">Gandhi Special Tubes Limited</td>
 <td class="text">Gandhi Special Tubes Limited has informed the Exchange about Copy of Newspaper Publication- Public Announcement for Buyback of Equity Shares</td>
