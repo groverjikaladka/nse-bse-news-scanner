@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-18T18:15:59.237246",
+    "company": "NIBE Limited",
+    "text": "NIBE Limited has informed the Exchange that Nibe Space Private Limited (Subsidiary Company) has received Letter of Award.",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-18T17:58:11.418008",
     "company": "Atlanta Electricals Ltd",
     "text": "Intimation of Receipt of Letter of Intent from Transmission Corporation of Andhra Pradesh Limited (APTRANSCO) for an order worth Rs 193.92 crore",
@@ -1431,13 +1438,6 @@
     "date": "2026-08-11T12:46:01.611684",
     "company": "Antony Waste Handling Cell Ltd",
     "text": "[Value: RS 40 CRORE (VIA NEWS)] Please find attached intimation w.r.t Receipt of Contract/order from Greater Noida Industrial Development Authority.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-11T12:31:26.762338",
-    "company": "Paramount Cosmetics India Ltd",
-    "text": "Intimation regarding sale agreement entered by the Company.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
