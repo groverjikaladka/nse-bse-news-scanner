@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-18T19:45:50.434670",
+    "company": "Ugro Capital Limited",
+    "text": "Ugro Capital Limited has informed the Exchange about Amalgamation/Merger",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-18T19:15:48.539230",
     "company": "RailTel Corporation of India Ltd",
     "text": "New Order Received",
@@ -1425,13 +1432,6 @@
     "company": "AvenuesAI Ltd",
     "text": "Outcome of Board Meeting for Unaudited (Standalone And Consolidated) Financial Results, Update - Increase in Investment limit, Scheme of Amalgamation, Variation in Objects of the Rights Issue, Consolidation of Equity Shares and Convening of 16th Annual General Meeting",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-11T14:01:59.914929",
-    "company": "Advait Energy Transitions Ltd",
-    "text": "[Value: 14.8 CRORE (VIA NEWS)] Order received from GETCO",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
