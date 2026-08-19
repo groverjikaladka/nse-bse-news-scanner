@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-19T19:45:59.896729",
+    "company": "Strides Pharma Science Limited",
+    "text": "Strides Pharma Science Limited has informed the Exchange regarding a press release dated August 19, 2026, titled \"Strides receives USFDA Establishment Inspection Report (EIR) for flagship facility in Bengaluru\".",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-19T19:45:57.941991",
+    "company": "Strides Pharma Science Ltd",
+    "text": "Strides receives USFDA Establishment Inspection Report (EIR) for flagship facility in Bengaluru",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-19T18:55:16.309315",
     "company": "Ugro Capital Limited",
     "text": "Ugro Capital Limited has informed the Exchange about publication of notices of the meetings of equity shareholders and secured creditors and unsecured creditors in the newspaper",
@@ -1403,13 +1417,6 @@
     "date": "2026-08-12T15:01:21.974638",
     "company": "Coal India Ltd",
     "text": "[Value: 2,831 CRORE (VIA NEWS)] Non binding MoU between CIL and AMNS",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-12T14:01:21.807357",
-    "company": "AVG Logistics Ltd",
-    "text": "[Value: 1,250 CRORE (VIA NEWS)] Award of Long term contract from a renowned Cement Manufacturer in India",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
