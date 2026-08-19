@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-19T20:31:24.261553",
+    "company": "HEG Limited",
+    "text": "HEG Limited has informed the Exchange regarding a press release dated August 19, 2026, titled \"NCLT Order sanctioning the Composite Scheme of Arrangement\".",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-19T20:31:22.895072",
+    "company": "Industrial Investment Trust Ltd",
+    "text": "Submission of Letter of Offer dated August 19, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-19T19:45:59.896729",
     "company": "Strides Pharma Science Limited",
     "text": "Strides Pharma Science Limited has informed the Exchange regarding a press release dated August 19, 2026, titled \"Strides receives USFDA Establishment Inspection Report (EIR) for flagship facility in Bengaluru\".",
@@ -1398,26 +1412,5 @@
     "text": "[Value: 2,831 CRORE (VIA NEWS)] Coal India Limited has informed the Exchange about Non-Binding Memorandum of Understanding (MoU) between Coal India Limited and ArcelorMittal Nippon Steel India Private Limited.",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-12T15:01:23.526715",
-    "company": "Ahasolar Technologies Ltd",
-    "text": "[Value: RS 7 CRORE (VIA NEWS)] Intimation of Receipt of work Order Received.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-12T15:01:22.726817",
-    "company": "Sree Rayalaseema Hi-Strength Hypo Ltd",
-    "text": "[Value: RS 514.36 CRORE (VIA NEWS)] Submission of details of Order received from Business and Property Courts of England and Wales, commercial court in relation to proceedings initiated by Maersk Shipping Line",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-12T15:01:21.974638",
-    "company": "Coal India Ltd",
-    "text": "[Value: 2,831 CRORE (VIA NEWS)] Non binding MoU between CIL and AMNS",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]

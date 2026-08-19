@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 19 Aug 2026, 08:01 PM IST</span>
+<span class="updated">Last updated: 19 Aug 2026, 08:31 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">203</div>
+<div class="stat-value">202</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">111</div>
+<div class="stat-value">108</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">51</div>
+<div class="stat-value">52</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Regulatory/Drug Approval">
+<tbody id="table-body"><tr data-category="Financial/Results">
+<td class="date">19 Aug 2026, 08:31 PM</td>
+<td class="company">HEG Limited</td>
+<td class="text">HEG Limited has informed the Exchange regarding a press release dated August 19, 2026, titled "NCLT Order sanctioning the Composite Scheme of Arrangement".</td>
+<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">19 Aug 2026, 08:31 PM</td>
+<td class="company">Industrial Investment Trust Ltd</td>
+<td class="text">Submission of Letter of Offer dated August 19, 2026</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Regulatory/Drug Approval">
 <td class="date">19 Aug 2026, 07:45 PM</td>
 <td class="company">Strides Pharma Science Limited</td>
 <td class="text">Strides Pharma Science Limited has informed the Exchange regarding a press release dated August 19, 2026, titled "Strides receives USFDA Establishment Inspection Report (EIR) for flagship facility in Bengaluru".</td>
@@ -1289,24 +1301,6 @@ Establishment of 400/220/132 kV A...</td>
 <td class="text">[Value: 2,831 CRORE (VIA NEWS)] Coal India Limited has informed the Exchange about Non-Binding Memorandum of Understanding (MoU) between Coal India Limited and ArcelorMittal Nippon Steel India Private Limited.</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">NSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">12 Aug 2026, 03:01 PM</td>
-<td class="company">Ahasolar Technologies Ltd</td>
-<td class="text">[Value: RS 7 CRORE (VIA NEWS)] Intimation of Receipt of work Order Received.</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">12 Aug 2026, 03:01 PM</td>
-<td class="company">Sree Rayalaseema Hi-Strength Hypo Ltd</td>
-<td class="text">[Value: RS 514.36 CRORE (VIA NEWS)] Submission of details of Order received from Business and Property Courts of England and Wales, commercial court in relation to proceedings initiated by Maersk Shipping Line</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">12 Aug 2026, 03:01 PM</td>
-<td class="company">Coal India Ltd</td>
-<td class="text">[Value: 2,831 CRORE (VIA NEWS)] Non binding MoU between CIL and AMNS</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
 </tr></tbody>
 </table>
 <div class="no-results" id="no-results">No alerts match this filter</div>
