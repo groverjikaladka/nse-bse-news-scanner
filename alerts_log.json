@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-19T20:46:00.031837",
+    "company": "Industrial Investment Trust Limited",
+    "text": "Industrial Investment Trust Limited has informed the Exchange regarding 'Submission of Letter of Offer for buyback of 16,66,667 (Sixteen Lacs Sixty Six Thousand Six Hundred and Sixty Seven Only) fully paid-up Equity Shares of the face value of INR 10 each ( Equity Shares ) of Industrial Investment Trust Limited (the  Company ) at a price of INR 150/- (Indian Rupees One Hundred And Fifty Only) per Equity Share payable in  cash  on proportionate basis ( Buyback ).'.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-19T20:31:24.261553",
     "company": "HEG Limited",
     "text": "HEG Limited has informed the Exchange regarding a press release dated August 19, 2026, titled \"NCLT Order sanctioning the Composite Scheme of Arrangement\".",
@@ -1405,12 +1412,5 @@
     "text": "[Value: RS 118 CRORE (VIA NEWS)] Receipt of LOA from NHAI.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-12T15:01:24.741284",
-    "company": "Coal India Limited",
-    "text": "[Value: 2,831 CRORE (VIA NEWS)] Coal India Limited has informed the Exchange about Non-Binding Memorandum of Understanding (MoU) between Coal India Limited and ArcelorMittal Nippon Steel India Private Limited.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
