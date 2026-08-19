@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-19T17:58:47.540694",
+    "company": "Cheviot Company Ltd-$",
+    "text": "[Value: RS 140.61 CRORE (VIA NEWS)] Revision in the maximum ex-factory prices of Jute Bags notified by the Office of the Jute Commissioner vide gazette notifications.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-19T17:45:39.493550",
     "company": "Jubilant Agri and Consumer Products Ltd",
     "text": "Receipt of Show Cause Notice from GST Department",
@@ -1377,12 +1384,5 @@
     "text": "ZF Commercial Vehicle Control Systems India Limited has informed the Exchange about receipt of show cause notice",
     "categories": "Litigation/Regulatory Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-12T12:15:54.836693",
-    "company": "ZF Commercial Vehicle Control Systems India Ltd",
-    "text": "Receipt of show cause notice",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
   }
 ]
