@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 19 Aug 2026, 06:15 AM IST</span>
+<span class="updated">Last updated: 19 Aug 2026, 06:31 AM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">178</div>
+<div class="stat-value">179</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">103</div>
+<div class="stat-value">104</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">19 Aug 2026, 06:31 AM</td>
+<td class="company">L&T Technology Services Ltd</td>
+<td class="text">L&T Technology Services Limited has secured a landmark engagement valued over $ 75 million from a leading global technology enterprise.</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">18 Aug 2026, 08:45 PM</td>
 <td class="company">Happiest Minds Technologies Ltd</td>
 <td class="text">Receipt of Certified True Copy of the Final Order by the Hon''ble National Company Law Tribunal, Bengaluru Bench in the matter of the Scheme of Amalgamation of Aureustech Systems Private Limited and Happiest Minds Technologies Limited and their respective Shareholders and Creditors</td>
