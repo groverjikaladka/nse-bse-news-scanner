@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-19T16:47:47.646923",
+    "company": "East India Drums and Barrels Manufacturing Ltd",
+    "text": "[Value: RS 4.59 CRORE (VIA NEWS)] Pursuant to Reg 30 of SEBI (LODR) Regulation, 2015 we hereby inform that the Company has been awarded a contract through Government e-Marketplace (GeM) by Munition India Limited.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-19T15:45:41.402785",
     "company": "Indobell Insulations Ltd",
     "text": "[Value: 66.40 CRORE (VIA NEWS)] Export Order for $170.000,00",
@@ -1348,20 +1355,6 @@
     "company": "ZF Commercial Vehicle Control Systems India Ltd",
     "text": "Receipt of show cause notice",
     "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-12T11:15:47.890817",
-    "company": "Elpro International Ltd",
-    "text": "Submission of Post Offer Public Announcement (\"Post Offer PA\") for success of the Delisting Offer of Equity Shares of Elpro International Limited (\"Target Company\") from BSE Limited in terms of SEBI (Delisting of Equity Shares) Regulations, 2021.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-12T11:15:47.400999",
-    "company": "Bharat Heavy Electricals Ltd",
-    "text": "Information to Stock Exchange on BHEL''s Credit Rating Upgrade by M/s India Ratings & Research",
-    "categories": "Financial/Results",
     "source": "BSE"
   }
 ]
