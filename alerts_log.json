@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-20T18:15:49.460537",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on August 20, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-20T18:15:48.937600",
+    "company": "Saatvik Green Energy Ltd",
+    "text": "[Value: RS 132 CRORE (VIA NEWS)] Receipt of Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-20T18:00:40.900328",
     "company": "Poojawestern Metaliks Ltd",
     "text": "In reference to captioned subject, we would like to inform you that the Board of Directors of the Company, at their Board meeting held today i.e. on Thursday, August 20, 2026 at the Registered Office of the Company situated at Plot No. 1, Phase II, GIDC, Dared, Jamnagar-361004, Gujarat, which was commenced at 03:00 P.M. and concluded at 04:00 P.M., have considered the matters which are attched heerwith.",
@@ -1335,26 +1349,5 @@
     "text": "Wanbury Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"Press Release regarding EDQM Approval for new product Rivaroxaban API,USFDA DMF Clearances\".",
     "categories": "Regulatory/Drug Approval",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-13T12:44:38.605263",
-    "company": "TTK Prestige Ltd",
-    "text": "[Value: 2,773 CRORE (VIA NEWS)] Intimation of agreement for sale of Shares in Ultrafresh Modular Solutions Limited (51% Subsidary)",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-13T12:31:30.650976",
-    "company": "South West Pinnacle Exploration Ltd",
-    "text": "[Value: RS 6.64 CRORE (VIA NEWS)] Announcement for Letter of Intimation (LOI) from M/s Odisha Lift Irrigation Corporation Limited(A Govt of Odisha Undertaking)",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-13T12:31:29.882872",
-    "company": "Saatvik Green Energy Ltd",
-    "text": "[Value: RS 400.16 CRORE (VIA NEWS)] Receipt of Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]

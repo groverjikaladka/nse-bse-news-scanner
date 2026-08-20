@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 20 Aug 2026, 06:01 PM IST</span>
+<span class="updated">Last updated: 20 Aug 2026, 06:15 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">194</div>
+<div class="stat-value">193</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">104</div>
+<div class="stat-value">102</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">49</div>
+<div class="stat-value">50</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Regulatory/Drug Approval">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">20 Aug 2026, 06:15 PM</td>
+<td class="company">Advanced Enzyme Technologies Ltd</td>
+<td class="text">Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on August 20, 2026</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">20 Aug 2026, 06:15 PM</td>
+<td class="company">Saatvik Green Energy Ltd</td>
+<td class="text">[Value: RS 132 CRORE (VIA NEWS)] Receipt of Order</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Regulatory/Drug Approval">
 <td class="date">20 Aug 2026, 06:00 PM</td>
 <td class="company">Poojawestern Metaliks Ltd</td>
 <td class="text">In reference to captioned subject, we would like to inform you that the Board of Directors of the Company, at their Board meeting held today i.e. on Thursday, August 20, 2026 at the Registered Office of the Company situated at Plot No. 1, Phase II, GIDC, Dared, Jamnagar-361004, Gujarat, which was co...</td>
@@ -1232,24 +1244,6 @@ Establishment of 400/220/132 kV A...</td>
 <td class="text">Wanbury Limited has informed the Exchange regarding a press release dated August 13, 2026, titled "Press Release regarding EDQM Approval for new product Rivaroxaban API,USFDA DMF Clearances".</td>
 <td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
 <td><span class="source">NSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">13 Aug 2026, 12:44 PM</td>
-<td class="company">TTK Prestige Ltd</td>
-<td class="text">[Value: 2,773 CRORE (VIA NEWS)] Intimation of agreement for sale of Shares in Ultrafresh Modular Solutions Limited (51% Subsidary)</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">13 Aug 2026, 12:31 PM</td>
-<td class="company">South West Pinnacle Exploration Ltd</td>
-<td class="text">[Value: RS 6.64 CRORE (VIA NEWS)] Announcement for Letter of Intimation (LOI) from M/s Odisha Lift Irrigation Corporation Limited(A Govt of Odisha Undertaking)</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">13 Aug 2026, 12:31 PM</td>
-<td class="company">Saatvik Green Energy Ltd</td>
-<td class="text">[Value: RS 400.16 CRORE (VIA NEWS)] Receipt of Order</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
 </tr></tbody>
 </table>
 <div class="no-results" id="no-results">No alerts match this filter</div>
