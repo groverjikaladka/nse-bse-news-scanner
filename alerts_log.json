@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-20T15:15:44.176775",
+    "company": "B. L. Kashyap and Sons Ltd",
+    "text": "The Company has secured a new work order worth Rs. 183.18 Crores",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-20T14:45:57.566230",
     "company": "Nihar Info Global Ltd",
     "text": "Nihar Info Global Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 31/08/2026 ,inter alia, to consider and approve 1. Proposed issue of convertible warrants into equity shares to promoters of the company and  the issue of equity shares on preferential basis to non-promoters on preferential basis .\r\n2. To take note of the divestment of subsidiaries of the company to Ms. Vijay Lakshmi Boda, Director of the Company with effect from 01.04.2026 to be appro",
@@ -1370,12 +1377,5 @@
     "text": "Magellanic Cloud Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"Magellanic Cloud Limited Wholly Owned Subsidiary Provigil Surveillance Limited Receive Letter of Acceptance (LOA) from Dedicated Freight Corridor Corporation of India Limited (DFCCIL) Worth &#8377;3.73 Crore\".",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-13T09:31:26.694602",
-    "company": "RailTel Corporation of India Ltd",
-    "text": "New Order Received",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
