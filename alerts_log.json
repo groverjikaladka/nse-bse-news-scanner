@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-20T15:28:08.043519",
+    "company": "Popular Foundations Ltd",
+    "text": "[Value: 2,500 CR (VIA NEWS)] Domestic order worth 19.82 Crores from Sastra Deemed to be University, Thanjavur",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-20T15:28:07.138871",
+    "company": "Niva Bupa Health Insurance Company Ltd",
+    "text": "[Value: RS 137.80 CRORE (VIA NEWS)] Receipt of Order from the IRDAI",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-20T15:15:44.176775",
     "company": "B. L. Kashyap and Sons Ltd",
     "text": "The Company has secured a new work order worth Rs. 183.18 Crores",
@@ -1370,12 +1384,5 @@
     "text": "RMC SWitchgears Limited gets Purchase Order worth Rs. 1,88,52,000/-",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-13T09:45:52.102032",
-    "company": "Magellanic Cloud Limited",
-    "text": "Magellanic Cloud Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"Magellanic Cloud Limited Wholly Owned Subsidiary Provigil Surveillance Limited Receive Letter of Acceptance (LOA) from Dedicated Freight Corridor Corporation of India Limited (DFCCIL) Worth &#8377;3.73 Crore\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
