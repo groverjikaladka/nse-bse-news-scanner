@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-20T20:15:47.761298",
+    "company": "India Glycols Limited",
+    "text": "India Glycols Limited has informed the Exchange regarding 'Receipt of NCLT Order'.",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-20T20:15:45.896866",
+    "company": "India Glycols Ltd",
+    "text": "Please find attached.",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-20T19:31:17.271514",
     "company": "Walchandnagar Industries Ltd",
     "text": "[Value: RS 30.53 CRORE (VIA NEWS)] Please Find enclosed herewith Intimation under regulation 30\r\n",
@@ -1354,13 +1368,6 @@
     "date": "2026-08-13T14:46:59.723810",
     "company": "Solex Energy Ltd",
     "text": "[Value: 629 CRORE (VIA NEWS)] Intimation of Receipt of Work Order as per attachment",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-13T14:32:14.452456",
-    "company": "Trishakti Industries Ltd",
-    "text": "Press Relase in respect to Company''s Rs. 125 Crores MoU with XCMG and addition of 900-Tonne Crane to power its next phase of growth for Wind Energy Expansion.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
