@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-20T18:00:40.900328",
+    "company": "Poojawestern Metaliks Ltd",
+    "text": "In reference to captioned subject, we would like to inform you that the Board of Directors of the Company, at their Board meeting held today i.e. on Thursday, August 20, 2026 at the Registered Office of the Company situated at Plot No. 1, Phase II, GIDC, Dared, Jamnagar-361004, Gujarat, which was commenced at 03:00 P.M. and concluded at 04:00 P.M., have considered the matters which are attched heerwith.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-20T17:31:14.599200",
     "company": "RailTel Corporation of India Ltd",
     "text": "New Order Received",
@@ -1349,12 +1356,5 @@
     "text": "[Value: RS 400.16 CRORE (VIA NEWS)] Receipt of Order",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-13T12:15:58.185642",
-    "company": "Paisalo Digital Limited",
-    "text": "Paisalo Digital Limited has informed the Exchange regarding a press release dated August 13, 2026, titled \"Paisalo Signs &#8377;500 Cr Co-Lending MOU with FatakPay\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]

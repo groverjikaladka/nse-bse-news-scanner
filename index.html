@@ -46,7 +46,7 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 20 Aug 2026, 05:45 PM IST</span>
+<span class="updated">Last updated: 20 Aug 2026, 06:00 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
@@ -54,11 +54,11 @@ tr.hidden { display: none; }
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">105</div>
+<div class="stat-value">104</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">18</div>
+<div class="stat-value">19</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="Regulatory/Drug Approval">
+<td class="date">20 Aug 2026, 06:00 PM</td>
+<td class="company">Poojawestern Metaliks Ltd</td>
+<td class="text">In reference to captioned subject, we would like to inform you that the Board of Directors of the Company, at their Board meeting held today i.e. on Thursday, August 20, 2026 at the Registered Office of the Company situated at Plot No. 1, Phase II, GIDC, Dared, Jamnagar-361004, Gujarat, which was co...</td>
+<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">20 Aug 2026, 05:31 PM</td>
 <td class="company">RailTel Corporation of India Ltd</td>
 <td class="text">New Order Received</td>
@@ -1244,12 +1250,6 @@ Establishment of 400/220/132 kV A...</td>
 <td class="text">[Value: RS 400.16 CRORE (VIA NEWS)] Receipt of Order</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">13 Aug 2026, 12:15 PM</td>
-<td class="company">Paisalo Digital Limited</td>
-<td class="text">Paisalo Digital Limited has informed the Exchange regarding a press release dated August 13, 2026, titled "Paisalo Signs &#8377;500 Cr Co-Lending MOU with FatakPay".</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">NSE</span></td>
 </tr></tbody>
 </table>
 <div class="no-results" id="no-results">No alerts match this filter</div>
