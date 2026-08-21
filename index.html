@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 21 Aug 2026, 01:00 PM IST</span>
+<span class="updated">Last updated: 21 Aug 2026, 01:15 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">182</div>
+<div class="stat-value">184</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">91</div>
+<div class="stat-value">93</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">21 Aug 2026, 01:15 PM</td>
+<td class="company">Puravankara Limited</td>
+<td class="text">[Value: 280 CRORE (VIA NEWS)] Puravankara Limited has informed the Exchange about Letter of Intent received by M/s. Starworth Infrastructure & Construction Limited, Wholly Owned Subsidiary of the Company:</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">21 Aug 2026, 01:15 PM</td>
+<td class="company">Puravankara Ltd</td>
+<td class="text">[Value: 280 CRORE (VIA NEWS)] Intimation of receipt of Letter of Intent by Starworth Infrastructure and Construction Limited, Wholly Owned Subsidiary of the Company.</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">21 Aug 2026, 12:15 PM</td>
 <td class="company">Industrial Investment Trust Ltd</td>
 <td class="text">Systematix Corporate Services Ltd ("Manager to the Buyback") has submitted to BSE a copy of Offer Opening Advertisement for the Buyback of Equity Shares on a proportionate basis through the tender offer route under the Securities and Exchange Board of India (Buy-Back of Securities) Regulations, 2018...</td>
