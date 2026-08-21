@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-21T18:15:45.017201",
+    "company": "Punjab National Bank",
+    "text": "[Value: 1 CRORE (VIA NEWS)] Imposition of penalty",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-21T18:01:02.330143",
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on August 21, 2026.",
@@ -1327,41 +1334,6 @@
     "company": "Refex Industries Ltd",
     "text": "[Value: RS 22.75 CRORE (VIA NEWS)] Refex Industries Limited bags order for rate contract for ash transportation to road construction sites",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T12:45:45.641903",
-    "company": "Paisalo Digital Ltd",
-    "text": "[Value: RS 254.62 CRORE (VIA NEWS)] Intimation regarding execution of Memorandum of Understanding with Chakrawiu Gannlen Company Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T12:42:07.932190",
-    "company": "Tata Steel Limited",
-    "text": "Tata Steel Limited has informed the Exchange about divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-14T12:42:06.923089",
-    "company": "Admach Systems Ltd",
-    "text": "[Value: 5.02 CRORE (VIA NEWS)] Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T12:31:14.440669",
-    "company": "Tata Steel Limited",
-    "text": "Tata Steel Limited has informed the Exchange regarding outcome of the Meeting of Committee of Directors - Divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-14T12:31:13.397806",
-    "company": "Tata Steel Ltd",
-    "text": "Divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
