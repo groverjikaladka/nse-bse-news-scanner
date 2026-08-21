@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-21T14:45:42.321206",
+    "company": "Zodiac Energy Ltd",
+    "text": "[Value: 7.02 CRORE (VIA NEWS)] Receipt of Purchase order for Solar Power Plant of 2500kwp",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-21T14:00:57.329043",
     "company": "Zydus Lifesciences Limited",
     "text": "Zydus Lifesciences Limited has informed the Exchange regarding a press release dated August 21, 2026, titled \"Zydus announces final approval from the USFDA for Ascorbic Acid Injection with 180-Days CGT exclusivity\".",
@@ -1306,13 +1313,6 @@
     "company": "Aurobindo Pharma Ltd",
     "text": "Intimation of receipt of warning letter from US FDA by Unit 1 of Eugia Pharma Specialities Limited, a wholly owned subsidiary of the Company.",
     "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T09:01:18.763599",
-    "company": "Mini Diamonds India Ltd",
-    "text": "[Value: 14 CRORE (VIA NEWS)] Receipt of significant domestic order for cut and polished lab grown diamonds from Saharsh Exports amouting to 14.25 Crores",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
