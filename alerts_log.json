@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-21T18:45:50.696049",
+    "company": "NHPC Limited",
+    "text": "NHPC Limited has informed the Exchange regarding 'Postponement of final hearing date in the matter of scheme of amalgamation between Jalpower Corporation Limited and NHPC Limited'.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-21T18:45:50.220334",
+    "company": "India Glycols Limited",
+    "text": "India Glycols Limited has informed the Exchange that Record date for the purpose of Merger/HiveOff  is 02-Sep-2026.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-21T18:45:48.354981",
+    "company": "NHPC Ltd",
+    "text": "In compliance to Regulation 30 of EBI LODR, postponement of final hearing date scheduled to be held on 25.08.2026 at 11:30A.M. in the matter of scheme of amalgamation between JPCL and NHPC Limited is submitted. The details given in the attached letter.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-21T18:25:38.059747",
     "company": "Jyoti Ltd-$",
     "text": "[Value: 87.5 CRORE (VIA NEWS)] Receipt of Court Order",
@@ -1307,12 +1328,5 @@
     "text": "Intimation pursuant to Regulation 30 of the SEBI Listing Regulations, 2015, informing regarding receipt of NCLT order allowing the first motion application filed in relation to the Scheme",
     "categories": "Financial/Results",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T13:01:15.513907",
-    "company": "DiGiSPICE Technologies Limited",
-    "text": "Newspaper Publication for Notice of hearing of Company Scheme Petition pursuant to Hon'ble NCLT order dated 06th August, 2026",
-    "categories": "Financial/Results",
-    "source": "NSE"
   }
 ]
