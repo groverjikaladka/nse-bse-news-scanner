@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-21T19:09:08.362971",
+    "company": "Shree Rajeshwaranand Paper Mills Ltd",
+    "text": "Issue of Shares based on NCLT order",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-21T19:09:07.841363",
+    "company": "Caplin Point Laboratories Ltd",
+    "text": "Completion of Unannounced USFDA Inspection at the facility of Caplin Steriles Limited (Company''s subsidiary)",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-21T18:45:50.696049",
     "company": "NHPC Limited",
     "text": "NHPC Limited has informed the Exchange regarding 'Postponement of final hearing date in the matter of scheme of amalgamation between Jalpower Corporation Limited and NHPC Limited'.",
@@ -1306,27 +1320,6 @@
     "company": "Zensar Technologies Ltd",
     "text": "In continuation to our letter dated July 29, 2026, this is an update on merger of M3BI LLC with Zensar Technologies Inc.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T13:16:07.460684",
-    "company": "Dhabriya Polywood Ltd",
-    "text": "[Value: 8.86 CRORE (VIA NEWS)] Intimation for further Enhancement/receiving of work order.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T13:16:06.356181",
-    "company": "Hazoor Multi Projects Ltd-$",
-    "text": "[Value: 3.44 CRORE (VIA NEWS)] We are pleased to inform you that the Company has been awarded the Letter of award from the National Highways Authority of India ( NHAI) at Thirupapachethi Fee Plaza.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T13:16:05.443409",
-    "company": "Go Digit General Insurance Ltd",
-    "text": "Intimation pursuant to Regulation 30 of the SEBI Listing Regulations, 2015, informing regarding receipt of NCLT order allowing the first motion application filed in relation to the Scheme",
-    "categories": "Financial/Results",
     "source": "BSE"
   }
 ]
