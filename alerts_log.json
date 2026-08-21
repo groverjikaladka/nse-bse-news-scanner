@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-21T15:31:08.027795",
+    "company": "Industrial Investment Trust Ltd",
+    "text": "Newspaper publication with respect to completion of dispatch of Letter of Offer (BUYBACK)",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-21T15:15:40.920073",
     "company": "Share India Securities Limited",
     "text": "Share India Securities Limited has informed the Exchange that the Hon'ble NCLT, Ahmedabad Bench-I has approved the Scheme of Amalgamation of Silverleaf Capital Services Private Limited with Share India Securities Limited vide order dated August 20, 2026.",
@@ -1320,20 +1327,6 @@
     "company": "Transformers and Rectifiers (India) Ltd",
     "text": "[Value: 175 CRORE (VIA NEWS)] Order received from APTRANSCO",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T09:46:00.718730",
-    "company": "Aurobindo Pharma Limited",
-    "text": "Aurobindo Pharma Limited has informed the Exchange that Unit I of Eugia Pharma Specialities Ltd., received a Warning Letter from US FDA",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-14T09:45:59.248376",
-    "company": "Aurobindo Pharma Ltd",
-    "text": "Intimation of receipt of warning letter from US FDA by Unit 1 of Eugia Pharma Specialities Limited, a wholly owned subsidiary of the Company.",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
