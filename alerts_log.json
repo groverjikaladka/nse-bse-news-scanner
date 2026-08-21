@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-21T18:25:38.059747",
+    "company": "Jyoti Ltd-$",
+    "text": "[Value: 87.5 CRORE (VIA NEWS)] Receipt of Court Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-21T18:15:45.017201",
     "company": "Punjab National Bank",
     "text": "[Value: 1 CRORE (VIA NEWS)] Imposition of penalty",
@@ -1313,27 +1320,6 @@
     "company": "Digispice Technologies Ltd-$",
     "text": "Newspaper Publication for notice of hearing of Company Scheme Petition pursuant to Hon''ble NCLT order 06th August, 2026",
     "categories": "Financial/Results",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T12:45:48.750224",
-    "company": "Refex Industries Limited",
-    "text": "[Value: RS 22.75 CRORE (VIA NEWS)] Refex Industries Limited bags order for Rate Contract for Ash Transportation to Road Construction Sites.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-14T12:45:47.297275",
-    "company": "Tata Steel Ltd",
-    "text": "Divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T12:45:46.636041",
-    "company": "Refex Industries Ltd",
-    "text": "[Value: RS 22.75 CRORE (VIA NEWS)] Refex Industries Limited bags order for rate contract for ash transportation to road construction sites",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
