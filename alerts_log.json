@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-21T20:15:55.159079",
+    "company": "Tata Motors Passenger Vehicles Limited",
+    "text": "[Value: 110 CRORE (VIA NEWS)] Tata Motors Passenger Vehicles Limited has informed the Exchange about Compounding Order received from the Reserve Bank of India.",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-21T20:15:52.102148",
+    "company": "Kaiser Corporation Ltd",
+    "text": "1. Approval of the Scheme of Amalgamation of Emazing Deals Limited ('Transferor Company') into Kaiser Corporation Limited ('Transferee Company'):\r\n\r\n2. Appointment of Registered Valuer in relation to the proposed merger:\r\n\r\n3. Appointment of merchant banker in relation to the proposed merger:\r\n\r\n4. Appointment of other professionals in relation to the proposed merger:\r\n\r\n5. Authorization for filing of necessary applications with Stock Exchange(s), SEBI, NCLT, and other regulatory authorities:\r\n\r",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-21T20:15:51.512756",
+    "company": "Highway Infrastructure Ltd",
+    "text": "[Value: 304 CRORE (VIA NEWS)] Company has received a Work Order for Palayam Fee Plaza.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-21T20:01:00.577868",
     "company": "TPL Plastech Ltd",
     "text": "TPL Plastech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 26/08/2026 ,inter alia, to consider and approve and discuss the proposal for merger of the Company (Transferor Company, i.e. TPL), into Time Technoplast Limited (Transferee Company, listed with BSE Limited & NSE), the holding company which holds a 74.86% stake in TPL, subject to obtaining all necessary statutory and regulatory approvals.",
@@ -1334,13 +1355,6 @@
     "company": "Kalpataru Projects International Ltd",
     "text": "Press Release - KPIL AWARDED NEW ORDERS OF RS. 3526 CRORES",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-14T14:31:40.535327",
-    "company": "Prakash Pipes Ltd",
-    "text": "Capacity expansion in Flexible Packaging Division at Kashipur, involving a Capital expenditure of around Rs. 100 Crores",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
