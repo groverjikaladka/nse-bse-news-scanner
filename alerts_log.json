@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-24T13:31:09.303771",
+    "company": "Garden Reach Shipbuilders & Engineers Ltd",
+    "text": "In terms of Regulation 30 and other applicable provisions of SEBI (LODR) Regulations, 2015, we wish to inform you that the Company has received order from West Bengal Tourism Development Corporation Limited on 24 Aug 2026 for Procurement of two (02) nos. 100Pax Electric Ferry at a contract price of Rs.45.02 crore.\r\n\r\nThis is for your information and record.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-24T13:00:54.262386",
     "company": "Gujarat Inject Kerala Ltd",
     "text": "[Value: 14.49 CRORE (VIA NEWS)] Announcement regarding enter into Strategic Business Partnership Agreement",
@@ -1552,12 +1559,5 @@
     "text": "[Value: 15,000 CRORE (VIA NEWS)] L&T Secures Ultra-Mega* Order for Strategic Offshore Development Project in the Middle East",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-17T07:45:39.737666",
-    "company": "Aurobindo Pharma Limited",
-    "text": "Aurobindo Pharma Limited has informed the Exchange about Classification of US FDA Inspection at Raleigh Plant, North Carolina, owned by Aurolife Pharma LLC, a wholly owned step-down subsidiary of the Company, as Voluntary Action Indicated (VAI).",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
   }
 ]
