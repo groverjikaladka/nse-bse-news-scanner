@@ -46,19 +46,19 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 24 Aug 2026, 06:31 PM IST</span>
+<span class="updated">Last updated: 24 Aug 2026, 06:45 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">228</div>
+<div class="stat-value">232</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">109</div>
+<div class="stat-value">110</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">29</div>
+<div class="stat-value">31</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
@@ -74,7 +74,31 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Financial/Results">
+<td class="date">24 Aug 2026, 06:45 PM</td>
+<td class="company">HEG Limited</td>
+<td class="text">HEG Limited has informed the Exchange regarding Outcome of Board Meeting held on August 24, 2026 related to Effective Date of Scheme, Record Date for Scheme, Reconstitution of Committees,  Noting of Certified Copy of Hon'ble NCLT Order for Composite Scheme of Arrangement etc.</td>
+<td><span class="badge" style="background:#6366f1">Financial/Results</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Litigation/Regulatory Action">
+<td class="date">24 Aug 2026, 06:45 PM</td>
+<td class="company">Raghuvir Synthetics Ltd</td>
+<td class="text">As attached Regulation 30.</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Litigation/Regulatory Action">
+<td class="date">24 Aug 2026, 06:45 PM</td>
+<td class="company">Indian Railway Finance Corporation Ltd</td>
+<td class="text">Announcement under Regulation 30 of SEBI LODR, 2015</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">24 Aug 2026, 06:45 PM</td>
+<td class="company">Kothari Industrial Corporation Ltd</td>
+<td class="text">[Value: RS 28.90 CRORE (VIA NEWS)] Award</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">24 Aug 2026, 06:01 PM</td>
 <td class="company">Advanced Enzyme Technologies Ltd</td>
 <td class="text">Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on August 24, 2026.</td>
