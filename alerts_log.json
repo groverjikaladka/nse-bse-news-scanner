@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-24T18:01:29.900039",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on August 24, 2026.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-24T18:01:03.942008",
     "company": "Fineotex Chemical Ltd",
     "text": "Upgrade in Credit Rating",
@@ -1600,20 +1607,6 @@
     "company": "Ritesh International Ltd",
     "text": "Press Release for Capacity expansion",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-17T12:31:09.746336",
-    "company": "Solex Energy Limited",
-    "text": "Solex Energy Limited has informed the Exchange regarding a press release dated August 17, 2026, titled \"Solex Energy Reports Q1 FY27 Results with Continued Focus on Growth and Capacity Expansion\".",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-17T12:31:08.194382",
-    "company": "Greaves Cotton Ltd",
-    "text": "Please find enclosed herewith Press Release issued by the Company, with the heading 'Greaves Cotton Completes Acquisition of Excel Controlinkage, Takes Ownership to 100%.\r\n\r\nKindly take the same on record.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
