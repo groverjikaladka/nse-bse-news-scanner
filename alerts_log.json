@@ -1559,19 +1559,5 @@
     "text": "New Order Received",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-18T18:53:29.736656",
-    "company": "BLS International Services Limited",
-    "text": "BLS International Services Limited has informed the Exchange about Merger of Step down Subsidiary of the Company",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-18T18:53:28.176469",
-    "company": "Radiant Cash Management Services Ltd",
-    "text": "[Value: RS 0.35 CRORE (VIA NEWS)] Loan Agreement executed for providing loan to subsidiary company.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
