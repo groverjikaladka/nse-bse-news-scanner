@@ -46,23 +46,23 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 25 Aug 2026, 06:01 PM IST</span>
+<span class="updated">Last updated: 25 Aug 2026, 06:15 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">230</div>
+<div class="stat-value">233</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">106</div>
+<div class="stat-value">107</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">35</div>
+<div class="stat-value">37</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">69</div>
+<div class="stat-value">68</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,31 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="Litigation/Regulatory Action">
+<td class="date">25 Aug 2026, 06:15 PM</td>
+<td class="company">Saurashtra Cement Limited</td>
+<td class="text">We would like to inform you that Gujarat Siddhee Cement Limited, which was merged with Saurashtra Cement Limited ( the Company ) pursuant to the order of the Hon ble National Company Law Tribunal, Ahmedabad Bench dated 16th March 2023, has received a Show Cause Notice from the Office of the Assistan...</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">25 Aug 2026, 06:15 PM</td>
+<td class="company">Kothari Industrial Corporation Ltd</td>
+<td class="text">[Value: RS 2.54 CRORE (VIA NEWS)] award</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Litigation/Regulatory Action">
+<td class="date">25 Aug 2026, 06:15 PM</td>
+<td class="company">Saurashtra Cement Ltd</td>
+<td class="text">We would like to inform you that Gujarat Sidhee Cement Limited, which was merged with Saurashtra Cement Limited ("the Company") pursuant to the order of the Hon''ble Nation Company Law Tribunal, Ahmedabad Bench dated 16th March 2023, has received a Show Cause Notice from the Office of the Assistant ...</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
+<td class="date">25 Aug 2026, 06:15 PM</td>
+<td class="company">Indian Metals & Ferro Alloys Ltd</td>
+<td class="text">As per corporate announcement attached</td>
+<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">25 Aug 2026, 06:01 PM</td>
 <td class="company">Vibhor Steel Tubes Ltd</td>
 <td class="text">[Value: 20 CRORE (VIA NEWS)] Please find enclosed.</td>
@@ -1459,12 +1483,6 @@ The Board approved  the value of the equity shares at ?9.55 per equity share bas
 <td class="text">Receiving Orders value of Rs70.56 Lakhs</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
-</tr><tr data-category="M&A/Corporate Action">
-<td class="date">18 Aug 2026, 12:45 PM</td>
-<td class="company">Gandhi Special Tubes Limited</td>
-<td class="text">Gandhi Special Tubes Limited has informed the Exchange about Copy of Newspaper Publication- Public Announcement for Buyback of Equity Shares</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">NSE</span></td>
 </tr></tbody>
 </table>
 <div class="no-results" id="no-results">No alerts match this filter</div>
