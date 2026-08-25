@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-25T15:00:58.989526",
+    "company": "LEAP India Ltd",
+    "text": "Intimation regarding ''Great Place to Work'' Certification",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-25T13:45:41.244707",
     "company": "BMW Ventures Ltd",
     "text": "[Value: RS 608.90 CRORE (VIA NEWS)] The Company has informed the Exchange about the purchase order received from Tata Projects Limited",
@@ -1594,19 +1601,5 @@
     "text": "[Value: 65.8 CRORE (VIA NEWS)] Magellanic Cloud Limited has informed the Exchange regarding a press release dated August 18, 2026, titled \"Press Release -Magellanic Cloud Limited Wholly Owned SubsidiaryProvigil Surveillance Limited, Receives Letter of Acceptance (LOA) fromDedicated Freight Corridor Corporation of India Limited\".",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-18T09:28:42.348519",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: 65.8 CRORE (VIA NEWS)] Magellanic Cloud Limited s Wholly Owned Subsidiary, Provigil Surveillance Limited, receives Letter of Acceptance (LOA) from Dedicated Freight Corridor Corporation of India Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-18T09:28:40.700172",
-    "company": "Magellanic Cloud Ltd",
-    "text": "[Value: 65.8 CRORE (VIA NEWS)] Attached Herewith the Intimation for LOA",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
