@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-25T15:15:51.210086",
+    "company": "LEAP India Limited",
+    "text": "LEAP India Limited has informed the Exchange regarding 'Intimation regarding Great Place to Work Certification'.",
+    "categories": "Partnership/Certification",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-25T15:15:50.598215",
+    "company": "Jana Small Finance Bank Limited",
+    "text": "The Exchange has sought clarification from Jana Small Finance Bank Limited with respect to recent news item captioned Jana Small Finance Bank, Federal Bank shares fall up to 4% amid merger buzz.  The response from the Company is attached.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-25T15:00:58.989526",
     "company": "LEAP India Ltd",
     "text": "Intimation regarding ''Great Place to Work'' Certification",
@@ -1593,13 +1607,6 @@
     "company": "Kellton Tech Solutions Limited",
     "text": "Kellton Tech Solutions Limited has informed the Exchange regarding a press release dated August 18, 2026, titled \"Asian Development Bank Recognises Kellton with Excellence Award for Technology Partnership\".",
     "categories": "Partnership/Certification",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-18T09:45:41.289918",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: 65.8 CRORE (VIA NEWS)] Magellanic Cloud Limited has informed the Exchange regarding a press release dated August 18, 2026, titled \"Press Release -Magellanic Cloud Limited Wholly Owned SubsidiaryProvigil Surveillance Limited, Receives Letter of Acceptance (LOA) fromDedicated Freight Corridor Corporation of India Limited\".",
-    "categories": "Order/MoU/Contract",
     "source": "NSE"
   }
 ]
