@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-26T23:01:25.604775",
+    "company": "Orient Cement Ltd",
+    "text": "Orient Cement Limited has informed the exchange about the meeting of Equity Shareholders of the Company Pursuant to the order passed by Hon. National Company law Tribunal, Ahmedabad Bench in respect of Scheme of Amalgamation of Orient Cement Limited with Ambuja Cements Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-26T22:46:02.052497",
     "company": "Oswal Greentech Ltd",
     "text": "Receipt of ISO Certification",
@@ -1676,13 +1683,6 @@
     "date": "2026-08-19T17:45:39.493550",
     "company": "Jubilant Agri and Consumer Products Ltd",
     "text": "Receipt of Show Cause Notice from GST Department",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-19T17:31:09.147985",
-    "company": "JSW Dulux Ltd",
-    "text": "Attached details of a show cause notice received from Odisha GST Department",
     "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
