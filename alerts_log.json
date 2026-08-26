@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-26T23:16:03.068213",
+    "company": "Oswal Greentech Limited",
+    "text": "Oswal Greentech Limited has informed the Exchange regarding 'Receipt of ISO Certification'.",
+    "categories": "Partnership/Certification",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-26T23:01:25.604775",
     "company": "Orient Cement Ltd",
     "text": "Orient Cement Limited has informed the exchange about the meeting of Equity Shareholders of the Company Pursuant to the order passed by Hon. National Company law Tribunal, Ahmedabad Bench in respect of Scheme of Amalgamation of Orient Cement Limited with Ambuja Cements Limited.",
@@ -1677,13 +1684,6 @@
     "company": "Cheviot Company Ltd-$",
     "text": "[Value: RS 140.61 CRORE (VIA NEWS)] Revision in the maximum ex-factory prices of Jute Bags notified by the Office of the Jute Commissioner vide gazette notifications.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-19T17:45:39.493550",
-    "company": "Jubilant Agri and Consumer Products Ltd",
-    "text": "Receipt of Show Cause Notice from GST Department",
-    "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
 ]
