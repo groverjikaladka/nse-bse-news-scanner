@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-26T23:31:41.936939",
+    "company": "Oswal Agro Mills Ltd",
+    "text": "Receipt of ISO Certification",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-26T23:16:03.068213",
     "company": "Oswal Greentech Limited",
     "text": "Oswal Greentech Limited has informed the Exchange regarding 'Receipt of ISO Certification'.",
@@ -1677,13 +1684,6 @@
     "company": "True Colors Ltd",
     "text": "Regulation 30 of SEBI (LODR) Regulations, 2015 - Receipt of order from the Hon''ble National Company Law Tribunal, Ahmedabad Bench in relation to the Scheme of Amalgamation (Merger by Absorption) of Inkia Inks Private Limited (\"Transferor Company\") with True Colors Limited (\"Transferee Company\" or \"Company\") and their respective shareholders and creditors.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-19T17:58:47.540694",
-    "company": "Cheviot Company Ltd-$",
-    "text": "[Value: RS 140.61 CRORE (VIA NEWS)] Revision in the maximum ex-factory prices of Jute Bags notified by the Office of the Jute Commissioner vide gazette notifications.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
