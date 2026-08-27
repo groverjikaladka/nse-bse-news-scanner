@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-27T16:15:48.582828",
+    "company": "Indoco Remedies Ltd",
+    "text": "[Value: RS 467.50 CRORE (VIA NEWS)] Intimation of execution of Deed of Conveyance for Sale of Company''s plot of land.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-27T15:01:12.783091",
     "company": "GACM Technologies Limited",
     "text": "[Value: RS 49.50 CRORE (VIA NEWS)] GACM Technologies Limited has informed the Exchange regarding 'MEMORANDUM OF UNDERSTANDING (MOU) WITH WINFLUENTIAL PRIVATE LIMITED'.",
@@ -1656,13 +1663,6 @@
     "company": "Kernex Microsystems India Ltd",
     "text": "We wish to inform you that the company has received an order from Integral Coach Factory, Chennai for an amount of Rs.31.87 crores for the supply, installation and commissioning of On-board KAVACH by the way of upgradation from version 3.2 to 4.0",
     "categories": "Order/MoU/Contract, Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-20T10:31:05.022409",
-    "company": "Dev Information Technology Ltd",
-    "text": "[Value: RS 5.33 CRORE (VIA NEWS)] Intimation Regarding Receipt Of Order",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
