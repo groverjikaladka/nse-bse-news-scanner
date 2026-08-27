@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-28T00:31:32.607730",
+    "company": "True Colors Ltd",
+    "text": "We hereby inform that NCLT Order dated August 17, 2026 in the matter of Company Scheme Application no. CA(CAA)/30(AHM) 2026, Shareholders Meeting to be held through Video Conferencing on September 28, 2026",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-28T00:31:31.930356",
+    "company": "Om Power Transmission Ltd",
+    "text": "[Value: RS 24 CRORE (VIA NEWS)] Intimation of receipt of Letter of Intent",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-27T20:16:16.663330",
     "company": "Bombay Super Hybrid Seeds Ltd",
     "text": "Bombay Super Hybrid Seeds Limited has informed the Exchange about the Purchase/acquisition of immovable property situated at Gram Lsudiya Mori, Survey No. 99, Tehsil & District: Indore State: Madhya Pradesh, PIN code 453771, India; for the total consideration of Rs. 3,68,75,000/- (Rupees Three Crore Sixty-Eight Lakh Seventy-Five Thousand Only) for the future expansion plan of the Company",
@@ -1677,34 +1691,6 @@
     "company": "Diamond Power Infrastructure Ltd-$",
     "text": "Commissioning of a copper wire drawing and copper cable manufacturing line",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-20T19:01:07.069699",
-    "company": "Teamlease Services Limited",
-    "text": "TeamLease   Divestment of entire stake in Joint  Venture Company; Crystal HR and Securities Solutions Private ( Crystal HR )",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-20T19:01:05.025711",
-    "company": "TeamLease Services Ltd",
-    "text": "TeamLease - Divestment of entire stake in Joint Venture Company, Crystal HR and Security Solutions Private Limited",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-20T18:15:49.460537",
-    "company": "Advanced Enzyme Technologies Ltd",
-    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on August 20, 2026",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-20T18:15:48.937600",
-    "company": "Saatvik Green Energy Ltd",
-    "text": "[Value: RS 132 CRORE (VIA NEWS)] Receipt of Order",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
