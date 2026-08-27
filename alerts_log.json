@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-27T14:45:52.287654",
+    "company": "GACM Technologies Ltd",
+    "text": "[Value: RS 49.50 CRORE (VIA NEWS)] this is to informThat Company Entered MOU with Winfluential Private Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-27T14:45:51.590881",
+    "company": "GACM Technologies Ltd",
+    "text": "[Value: RS 49.50 CRORE (VIA NEWS)] this is to informThat Company Entered MOU with Winfluential Private Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-27T13:45:41.900526",
     "company": "Nila Infrastructures Limited",
     "text": "[Value: RS 74.20 CRORE (VIA NEWS)] Nila Infrastructures Limited has informed the Exchange regarding 'Intimation of Cancelation of Work Order'.",
@@ -1642,34 +1656,6 @@
     "company": "Larsen & Toubro Ltd",
     "text": "[Value: RS 15,000 CRORE (VIA NEWS)] L&T Wins (Large) Order for Automated People Mover System at Dubai''s AI Maktoum Airport",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-20T09:15:40.991616",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: 111.04 CRORE (VIA NEWS)] Magellanic Cloud Limited Receipt of Second Purchase Order by Wholly Owned Subsidiary IVIS International Pvt  Ltd from Capri Global Capital Limited Strengthens BFSI Presence with Expanded Engagement",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-20T09:15:39.713016",
-    "company": "Magellanic Cloud Ltd",
-    "text": "[Value: 111.04 CRORE (VIA NEWS)] Attached Herewith Intimation of the same",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-20T09:01:01.574818",
-    "company": "Glenmark Pharmaceuticals Limited",
-    "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated August 20, 2026, titled \"Glenmark Pharmaceuticals receives U.S. FDA approval for Fluticasone Propionate Nasal Spray, 0.05 mg (50 mcg)/spray\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-20T09:00:59.031584",
-    "company": "Glenmark Pharmaceuticals Ltd",
-    "text": "Glenmark Pharmaceuticals receives U.S. FDA approval for Fluticasone Propionate Nasal Spray, 0.05 mg (50 mcg)/spray",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
