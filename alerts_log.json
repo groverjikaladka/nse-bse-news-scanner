@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-28T21:15:48.771081",
+    "company": "Cipla Limited",
+    "text": "Cipla Limited has informed the Exchange about Update on USFDA inspection at InvaGen manufacturing facility in Central Islip, Long Island, NY, USA",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
     "date": "2026-08-28T18:31:16.206604",
     "company": "Industrial Investment Trust Limited",
     "text": "Industrial Investment Trust Limited has informed the Exchange about General Updates regarding Intimation of closure of the Buyback Offer",
@@ -1670,13 +1677,6 @@
     "company": "Aurobindo Pharma Ltd",
     "text": "Intimation of completion of US FDA inspection at Auro Peptides Limited, a subsidiary of the Company.",
     "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-21T15:31:08.027795",
-    "company": "Industrial Investment Trust Ltd",
-    "text": "Newspaper publication with respect to completion of dispatch of Letter of Offer (BUYBACK)",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
