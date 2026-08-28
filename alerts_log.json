@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-28T21:31:24.272748",
+    "company": "Cipla Ltd",
+    "text": "Please find enclosed disclosure.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-28T21:15:48.771081",
     "company": "Cipla Limited",
     "text": "Cipla Limited has informed the Exchange about Update on USFDA inspection at InvaGen manufacturing facility in Central Islip, Long Island, NY, USA",
@@ -1670,13 +1677,6 @@
     "company": "Scan Projects Ltd",
     "text": "Intimation of Newspaper for public advertisement of merger under Regulation 47 of the  SEBI (LODR) Regulation 2015",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-21T16:00:58.861355",
-    "company": "Aurobindo Pharma Ltd",
-    "text": "Intimation of completion of US FDA inspection at Auro Peptides Limited, a subsidiary of the Company.",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
