@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-29T18:31:19.631793",
+    "company": "Aster DM Quality Care Ltd",
+    "text": "Intimation of Scheme of Amalgamation of step down subsidiaries of the Company",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-29T18:31:19.012147",
+    "company": "Axis Solutions Ltd",
+    "text": "Press release",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-29T18:15:45.204095",
     "company": "Timex Group India Ltd-$",
     "text": "We wish to inform you the the Company has received an order (Form GST-ASMT12) from office of the superintendent, Central Goods and Service Tax Range 5, Division-I ,Noida intimating that the office has dropped all the proceedings against the Company after being satisfied  with the reply made by the Company without any further action required in the matter, in response to the Show Cause Notice dated May 25, 2026.\r\n\r\nThe details of same in the attached letter.",
@@ -1593,13 +1607,6 @@
     "company": "Mercantile Ventures Ltd",
     "text": "Effectiveness of Scheme of Amalgamation of M/s. Walery Security Management Limited (Transferor Company), a subsidiary of the Company with M/s. i3 Security Private Limited (Transferee Company), a wholly subsidiary company, and their respective shareholders",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-22T13:00:51.889117",
-    "company": "Pokarna Ltd",
-    "text": "Show cause notice received from Officer of the Commissioner of Central Tax, Government of India.",
-    "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
 ]
