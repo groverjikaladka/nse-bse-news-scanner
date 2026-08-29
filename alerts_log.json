@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-29T17:15:46.407634",
+    "company": "PPAP Automotive Ltd",
+    "text": "Notice of meeting of shareholders in the matter of scheme of amalgamation of Avinya Batteries Limited and PPAP Automotive Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-29T17:00:57.084594",
     "company": "Shree Refrigerations Ltd",
     "text": "Pursuant to the provisions of Regulation 30 read with sub para 4, para B, Part A, Schedule III, of SEBI (LODR) Regulations, 2015, we hereby inform that the Company has secured the order of an amounting to Rs. 3.93 Crore from Indian Navy, Controller of Procurement, Material Organisation, Mumbai.",
@@ -1573,26 +1580,5 @@
     "text": "Wonderla Holidays Limited has informed the Exchange regarding 'Show Cause Notice received from GST Authority'.",
     "categories": "Litigation/Regulatory Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-22T11:45:37.599771",
-    "company": "Wonderla Holidays Ltd",
-    "text": "Show Cause Notice received from GST Authority",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-22T11:31:08.072264",
-    "company": "Rudra Ecovation Ltd",
-    "text": "This is to inform you that the Hon''ble NCLT, Chandigarh Bench, has reserved its order in relation to scheme of Amalgamation of Rudra Ecovation Limited (Transferor Company) with Shiva Texfabs Limited (Transferee Company) and their respective shareholders and creditors.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-22T11:31:07.398870",
-    "company": "B.R.Goyal Infrastructure Ltd",
-    "text": "[Value: RS 39 CRORE (VIA NEWS)] Receipt of Letter of Award (LOA) from NHAI for Jajau Fee Plaza in the state of Madhya Pradesh.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
