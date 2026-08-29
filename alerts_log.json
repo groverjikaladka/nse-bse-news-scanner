@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-29T17:31:10.910534",
+    "company": "PPAP Automotive Ltd",
+    "text": "Notice of meeting of secured creditors in the matter of scheme of amalgamation of Avinya Batteries Limited and PPAP Automotive Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-29T17:31:10.225482",
+    "company": "PPAP Automotive Ltd",
+    "text": "Notice of meeting of unsecured creditors in the matter of scheme of amalgamation of Avinya Batteries Limited and PPAP Automotive Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-29T17:15:46.407634",
     "company": "PPAP Automotive Ltd",
     "text": "Notice of meeting of shareholders in the matter of scheme of amalgamation of Avinya Batteries Limited and PPAP Automotive Limited",
@@ -1573,12 +1587,5 @@
     "text": "Show cause notice received from Officer of the Commissioner of Central Tax, Government of India.",
     "categories": "Litigation/Regulatory Action",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-22T12:00:54.014972",
-    "company": "Wonderla Holidays Limited",
-    "text": "Wonderla Holidays Limited has informed the Exchange regarding 'Show Cause Notice received from GST Authority'.",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
   }
 ]
