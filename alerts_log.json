@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-31T18:15:51.219961",
+    "company": "The Great Eastern Shipping Company Limited",
+    "text": "The Great Eastern Shipping Company Limited has informed the Exchange about Board Resolution pertaining to Buyback",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-31T18:15:49.390058",
+    "company": "Midwest Ltd",
+    "text": "[Value: 106.48 CRORE (VIA NEWS)] The Company has accepted LOI''s for working of Quarry Leases in Andhra Pradesh on Raising Cum Sale Basis.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-08-31T18:15:48.420923",
+    "company": "NCC Ltd",
+    "text": "[Value: 1,052.71 CRORE (VIA NEWS)] Order(s) received during August 2026",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-31T18:01:05.902130",
     "company": "Great Eastern Shipping Company Ltd",
     "text": "We enclose herewith copy of newspaper advertisements of public announcement and Board Resolution pertaining to Buyback.",
@@ -1572,41 +1593,6 @@
     "company": "Gujarat Inject Kerala Ltd",
     "text": "[Value: 14.49 CRORE (VIA NEWS)] Announcement regarding enter into Strategic Business Partnership Agreement",
     "categories": "Order/MoU/Contract, Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-24T12:45:45.341235",
-    "company": "Ceigall India Limited",
-    "text": "[Value: 225 CRORE (VIA NEWS)] Ceigall India Limited has informed the Exchange about receipt of LOA.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-24T12:45:43.920765",
-    "company": "Ceigall India Ltd",
-    "text": "[Value: 225 CRORE (VIA NEWS)] In continuation to our earlier letters dated 8th July 2026, we are pleased to inform you that Ceigall India Limited ('CIL') jointly with Sushee Infra & Mining Limited ('SIML') [CIL - 74% & SIML - 26% share in JV] has received Letters of Acceptance ('LOA') from the Ministry of Road Transport & Highways ('MoRTH') via email dated 24th August 2026.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-24T12:45:42.862539",
-    "company": "Dhabriya Polywood Ltd",
-    "text": "[Value: 18.59 CRORE (VIA NEWS)] Intimation of receiving of work order.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-24T12:31:13.902497",
-    "company": "KPI Green Energy Limited",
-    "text": "[Value: RS 116 CRORE (VIA NEWS)] KPI Green Energy Limited has informed the Exchange  regarding Press Release titled KP Group and Raz Holding Group sign Non-Binding Letter of Intent for a Proposed Strategic Investment and/or Collaboration. The disclosure is attached herewith.",
-    "categories": "Order/MoU/Contract, M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-24T12:31:12.339842",
-    "company": "KP Green Engineering Ltd",
-    "text": "[Value: 240 CRORE (VIA NEWS)] KP Green Engineering Limited submitted to the Exchange a Press Release - KP Group and Raz Holding Group Sign Non-Binding Letter of Intent for a Proposed Strategic Investment and/or Collaboration.",
-    "categories": "Order/MoU/Contract, M&A/Corporate Action",
     "source": "BSE"
   }
 ]
