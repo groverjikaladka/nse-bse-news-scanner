@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-31T17:45:54.800253",
+    "company": "Seamec Ltd",
+    "text": "Intimation on Addendum (s) 1 and 2 to the Memorandum of Agreement dated 21st July 2026 with HAL Offshore Limited for delivery of vessel \"SEAMEC ANANT\"",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-31T17:31:15.183503",
     "company": "E2E Networks Ltd",
     "text": "[Value: RS 1,240 CRORE (VIA NEWS)] E2E Networks Limited informed the exchange about Bagging/Receiving of order/contracts",
@@ -1571,41 +1578,6 @@
     "date": "2026-08-24T12:31:12.339842",
     "company": "KP Green Engineering Ltd",
     "text": "[Value: 240 CRORE (VIA NEWS)] KP Green Engineering Limited submitted to the Exchange a Press Release - KP Group and Raz Holding Group Sign Non-Binding Letter of Intent for a Proposed Strategic Investment and/or Collaboration.",
-    "categories": "Order/MoU/Contract, M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-24T12:15:42.557865",
-    "company": "K.P. Energy Limited",
-    "text": "[Value: 521 CRORE (VIA NEWS)] K.P. Energy Limited has informed the Exchange regarding Press Release titled KP Group and Raz Holding Group sign Non-Binding Letter of Intent for a Proposed Strategic Investment and/or Collaboration",
-    "categories": "Order/MoU/Contract, M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-24T12:15:38.182226",
-    "company": "KPI Green Energy Ltd",
-    "text": "[Value: RS 116 CRORE (VIA NEWS)] KPI Green Energy Limited has informed the exchange regarding Press Release titled 'KP Group and Raz Holding Group sign Non-Binding Letter of Intent for a Proposed Strategic Investment and/or Collaboration.' The disclosure is attached herewith.",
-    "categories": "Order/MoU/Contract, M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-24T12:09:32.838953",
-    "company": "Tata Power Company Limited",
-    "text": "Tata Power Company Limited has informed the Exchange regarding a press release dated August 24, 2026, titled \"Tata Power Renewables Marks a Major Milestone with Commissioning of 190.5 MW FDRE Project in Rajasthan\".",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-24T12:09:31.371499",
-    "company": "Tata Power Company Ltd",
-    "text": "Press Release titled - \"Tata Power Renewables Marks a Major Milestone with Commissioning of 190.5 MW FDRE Project in Rajasthan.\"",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-24T12:09:30.784325",
-    "company": "K.P. Energy Ltd",
-    "text": "[Value: 521 CRORE (VIA NEWS)] K.P. Energy Limited informed the Exchange regarding Press Release titled KP Group and Raz Holding Group sign Non-Binding Letter of Intent for a Proposed Strategic Investment and/or Collaboration.",
     "categories": "Order/MoU/Contract, M&A/Corporate Action",
     "source": "BSE"
   }
