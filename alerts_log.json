@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-31T22:46:19.650498",
+    "company": "Tata Steel Limited",
+    "text": "Tata Steel Limited has informed the Exchange about divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-08-31T22:46:17.915562",
+    "company": "Tata Steel Ltd",
+    "text": "Divestment of entire stake held in Jamshedpur Football and Sporting Private Limited, wholly owned subsidiary",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-08-31T22:31:43.107942",
     "company": "Aster DM Quality Care Limited",
     "text": "Aster DM Quality Care Limited has informed the Exchange regarding capacity expansion at the facility of a material subsidiary of the Company",
@@ -1641,13 +1655,6 @@
     "date": "2026-08-24T17:21:00.621942",
     "company": "Expo Engineering And Projects Ltd",
     "text": "Company has received a work order from M/s Bharat Petroleum Corporation Limited amounting to Rs. 4.97 Crore (inclusive of taxes)",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-24T17:15:44.874444",
-    "company": "Expo Engineering And Projects Ltd",
-    "text": "Company has received a work order from M/s Bharat Petroleum Corporation Limited amounting to Rs. 3.62 Crore (inclusive of taxes)",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
