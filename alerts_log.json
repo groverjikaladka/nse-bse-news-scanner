@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-01T19:15:51.622811",
+    "company": "KFin Technologies Ltd",
+    "text": "The Board of Directors of the Company at their meeting held today have approved the Composite scheme of Amalgamation",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-01T19:02:24.502746",
     "company": "Shree Rajeshwaranand Paper Mills Ltd",
     "text": "Out come of BM held on  1.9.2026 for appointment of Auditor subject to approval of Members and confirmation of AGM Notice based on NCLT order",
@@ -1747,20 +1754,6 @@
     "company": "LEAP India Ltd",
     "text": "Intimation regarding ''Great Place to Work'' Certification",
     "categories": "Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-25T13:45:41.244707",
-    "company": "BMW Ventures Ltd",
-    "text": "[Value: RS 608.90 CRORE (VIA NEWS)] The Company has informed the Exchange about the purchase order received from Tata Projects Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-25T13:37:45.022196",
-    "company": "Oriental Rail Infrastructure Ltd",
-    "text": "[Value: 4,224 CRORE (VIA NEWS)] Receipt of order",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
