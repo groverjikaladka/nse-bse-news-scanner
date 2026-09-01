@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-01T23:02:28.401636",
+    "company": "Texmaco Rail & Engineering Limited",
+    "text": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of order worth Rs. 24.48 Crores (incl. taxes) from Transport Corporation of India Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-01T23:02:26.445975",
+    "company": "Texmaco Rail & Engineering Ltd",
+    "text": "Intimation of receipt of order worth Rs. 24.48 Crores (incl. taxes) from Transport Corporation of India Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-01T21:45:53.787649",
     "company": "Centum Electronics Ltd",
     "text": "[Value: 106 CRORE (VIA NEWS)] Pls refer enclosed",
@@ -1755,12 +1769,5 @@
     "text": "Intimation Regarding Work Order of Rs. 104,05,87,119.03",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-25T17:31:16.712944",
-    "company": "Siyaram Silk Mills Limited",
-    "text": "Siyaram Silk Mills Limited has informed the Exchange regarding allotment of 181480352 Series I Preference Shares and 136110264 Series II Preference Shares as Bonus pursuant to Scheme of Arrangement/Amalgamation at its meeting held on August 25, 2026",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
   }
 ]
