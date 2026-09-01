@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-01T19:02:24.502746",
+    "company": "Shree Rajeshwaranand Paper Mills Ltd",
+    "text": "Out come of BM held on  1.9.2026 for appointment of Auditor subject to approval of Members and confirmation of AGM Notice based on NCLT order",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-01T19:02:24.013837",
+    "company": "ARSS Infrastructure Projects Ltd",
+    "text": "Intimation regarding Work Order of Rs. 130.53 Crore",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-01T19:02:23.488000",
+    "company": "3i Infotech Ltd",
+    "text": "[Value: 60 CRORE (VIA NEWS)] Please find attached letter regarding purchase order received from leading consumer durables company.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-01T19:02:22.548190",
+    "company": "Renaissance Global Ltd",
+    "text": "Renaissance Global Limited to make a strategic investment in branded jewellery player Naman Trading FZC. For further details please refer the attached file",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-01T18:16:18.273506",
     "company": "B.R.Goyal Infrastructure Ltd",
     "text": "[Value: 13.05 CRORE (VIA NEWS)] Intimation of Execution of Inter-Corporate Deposit Agreement.",
@@ -1733,34 +1761,6 @@
     "company": "Oriental Rail Infrastructure Ltd",
     "text": "[Value: 4,224 CRORE (VIA NEWS)] Receipt of order",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-25T13:31:09.518715",
-    "company": "Sonata Software Limited",
-    "text": "Sonata Software Limited has informed the Exchange regarding 'intimation on effective date of merger of wholly owned subsidiary with the Company'.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-25T13:31:09.002235",
-    "company": "Jana Small Finance Bank Limited",
-    "text": "The Exchange has sought clarification from Jana Small Finance Bank Limited with respect to recent news item captioned Jana Small Finance Bank, Federal Bank shares fall up to 4% amid merger buzz.  The response from the Company is awaited.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-25T13:31:07.822941",
-    "company": "Swelect Energy Systems Ltd-$",
-    "text": "SWELECT Energy Systems Limited has informed the Exchange that ESG Green Energy Private Limited (Subsidiary Company of SWELECT Energy Systems Limited) has successfully commissioned a Solar Power Plant having the capacity of 10 MW at Nedumpirai Village, Cheyyar Taluk, Tiruvannamalai District, Tamil Nadu on 24th August 2026.",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-25T13:31:07.236561",
-    "company": "Sonata Software Ltd",
-    "text": "Intimation regarding effective date of merger of Wholly-owned Subsidiary with the Company",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
