@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-01T20:46:53.760885",
+    "company": "Sical Logistics Limited",
+    "text": "[Value: 21.2 CRORE (VIA NEWS)] Sical Logistics Limited has informed the Exchange about Receiving of Letter of Acceptance",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-01T20:46:51.604127",
+    "company": "Sical Logistics Ltd",
+    "text": "[Value: 21.2 CRORE (VIA NEWS)] Sical Logistics Limited has informed the exchange about the receipt of Letter of Acceptance",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-01T20:01:28.483536",
     "company": "Welspun Corp Ltd",
     "text": "[Value: 7,300 CRORE (VIA NEWS)] Perma-Pipe and Welspun Corp Announce Memorandum of Understanding to Establish Pipe Manufacturing and Coating Facilities in Jordan.",
@@ -1768,20 +1782,6 @@
     "company": "Raymond Realty Limited",
     "text": "Raymond Realty Limited has informed the Exchange regarding a press release dated August 25, 2026, titled \"Raymond Realty's TenX Habitat (Phase 1) Awarded IGBC Silver Green Homes Certification.\".",
     "categories": "Partnership/Certification",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-25T15:15:51.210086",
-    "company": "LEAP India Limited",
-    "text": "LEAP India Limited has informed the Exchange regarding 'Intimation regarding Great Place to Work Certification'.",
-    "categories": "Partnership/Certification",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-25T15:15:50.598215",
-    "company": "Jana Small Finance Bank Limited",
-    "text": "The Exchange has sought clarification from Jana Small Finance Bank Limited with respect to recent news item captioned Jana Small Finance Bank, Federal Bank shares fall up to 4% amid merger buzz.  The response from the Company is attached.",
-    "categories": "M&A/Corporate Action",
     "source": "NSE"
   }
 ]
