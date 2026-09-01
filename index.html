@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 01 Sep 2026, 12:31 PM IST</span>
+<span class="updated">Last updated: 01 Sep 2026, 12:45 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">236</div>
+<div class="stat-value">238</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -58,11 +58,11 @@ tr.hidden { display: none; }
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">26</div>
+<div class="stat-value">27</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">68</div>
+<div class="stat-value">69</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">01 Sep 2026, 12:45 PM</td>
+<td class="company">Man Infraconstruction Ltd</td>
+<td class="text">Further to our letter dated August 26, 2026 intimating about the meeting of Board of Directors to be held today, we hereby inform you that the Board of Directors of the Company has, inter alia approved the Buyback of fully paid-up equity shares.</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Litigation/Regulatory Action">
+<td class="date">01 Sep 2026, 12:45 PM</td>
+<td class="company">Jubilant Pharmova Ltd</td>
+<td class="text">Receipt of Show Cause Notice by Jubilant Pharmova Limited - GST</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">01 Sep 2026, 12:31 PM</td>
 <td class="company">Sugs Lloyd Ltd</td>
 <td class="text">Sugs LLoyd Limited secures Rs. 214.27 crore Orders from TPSODL & TPWODL.</td>
