@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-02T14:46:00.649425",
+    "company": "Man Infraconstruction Limited",
+    "text": "Man Infraconstruction Limited has informed the Exchange about Board Resolution pertaining to Buyback of Equity Share of the Company.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-02T14:45:59.013592",
+    "company": "Man Infraconstruction Ltd",
+    "text": "Please find enclosed herewith Board Resolution w.r.t. Buy-back of equity shares of the Company.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-02T14:01:04.696099",
     "company": "Accord Transformer & Switchgear Ltd",
     "text": "Purchase order received for an Amount 9.69 Crore from Megha Enginnering & infrastructure",
@@ -1676,20 +1690,6 @@
     "date": "2026-08-26T09:31:04.858945",
     "company": "ACME Solar Holdings Ltd",
     "text": "[Value: RS 3.00 CRORE (VIA NEWS)] Execution of Power Purchase Agreement",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-26T09:15:40.801578",
-    "company": "Adani Energy Solutions Limited",
-    "text": "Adani Energy Solutions Limited has informed the Exchange regarding a press release dated August 26, 2026, titled \"AESL Wins Rs 4,700 crore transmission project in Maharashtra for evacuation of 4,500 MW of Renewable & Storage Power\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-26T09:15:38.798160",
-    "company": "MTAR Technologies Ltd",
-    "text": "Receipt of Order worth Rs. 126.74 Crs",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
