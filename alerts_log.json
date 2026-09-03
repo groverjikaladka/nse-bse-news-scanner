@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-03T17:31:29.566610",
+    "company": "Ramco Systems Limited",
+    "text": "[Value: 25.1 CR (VIA NEWS)] Ramco Systems Limited has informed the Exchange regarding a press release dated September 03, 2026, titled \"Ramco Systems Signs MoU with Safran Helicopter Engines\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-03T17:31:27.563879",
+    "company": "Ramco Systems Ltd",
+    "text": "[Value: 25.1 CR (VIA NEWS)] Press Release titled, \" Ramco Systems Signs MoU with Safran Helicopter Engines\"",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-03T17:15:50.463368",
     "company": "HMA Agro Industries Ltd",
     "text": "HMA Agro Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 08/09/2026 ,inter alia, to consider and approve The divestment/disposal of the entire equity shareholding (100%) held by the Company in FNS Agro Foods Limited, being Subsidiary of the Company.",
@@ -1677,20 +1691,6 @@
     "company": "Haryana Financial Corporation Ltd",
     "text": "Intimation regarding notice of Postal Ballot along with Postal Ballot Form for seeking  approval for voluntary delisting of the shares of Haryana  Financial corporation from BSE under SEBI Delisting regulations. Notices sent to all the shareholders\r\n\r\n",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-27T12:00:58.749278",
-    "company": "Skipper Limited",
-    "text": "[Value: 8,502 CRORE (VIA NEWS)] Skipper Limited has informed the Exchange regarding a press release dated August 27, 2026, titled \"Press release on receipt of order\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-27T12:00:57.063696",
-    "company": "Skipper Ltd",
-    "text": "[Value: 8,502 CRORE (VIA NEWS)] Press release on receipt of order",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
