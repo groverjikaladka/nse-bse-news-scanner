@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-04T20:02:20.002994",
+    "company": "Majestic Auto Ltd-$",
+    "text": "[Value: 75.79 CR (VIA NEWS)] Details as per attachment enclosed.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-04T19:45:56.033464",
     "company": "Mazagon Dock Shipbuilders Ltd",
     "text": "[Value: RS 15.29 CRORE (VIA NEWS)] Mazagon Dock Shipbuilders Limited has informed the Exchange about receipt of an order from MSETCL for AI based comprehensive Infrasecure Project.",
@@ -1635,34 +1642,6 @@
     "company": "True Colors Ltd",
     "text": "This has reference to our Letter dated August 27, 2026, informing about the meetings of (1) Equity Shareholders; and (2) Unsecured Creditors, to be held on Monday, September 28, 2026, pursuant to the direction given by the Ahmedabad Bench of the Hon\"able National Company Law Tribunal vide its order dated June 04, 2026, in the matter of the proposed Scheme of Amalgamation of Inkia Inks Private Limited with True Colors Limited and its shareholders and creditors. In this regard, we enclose herewith",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-28T14:31:18.073190",
-    "company": "Waaree Energies Limited",
-    "text": "[Value: 160 CRORE (VIA NEWS)] Waaree Energies Limited has informed the Exchange about Intimation of Receipt of Letter of Award.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-08-28T14:31:16.719868",
-    "company": "Shipwaves Online Ltd",
-    "text": "Intimation of receipt of purchase order worth of USD 55,800 (equivalent to Rs. 53,30,016 approx.) from TATA UK Limited.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-28T14:31:16.077798",
-    "company": "Rnit Ai Solutions Ltd",
-    "text": "[Value: RS 7.85 CRORE (VIA NEWS)] Intimation about Execution of Master Development Services Agreement with 1FC Technology Private Limited.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-08-28T14:31:15.148519",
-    "company": "Waaree Energies Ltd",
-    "text": "[Value: 160 CRORE (VIA NEWS)] Intimation of Letter of Award.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
