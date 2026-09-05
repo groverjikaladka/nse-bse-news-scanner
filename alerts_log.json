@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-05T15:00:57.249090",
+    "company": "Transworld Shipping Lines Ltd",
+    "text": "[Value: RS 29.51 CRORE (VIA NEWS)] Signing of Memorandum of Agreement",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-05T13:45:44.960088",
     "company": "Borana Weaves Ltd",
     "text": "[Value: 5 CRORE (VIA NEWS)] Intimation of Loan Agreement",
@@ -1587,12 +1594,5 @@
     "text": "[Value: 126.5 CRORE (VIA NEWS)] Pursuant to the provisions of Regulation 30 of the SEBI (LODR) Regulation, 2015, Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project to Rail Vikas Nigam Limited (RVNL).\r\n\r\nPackage-3: Supply, Erection, Testing & Commissioning of Electro Mechanical (E&M) System comprising of 33/11kv & 11/0.433kv GIS Substations, HT & LT Cables, DG Sets, Lighting, Ups System, Ventilation Systems & Fire Fighting Systems and other associated works for Tunnel T-1",
     "categories": "Order/MoU/Contract, Capacity/Expansion",
     "source": "BSE"
-  },
-  {
-    "date": "2026-08-29T09:31:08.398429",
-    "company": "Godavari Biorefineries Limited",
-    "text": "Godavari Biorefineries Limited has informed the Exchange about received show cause notice",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
   }
 ]
