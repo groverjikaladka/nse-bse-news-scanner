@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-07T21:16:28.873738",
+    "company": "PVR INOX Limited",
+    "text": "PVR INOX Limited has submitted to Stock Exchange the Letter of offer for Buy-back of equity shares.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-07T21:16:27.141405",
+    "company": "Vishnu Chemicals Ltd",
+    "text": "Announcement under Regulation 30 of SEBI (LODR)Regulations, 2015 on execution of joint venture agreement between the Company and DCX Chrome SAS, France is enclosed.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-07T19:46:07.417549",
     "company": "ArisInfra Solutions Ltd",
     "text": "[Value: 79.05 CRORE (VIA NEWS)] Intimation of Order secured by the Company, Arisinfra Solutions Limited through its subsidiary company, Arisunitern RE Solutions Private Limited, from O2 Spaces, a partnership firm that is a part of Vaishnavi Residences Group.",
@@ -1594,12 +1608,5 @@
     "text": "Muthoot Finance Limited has informed the Exchange about Amalgamation/Merger",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-08-31T15:45:44.886074",
-    "company": "Raaj Medisafe India Ltd",
-    "text": "We are glad to inform you that the Company  has received a Letter of award from Madhya Pradesh public health services corporation limited for supply of Baby Diappers to various governement hosptials. The Total Value of the order is approximately Rs. 17.02 Crores, inclusive of GST.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
