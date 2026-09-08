@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-08T18:01:33.677439",
+    "company": "Great Eastern Shipping Company Ltd",
+    "text": "We enclose herewith daily buyback report for September 08, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-08T17:31:26.157791",
     "company": "TCC Concept Limited",
     "text": "TCC Concept Limited has informed the Exchange about the amendment to the Scheme of Merger.",
@@ -1565,20 +1572,6 @@
     "company": "Jubilant Pharmova Ltd",
     "text": "Receipt of Show Cause Notice by Jubilant Pharmova Limited - GST",
     "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-01T12:31:12.961787",
-    "company": "Sugs Lloyd Ltd",
-    "text": "Sugs LLoyd Limited secures Rs. 214.27 crore Orders from TPSODL & TPWODL.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-01T12:31:12.334592",
-    "company": "Aarvi Encon Ltd",
-    "text": "[Value: 649.85 CRORE (VIA NEWS)] Intimation of Work Order received by Aarvi Encon Limited (AEL)",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
