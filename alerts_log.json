@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-08T18:31:37.016382",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on September 08, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-08T18:01:33.677439",
     "company": "Great Eastern Shipping Company Ltd",
     "text": "We enclose herewith daily buyback report for September 08, 2026",
@@ -1552,26 +1559,5 @@
     "text": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Letter of Award worth USD 135 Million from  Tsiko Africa Logistics (Pty) Ltd. together with Barberry Holdings (Pty) Ltd.",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-09-01T13:01:04.812701",
-    "company": "Jubilant Pharmova Limited",
-    "text": "Jubilant Pharmova Limited has informed the Exchange about General Updates - Receipt of Show Cause Notice by Jubilant Pharmova Limited - GST",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-01T12:45:49.115095",
-    "company": "Man Infraconstruction Ltd",
-    "text": "Further to our letter dated August 26, 2026 intimating about the meeting of Board of Directors to be held today, we hereby inform you that the Board of Directors of the Company has, inter alia approved the Buyback of fully paid-up equity shares.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-01T12:45:48.635581",
-    "company": "Jubilant Pharmova Ltd",
-    "text": "Receipt of Show Cause Notice by Jubilant Pharmova Limited - GST",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
   }
 ]
