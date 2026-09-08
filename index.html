@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 08 Sep 2026, 03:31 PM IST</span>
+<span class="updated">Last updated: 08 Sep 2026, 03:45 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">214</div>
+<div class="stat-value">217</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">105</div>
+<div class="stat-value">106</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">73</div>
+<div class="stat-value">75</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,25 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract, Capacity/Expansion">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">08 Sep 2026, 03:45 PM</td>
+<td class="company">Share India Securities Limited</td>
+<td class="text">Share India Securities Limited has informed the Exchange that the Company on September 07, 2026, has received a certified true copy of the Order of the Hon ble NCLT, Ahmedabad Bench   I, approving the Scheme of Amalgamation of Silverleaf Capital Services Private Limited with Share India Securities L...</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">08 Sep 2026, 03:45 PM</td>
+<td class="company">Hazoor Multi Projects Ltd-$</td>
+<td class="text">[Value: 193 CRORE (VIA NEWS)] We are pleased to inform you that the Company has been awarded the Letter of Award from the National Highways Auhtority of India (NHAI) at H. Pudhupatti Fee Plaza.</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">08 Sep 2026, 03:45 PM</td>
+<td class="company">Share India Securities Ltd</td>
+<td class="text">We are pleased to inform you that the Company on September 07, 2026, has received a certified true copy of Order of the Hon''ble NCLT, Ahmedabad Bench -I, approving the Scheme of Amalgamation of Silverleaf Capital Services Private Limited with Share India Securities Limited.</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract, Capacity/Expansion">
 <td class="date">08 Sep 2026, 03:31 PM</td>
 <td class="company">Sukhjit Starch & Chemicals Limited</td>
 <td class="text">Sukhjit Starch & Chemicals Limited has informed the Exchange that the company has signed a Memorandum of Understanding (MoU), today, for setting up of a new, state of the art Maize Processing Unit with a maize grind capacity of 1200 TPD, for production of Maize Starch and its derivatives, entailing ...</td>
