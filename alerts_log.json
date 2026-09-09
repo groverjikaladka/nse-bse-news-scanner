@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-09T23:16:00.350961",
+    "company": "Tata Motors Limited",
+    "text": "Tata Motors Limited has informed the Exchange about notices to Shareholders and Creditors regarding Composite Scheme of Amalgamation amongst Tata Motors Limited, TMF Holdings Limited and TMF Business Services Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-09-09T21:01:23.109657",
     "company": "Digjam Limited",
     "text": "Digjam Limited has informed the Exchange about the order of the Hon ble National Company Law Tribunal, Chennai Bench, (Tribunal) in connection with the proposed Scheme of Arrangement between Reid & Taylor International Private Limited (Demerged Company) and Digjam Limited (Resulting Company) and its shareholders (Scheme).",
@@ -1481,20 +1488,6 @@
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on September 02, 2026",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-02T17:45:54.006805",
-    "company": "Amanta Healthcare Limited",
-    "text": "Amanta Healthcare Limited has informed the Exchange about Commissioning of New SteriPort Line",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-02T17:45:51.748916",
-    "company": "Amanta Healthcare Ltd",
-    "text": "Amanta Healthcare Limited Announces Commissioning of New SteriPort Line",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
