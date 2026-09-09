@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-09T19:31:33.711177",
+    "company": "Takyon Networks Ltd",
+    "text": "[Value: 1.67 CRORE (VIA NEWS)] Kindly take this on record.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-09T18:45:53.772864",
     "company": "Dilip Buildcon Ltd",
     "text": "[Value: 2,524 CRORE (VIA NEWS)] Dilip Buildcon Limited has received Letter of Intent (LOI) for 'Grant of Authorization for Laying, Building, Operating or Expanding Petroleum and Petroleum Product (LPG) Pipeline from Paradip, Odisha to Raipur, Chattisgarh'",
@@ -1565,13 +1572,6 @@
     "company": "Man Infraconstruction Ltd",
     "text": "Please find enclosed herewith Board Resolution w.r.t. Buy-back of equity shares of the Company.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-02T14:01:04.696099",
-    "company": "Accord Transformer & Switchgear Ltd",
-    "text": "Purchase order received for an Amount 9.69 Crore from Megha Enginnering & infrastructure",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
