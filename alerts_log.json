@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-10T12:45:46.854276",
+    "company": "Ceinsys Tech Limited",
+    "text": "[Value: 30.06 CRORE (VIA NEWS)] Ceinsys Tech Limited has informed the Exchange about Bagging/Receiving of orders/contracts - Intimation for receipt of Letter of Award from Rite Water Solutions (India) Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-10T12:45:45.581916",
+    "company": "Ceinsys Tech Ltd",
+    "text": "[Value: 30.06 CRORE (VIA NEWS)] Intimation for receipt of Letter of Award from Rite Water Solutions (India) Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-10T12:45:44.747332",
+    "company": "Sharpline Broadcast Ltd",
+    "text": "Pursuant to Regulation 47 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed herewith newspaper clippings of notice for proposed delisting of Company's Equity Shares from Metropolitan Stock Exchange of India Limited (MSEI) published in following newspapers -: 1. New Delhi of 'Financial Express' (English national daily) 2. New Delhi of 'Jansatta' (Hindi national daily).",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-10T12:15:49.080357",
     "company": "Shashijit Infraprojects Ltd",
     "text": "Company has received DRC-01 from Superintendent, Central GST, Range I & III, Division-X, Daman Commissionerate",
@@ -1461,12 +1482,5 @@
     "text": "Lloyds Enterprises Limited has informed the Exchange about Change in Name of Geomysore Services India Pvt Ltd, Strategic Investment Unit of Lloyds Enterprises Limited",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-09-03T07:15:39.554778",
-    "company": "Lloyds Enterprises Ltd",
-    "text": "Intimation of Change in Name of Geomysore Services India Pvt Ltd, Strategic Investment Unit of Lloyds Enterprises Limited",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
