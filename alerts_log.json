@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-10T17:47:56.324560",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Daily Report pursuant to Regulation 18(1) of the Buyback Regulations regarding the Equity Shares bought back on September 10, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-10T17:01:00.546728",
     "company": "The Phoenix Mills Limited",
     "text": "The Phoenix Mills Limited has informed the Exchange about effective date of scheme of merger and amalgamation between subsidiary companies.",
@@ -1474,20 +1481,6 @@
     "company": "Sugs Lloyd Ltd",
     "text": "Sugs LLoyd Limited secures 24.63 crore from TPCODL.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-03T12:15:46.082530",
-    "company": "Man Infraconstruction Limited",
-    "text": "Man Infraconstruction Limited has informed the Exchange about Copy of Newspaper Publication of Public announcement pertaining to Buyback.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-03T12:15:44.102374",
-    "company": "Man Infraconstruction Ltd",
-    "text": "Please find enclosed herewith Newspaper Publication of Public Announcement pertaining to Buyback.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
