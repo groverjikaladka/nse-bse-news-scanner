@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-10T19:31:16.563856",
+    "company": "Milky Mist Dairy Food Ltd",
+    "text": "Commissioning of New Skyr and Greek Yogurt manufacturing Plant at Perundurai Manufacturing Facility",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-10T19:31:15.997973",
+    "company": "NACDAC Infrastructure Ltd",
+    "text": "Order Received from Godrej Properties Limited From an Amount  3.34 Crore (Including GST )",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-10T18:45:47.497864",
     "company": "Digilogic Systems Ltd",
     "text": "The Company has received a purchase order from Defence PSU, worth of Rs. 2.30 Crores (Incl. of all taxes)",
@@ -1459,55 +1473,6 @@
     "date": "2026-09-03T15:45:49.256177",
     "company": "Hindustan Zinc Ltd",
     "text": "[Value: 109.22 CRORE (VIA NEWS)] Please refer the enclosed file",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-03T14:01:06.955968",
-    "company": "Ashiana Housing Limited",
-    "text": "[Value: RS 300.48 CRORE (VIA NEWS)] Ashiana Housing Limited has informed the Exchange about Order received under Section 74 of the TNGST Act, 2017",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-03T14:01:06.153015",
-    "company": "Ceigall India Limited",
-    "text": "[Value: RS 704.70 CRORE (VIA NEWS)] Ceigall India Limited has informed the Exchange about Receiving of Letter of Intent (LOI) from RECPDCL.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-03T14:01:04.509006",
-    "company": "Ceigall India Ltd",
-    "text": "[Value: RS 704.70 CRORE (VIA NEWS)] In continuation to our earlier letters dated 26th August 2026, we wish to inform you that Ceigall India Limited ('CIL') has received Letter of Intent (LoI) from REC Power Development and Consultancy Limited (RECPDCL) via email dated 03rd September 2026.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-03T13:45:51.489594",
-    "company": "Sumeet Industries Limited",
-    "text": "Sumeet Industries Limited has informed the Exchange about General Updates for successful commissioning of  40 Tonns per day new FDY lines production capacity",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-03T13:45:50.116402",
-    "company": "Saatvik Green Energy Ltd",
-    "text": "[Value: 190 CRORE (VIA NEWS)] Receipt of Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-03T13:45:48.912338",
-    "company": "Sumeet Industries Ltd-$",
-    "text": "Announcement for successfully commissioning of  40 Tons TPD FDY production line capacity",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-03T13:45:48.225017",
-    "company": "Sugs Lloyd Ltd",
-    "text": "Sugs LLoyd Limited secures 24.63 crore from TPCODL.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
