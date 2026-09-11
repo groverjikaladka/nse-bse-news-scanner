@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 11 Sep 2026, 05:31 PM IST</span>
+<span class="updated">Last updated: 11 Sep 2026, 05:45 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">214</div>
+<div class="stat-value">217</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -58,7 +58,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">13</div>
+<div class="stat-value">16</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
@@ -74,7 +74,25 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Regulatory/Drug Approval">
+<td class="date">11 Sep 2026, 05:45 PM</td>
+<td class="company">Aurobindo Pharma Limited</td>
+<td class="text">Aurobindo Pharma Limited has informed the Exchange about Completion of US FDA Inspection at Unit-IV of Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company</td>
+<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Litigation/Regulatory Action">
+<td class="date">11 Sep 2026, 05:45 PM</td>
+<td class="company">Spice Islands Industries Ltd-$</td>
+<td class="text">Pursuat to Regulation 30 read with Schduled III of the SEBI Listing Regulations, we hereby inform that SEBI conducted Search and Seizure proceeding at the registered office and certain other location of the Company on September 10, 2026.</td>
+<td><span class="badge" style="background:#ef4444">Litigation/Regulatory Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Regulatory/Drug Approval">
+<td class="date">11 Sep 2026, 05:45 PM</td>
+<td class="company">Aurobindo Pharma Ltd</td>
+<td class="text">Intimation of completion of US FDA inspection of Unit-IV of Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company.</td>
+<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">11 Sep 2026, 05:31 PM</td>
 <td class="company">Industrial Investment Trust Ltd</td>
 <td class="text">Completion of extinguishment of 16,22, 822 fully paid up equity shares - Buyback</td>
