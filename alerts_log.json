@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-11T19:01:12.744304",
+    "company": "Jatalia Global Ventures Ltd",
+    "text": "Appointment of Directors in pursuance to the Resolution Plan approved by the Hon''ble National Company Law Tribunal vide its order dated 09.07.2026",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-11T19:01:12.111117",
+    "company": "Haryana Financial Corporation Ltd",
+    "text": "VC Corporate Advisors Pvt Ltd (\"Manager to the Delisting Offer\") has submitted to BSE a copy of Corrigendum to the Initial Public Announcement dated August 07, 2026 for the attention of the Public Shareholders of Haryana Financial Corporation Ltd.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-11T18:15:51.402746",
     "company": "JSW Infrastructure Limited",
     "text": "[Value: 385 CRORE (VIA NEWS)] Letter of Intent for setting up of an Inland Container Depot at Village Kudathini, Ballari District, Karnataka",
@@ -1509,20 +1523,6 @@
     "company": "Carraro India Ltd",
     "text": "[Value: RS 540.17 CRORE (VIA NEWS)] Carraro India Limited has informed the exchange about the receipt of order-in-original from the Commissioner of Customs",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-04T13:31:13.651983",
-    "company": "Tips Music Limited",
-    "text": "Tips Music Limited has informed the Exchange about public Announcement and Shareholders Resolution - Buyback of Shares",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-04T13:31:11.800421",
-    "company": "Tips Music Ltd",
-    "text": "Submission of Public Announcement and Shareholders'' Resolution - Buyback of Equity Shares",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
