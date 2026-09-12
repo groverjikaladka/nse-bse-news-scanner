@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-12T20:31:15.481294",
+    "company": "Avantel Ltd",
+    "text": "Avantel Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 18/09/2026 ,inter alia, to consider and approve the Scheme of Merger of M/s. Imeds Global Private Limited, a wholly owned subsidiary Company into Avantel Limited, holding Company",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-12T19:45:41.513242",
     "company": "Airfloa Rail Technology Ltd",
     "text": "[Value: 1.92 CRORE (VIA NEWS)] In furtherence to our Eariler Intinmation dated, 27th August 2026, Our Company Signed the MOU with Kin Railway Equipment Private Limited.",
@@ -1459,13 +1466,6 @@
     "date": "2026-09-05T16:31:16.749455",
     "company": "Accord Transformer & Switchgear Ltd",
     "text": "[Value: RS 9.69 CRORE (VIA NEWS)] Order Received from Shalimar Corp Limited for an Amount 50.40 Lakhs",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-05T15:00:57.249090",
-    "company": "Transworld Shipping Lines Ltd",
-    "text": "[Value: RS 29.51 CRORE (VIA NEWS)] Signing of Memorandum of Agreement",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
