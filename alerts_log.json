@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-12T16:31:12.714310",
+    "company": "JSW Steel Limited",
+    "text": "JSW Steel Limited has informed the Exchange about Copy of Newspaper Publication regarding Petition hearing date before Hon'ble NCLT in connection with Amalgamation of Piombino Steel Limited with JSW Steel Ltd",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-12T16:31:11.011548",
+    "company": "JSW Steel Ltd",
+    "text": "Newspaper Publication regarding Petition Hearing Date before the Hon''ble NCLT in connection with the Scheme of Amalgamation of Piombino Steel Limited with JSW Steel Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-12T16:31:10.489984",
+    "company": "Axel Polymers Ltd",
+    "text": "Receipt of Show Cause Notice issued by the Securities and Exchange Board of India in the matter of GST.",
+    "categories": "Litigation/Regulatory Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-12T15:31:12.338866",
     "company": "Munjal Auto Industries Limited",
     "text": "[Value: RS 699 CR (VIA NEWS)] Munjal Auto Industries Limited has informed the Exchange regarding ' Announcement under Regulation 30 (LODR)-Memorandum of Understanding /Agreements'.",
@@ -1474,20 +1495,6 @@
     "company": "Refex Renewables & Infrastructure Ltd",
     "text": "[Value: RS 3.10 CRORE (VIA NEWS)] Letter of award received by Refex Green Power Limited, a WOS from SJVN Limited, a joint venture of Government of India and Government of Himachal Pradesh for setting up of 80MW wind power project in Kurnool, Andra Pradesh.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-05T11:00:53.604388",
-    "company": "The Phoenix Mills Limited",
-    "text": "The Phoenix Mills Limited has informed the Exchange about sanction of scheme of merger and amalgamation between subsidiary companies by National Company Law Tribunal, Chennai Bench.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-05T11:00:51.918141",
-    "company": "The Phoenix Mills Ltd",
-    "text": "Please refer the attached letter relating to sanction of scheme of merger and amalgamation between subsidiary companies by National Company Law Tribunal, Chennai Bench.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
