@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-14T21:31:20.617693",
+    "company": "Lemon Tree Hotels Limited",
+    "text": "Lemon Tree Hotels Limited has informed the Exchange about Sale or disposal of subsidiary. Pursuant to the execution of the Joint Venture Agreement (JVA), RJ Corp Limited shall acquire 49% stake by subscribing to fresh issuance of equity shares of Arum Hotels Private Limited (Arum). As contemplated under the JVA, Carnation Hotels Private Limited shall hold 51% of the equity share capital in Arum. Upon completion of the aforesaid transactions, Arum shall cease to be a step-down wholly owned subsid",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-14T21:31:18.003934",
+    "company": "Lemon Tree Hotels Ltd",
+    "text": "Pursuant to the execution of Joint Venture Agreement (JVA), RJ Corp Limited shall acquire 49% stake by subscribing to fresh issuance of equity shares of Arum Hotels Private Limited (Arum). As contemplated under the JVA, Carnation Hotels Private Limited shall hold 51% of the equity shares in Arum. Upon completion of the aforesaid transactions, Arum shall cease to be a step-down wholly owned subsidiary of the Company and shall continue as a step-down subsidiary of the Company.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-14T21:15:57.109193",
     "company": "Lemon Tree Hotels Limited",
     "text": "Lemon Tree Hotels Limited has informed the Exchange about Joint Venture Agreement has been executed between Carnation Hotels Private Limited, a wholly owned subsidiary of the Company and RJ Corp Limited with respect to Arum Hotels Private Limited, the Special Purpose Vehicle and step-down wholly owned subsidiary of the Company, for the development and execution of the Aurika Shillong project.",
@@ -1382,13 +1396,6 @@
     "date": "2026-09-07T17:01:04.812013",
     "company": "Adani Power Ltd",
     "text": "[Value: 185.16 CR (VIA NEWS)] GVK Energy Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-07T16:01:05.127754",
-    "company": "Garuda Construction and Engineering Ltd",
-    "text": "[Value: 41.5 CRORE (VIA NEWS)] The Company informed the stock exchanges about MOU between Dream City Builders with Almasarat Company Limited.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
