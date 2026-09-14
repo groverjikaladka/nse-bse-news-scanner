@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-14T22:31:12.914197",
+    "company": "Acme Solar Holdings Limited",
+    "text": "Acme Solar Holdings Limited has informed the Exchange about Commissioning of Battery Energy Storage Systems (BESS) Project",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-14T22:31:11.573673",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Commissioning of Battery Energy Storage Systems (BESS) project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-14T21:31:20.617693",
     "company": "Lemon Tree Hotels Limited",
     "text": "Lemon Tree Hotels Limited has informed the Exchange about Sale or disposal of subsidiary. Pursuant to the execution of the Joint Venture Agreement (JVA), RJ Corp Limited shall acquire 49% stake by subscribing to fresh issuance of equity shares of Arum Hotels Private Limited (Arum). As contemplated under the JVA, Carnation Hotels Private Limited shall hold 51% of the equity share capital in Arum. Upon completion of the aforesaid transactions, Arum shall cease to be a step-down wholly owned subsid",
@@ -1390,13 +1404,6 @@
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on September 07, 2026",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-07T17:01:04.812013",
-    "company": "Adani Power Ltd",
-    "text": "[Value: 185.16 CR (VIA NEWS)] GVK Energy Limited",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
