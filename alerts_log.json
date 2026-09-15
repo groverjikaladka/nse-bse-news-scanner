@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-15T18:15:53.701881",
+    "company": "Aurobindo Pharma Limited",
+    "text": "Aurobindo Pharma Limited has informed the Exchange about Completion of US FDA Inspection at Unit-II of Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-15T18:15:52.200060",
+    "company": "Aurobindo Pharma Ltd",
+    "text": "Submission of completion of US FDA inspection of Unit-II of Apitoria Pharma Private Limited, a wholly owned subsidiary of the Company.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-15T18:01:05.106109",
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on September 15, 2026",
@@ -1361,20 +1375,6 @@
     "date": "2026-09-08T13:01:02.125774",
     "company": "Goldiam International Ltd",
     "text": "We are pleased to announce that the Compnay, along with its Wholly Owned subsidiaries, have received purchase orders aggregating to Rs.60 cr. for the manufacturing and export of lab-grown diamond jewellery in ordinary course of busniness.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-08T12:45:43.963871",
-    "company": "Jyoti Ltd-$",
-    "text": "[Value: 8.63 CRORE (VIA NEWS)] Receipt of Letter of Intent (LOI)",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-08T12:45:42.965757",
-    "company": "Ceigall India Ltd",
-    "text": "[Value: 5,300 CRORE (VIA NEWS)] In accordance with the above-mentioned provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has emerged as the H1 bidder in the Project ????? ???? ?? ????? ???????? ?? ????????? ???? (Allotment/Leasing of Stone Blocks in Nawada District Lot-4) (Bhadokhara, Block-D) under Competitive Bidding through E-Reverse Auction from Government of Bihar, Department of Mines and Geology on 07th September 2026.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
