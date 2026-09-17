@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-17T22:31:21.591130",
+    "company": "Juniper Green Energy Limited",
+    "text": "Juniper Green Energy Limited has informed the Exchange about commissioning of Wind-Solar Hybrid Power Project",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
     "date": "2026-09-17T22:15:47.302665",
     "company": "Juniper Green Energy Ltd",
     "text": "Update on commissioning of Wind-Solar Hybrid Power Project",
@@ -1095,34 +1102,6 @@
     "date": "2026-09-10T17:47:56.324560",
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(1) of the Buyback Regulations regarding the Equity Shares bought back on September 10, 2026",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-10T17:01:00.546728",
-    "company": "The Phoenix Mills Limited",
-    "text": "The Phoenix Mills Limited has informed the Exchange about effective date of scheme of merger and amalgamation between subsidiary companies.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-10T16:45:52.621886",
-    "company": "Texmaco Rail & Engineering Limited",
-    "text": "Texmaco Rail & Engineering Limited has informed the Exchange about receipt of Order worth Rs. 27.82 Crores (incl. taxes) from Hindalco Industries Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-10T16:45:51.610710",
-    "company": "Texmaco Rail & Engineering Ltd",
-    "text": "Intimation of receipt of Order worth Rs. 27.82 Crores (incl. taxes) from Hindalco Industries Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-10T16:45:51.090766",
-    "company": "The Phoenix Mills Ltd",
-    "text": "Intimation of effective date of scheme of merger and amalgamation between subsidiary companies.",
     "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
