@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 17 Sep 2026, 11:31 PM IST</span>
+<span class="updated">Last updated: 17 Sep 2026, 11:45 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">158</div>
+<div class="stat-value">159</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">45</div>
+<div class="stat-value">46</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,25 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<tbody id="table-body"><tr data-category="Capacity/Expansion">
+<td class="date">17 Sep 2026, 11:45 PM</td>
+<td class="company">Acme Solar Holdings Limited</td>
+<td class="text">Acme Solar Holdings Limited has informed the Exchange about update on commissioning of Battery Energy Storage System (BESS) Project</td>
+<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
+<td class="date">17 Sep 2026, 11:45 PM</td>
+<td class="company">ACME Solar Holdings Ltd</td>
+<td class="text">Update on commissioning of Battery Energy Storage System (BESS) project</td>
+<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">17 Sep 2026, 11:45 PM</td>
+<td class="company">Transworld Shipping Lines Ltd</td>
+<td class="text">Execution of Joint Venture Agreement with Bainbridge Navigation DMCC</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
 <td class="date">17 Sep 2026, 10:45 PM</td>
 <td class="company">Majestic Auto Ltd-$</td>
 <td class="text">[Value: 105.42 CR (VIA NEWS)] Details as per attachment enclosed</td>
@@ -1013,18 +1031,6 @@ tr.hidden { display: none; }
 <td class="company">Digilogic Systems Ltd</td>
 <td class="text">The Company has received a purchase order from Defence PSU, worth of Rs. 2.30 Crores (Incl. of all taxes)</td>
 <td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="Capacity/Expansion">
-<td class="date">10 Sep 2026, 06:15 PM</td>
-<td class="company">Juniper Green Energy Limited</td>
-<td class="text">Juniper Green Energy Limited has informed the Exchange about commissioning of additional capacity</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
-<td><span class="source">NSE</span></td>
-</tr><tr data-category="Capacity/Expansion">
-<td class="date">10 Sep 2026, 06:15 PM</td>
-<td class="company">Juniper Green Energy Ltd</td>
-<td class="text">Update on commissioning of additional capacity</td>
-<td><span class="badge" style="background:#8b5cf6">Capacity/Expansion</span></td>
 <td><span class="source">BSE</span></td>
 </tr></tbody>
 </table>

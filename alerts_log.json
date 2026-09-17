@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-17T23:45:52.437077",
+    "company": "Acme Solar Holdings Limited",
+    "text": "Acme Solar Holdings Limited has informed the Exchange about update on commissioning of Battery Energy Storage System (BESS) Project",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-17T23:45:51.283265",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Update on commissioning of Battery Energy Storage System (BESS) project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-17T23:45:50.794930",
+    "company": "Transworld Shipping Lines Ltd",
+    "text": "Execution of Joint Venture Agreement with Bainbridge Navigation DMCC",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-17T22:45:48.299351",
     "company": "Majestic Auto Ltd-$",
     "text": "[Value: 105.42 CR (VIA NEWS)] Details as per attachment enclosed",
@@ -1089,20 +1110,6 @@
     "company": "Digilogic Systems Ltd",
     "text": "The Company has received a purchase order from Defence PSU, worth of Rs. 2.30 Crores (Incl. of all taxes)",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-10T18:15:48.331060",
-    "company": "Juniper Green Energy Limited",
-    "text": "Juniper Green Energy Limited has informed the Exchange about commissioning of additional capacity",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-10T18:15:46.341310",
-    "company": "Juniper Green Energy Ltd",
-    "text": "Update on commissioning of additional capacity",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
