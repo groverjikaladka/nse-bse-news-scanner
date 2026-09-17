@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-17T22:15:47.302665",
+    "company": "Juniper Green Energy Ltd",
+    "text": "Update on commissioning of Wind-Solar Hybrid Power Project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-17T20:01:06.999884",
     "company": "Cello World Limited",
     "text": "Cello World Limited has informed the Exchange regarding 'Report From The Audit And Independent Directors Committee Pursuant To Composite Scheme Of Amalgamation'.",
@@ -1117,13 +1124,6 @@
     "company": "The Phoenix Mills Ltd",
     "text": "Intimation of effective date of scheme of merger and amalgamation between subsidiary companies.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-10T16:31:13.405118",
-    "company": "United Drilling Tools Ltd",
-    "text": "[Value: 5.04 CRORE (VIA NEWS)] Receipt of Order from Agentera Engenharia",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
