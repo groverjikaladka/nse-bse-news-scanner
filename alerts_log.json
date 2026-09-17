@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-17T19:15:54.339055",
+    "company": "Time Technoplast Limited",
+    "text": "Time Technoplast Limited has informed the Exchange about Completion of Greenfield Manufacturing Plant at Bhilad, Gujarat (India) and Commencement of Production",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-17T19:15:51.254378",
+    "company": "Veefin Solutions Ltd",
+    "text": "Pursuant to Regulation 30 of the SEBI (LODR) Reg, 2015 please find enclosed herewith newspaper publication regarding notice of hearing in relation to Scheme of Amalgamation",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-17T19:15:50.601099",
+    "company": "Time Technoplast Ltd",
+    "text": "Completion of Greenfield Manufacturing Plant at Bhilad, Gujarat (India) and Commencement of Production",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-17T18:45:50.007338",
     "company": "GPT Infraprojects Ltd",
     "text": "Please find enclosed herewith press release for order bagged by the Company worth Rs. 483.72 Crore.",
@@ -1123,13 +1144,6 @@
     "date": "2026-09-10T14:01:01.224802",
     "company": "Man Industries (India) Ltd-$",
     "text": "[Value: 1,000 CRORE (VIA NEWS)] As per the attachment.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-10T13:45:46.421711",
-    "company": "Valiant Communications Ltd-$",
-    "text": "Receipt of Purchase Order of INR 1,388 Lacs.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
