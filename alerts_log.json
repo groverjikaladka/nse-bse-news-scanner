@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-18T17:31:31.962558",
+    "company": "Methodhub Software Ltd",
+    "text": "Intimation for receipt of order worth Rs. 161 crores from an International Entity",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-18T17:15:44.120241",
     "company": "HEG Ltd",
     "text": "[Value: 4,000 CRORE (VIA NEWS)] Receipt of orders by Replus Engitech Private Limited, a subsidiary of the Company",
@@ -1144,27 +1151,6 @@
     "date": "2026-09-11T12:15:44.476101",
     "company": "Oriental Rail Infrastructure Ltd",
     "text": "[Value: RS 1.76 CRORE (VIA NEWS)] Receipt of award",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-11T11:45:49.854380",
-    "company": "Alembic Pharmaceuticals Limited",
-    "text": "Successful completion of unannounced USFDA onsite inspection at Alembic Pharmaceuticals Limited s Bioequivalence Facility in Vadodara, Gujarat",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-11T11:45:48.321527",
-    "company": "Alembic Pharmaceuticals Ltd",
-    "text": "Successful completion of unannounced USFDA onsite inspection at Alembic Pharmaceuticals Limited''s Bioequivalence Facility in Vadodara, Gujarat.",
-    "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-11T11:45:47.684275",
-    "company": "Brahmaputra Infrastructure Ltd",
-    "text": "Signed Agreement  of an total amount Rs. 46.62 Crores with North East Frontier Railway.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
