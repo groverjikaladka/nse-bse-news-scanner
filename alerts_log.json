@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-19T15:45:56.818383",
+    "company": "Cosmic CRF Ltd",
+    "text": "Receipt of Purchase order by the subsidiary M/s N S Engineering Projects Private Limited worth Rs. 1414.04 Lakhs.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-19T15:45:56.210937",
+    "company": "Cosmic CRF Ltd",
+    "text": "Receipt of Purchase order by the Company worth Rs. 1179.92 Lakhs.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-19T15:45:55.590594",
+    "company": "United Drilling Tools Ltd",
+    "text": "[Value: 1.61 CR (VIA NEWS)] Receipt of order from ONGC",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-19T15:45:54.581935",
+    "company": "Cosmic CRF Ltd",
+    "text": "Receipt of purchase order by the Subsidiary M/s Cosmic Springs & Engineers Limited worth Rs. 589.96 Lakhs",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-19T14:31:09.836196",
     "company": "Chiraharit Ltd",
     "text": "[Value: 4.50 CRORE (VIA NEWS)] We wish to inform your esteemed organization that the Company has received a purchase order from Northern Region   Farm Machinery Training & Testing Institute, Haryana, India for Supply of Center Pivot Irrigation System.",
