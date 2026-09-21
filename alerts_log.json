@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-21T16:01:00.243683",
+    "company": "Pace Digitek Ltd",
+    "text": "[Value: 92.9 CRORE (VIA NEWS)] Intimation of Order that Lineage Power Private Limited (Material Subsidiary) has received the order from NTPC GE Power Services Private Limited.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-21T14:01:03.283832",
     "company": "Marine Electricals (India) Limited",
     "text": "Marine Electricals (India) Limited has informed the Exchange about General Updates Press Release Summary   Capacity Expansion and New Plant at Goa",
@@ -1166,13 +1173,6 @@
     "company": "ITCONS E-Solutions Ltd",
     "text": "We are pleased to inform that our company has bagged a new contract from Indian Navy, Department of Military Affairs, Ministry of Defence of worth Rs. 8305153.87. For further details, kindly refer attached file.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-14T10:16:15.960981",
-    "company": "UP Hotels Ltd",
-    "text": "Further to our letter dated 7.9.2026 and pursuant to Regulation 30 read with Para A part A of Schedule III of SEBI (LODR) Regulations, 2015 enclosing herewith notice of Postal Ballot dated 7.9.2026 seeking in-principle approval of the members of the company with regard to voluntary delisting of equity shares of the company from BSE.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
