@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 21 Sep 2026, 06:15 PM IST</span>
+<span class="updated">Last updated: 21 Sep 2026, 06:45 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">174</div>
+<div class="stat-value">176</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">86</div>
+<div class="stat-value">88</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Capacity/Expansion">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">21 Sep 2026, 06:45 PM</td>
+<td class="company">GK Energy Limited</td>
+<td class="text">[Value: 42.84 CRORE (VIA NEWS)] GK Energy Limited has informed the Exchange regarding a press release dated September 21, 2026, titled "GK Energy Receives Letter of Award for 150 MW / 300 MWh Battery Energy Storage Systems in Maharashtra"</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">21 Sep 2026, 06:45 PM</td>
+<td class="company">GK Energy Ltd</td>
+<td class="text">[Value: 42.84 CRORE (VIA NEWS)] GK Energy Limited has informed the Exchange regarding a press release dated 21st September, 2026, titled "GK Energy Receives Letter of Award for 150 MW / 300 MWh Battery Energy Storage Systems in Maharashtra"</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
 <td class="date">21 Sep 2026, 06:15 PM</td>
 <td class="company">Garden Reach Shipbuilders & Engineers Ltd</td>
 <td class="text">This disclosure is in continuation to the disclosure filed by the Company on 24 Aug 2026 regarding Capacity Expansion through three new facilities including Raichak.
