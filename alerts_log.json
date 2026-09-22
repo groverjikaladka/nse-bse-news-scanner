@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-22T23:01:15.474841",
+    "company": "Sasken Technologies Ltd",
+    "text": "[Value: 10.89 CRORE (VIA NEWS)] Please find enclosed details of the Order passed by the Joint Commissioner Appeals, GST Department, Bengaluru.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-22T22:45:59.849493",
     "company": "Sasken Technologies Ltd",
     "text": "[Value: RS 334.02 CRORE (VIA NEWS)] Please find enclosed details of the Order passed by the Joint Commissioner Appeals, GST Department, Bengaluru (FY 2021-22)",
@@ -1327,13 +1334,6 @@
     "company": "Mobavenue AI Tech Ltd",
     "text": "We wish to inform you that, the Board of Directors of Mobavenue AI Tech Limited  (\"the Company\") at it''s meeting held today, i.e Tuesday, September 15, 2026, accorded its approval to the Scheme of Merger between Mobavenue Media Private Limited (Wholly Owned Subsidiary) with the Company and their respective shareholders.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-15T17:31:13.789272",
-    "company": "Saatvik Green Energy Ltd",
-    "text": "[Value: RS 190 CRORE (VIA NEWS)] Receipt of Order",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
