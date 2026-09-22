@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-22T18:45:50.704260",
+    "company": "Great Eastern Shipping Company Ltd",
+    "text": "We herewith enclose daily buyback report for September 22, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-22T18:45:50.101178",
+    "company": "Netlink Solutions India Ltd",
+    "text": "Intimation w.r.t order from Regional Director approving the Shifting of Registered Office",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-22T18:01:21.745195",
     "company": "Exhicon Events Media Solutions Ltd",
     "text": "[Value: 205 CRORE (VIA NEWS)] Disclosure pursuant to Regulation 30 read with Schedule III to the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Joint Venture Agreement with India Exposition Mart Limited",
@@ -1341,20 +1355,6 @@
     "company": "Ashapuri Gold Ornament Ltd",
     "text": "[Value: 29 CRORE (VIA NEWS)] The Details of Order Recived by the Company are enclosed.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-15T13:15:47.087908",
-    "company": "Aurobindo Pharma Limited",
-    "text": "Aurobindo Pharma Limited has informed the Exchange regarding a press release dated September 15, 2026, titled \"Aurobindo Pharma receives USFDA Final Approval for Beclomethasone Dipropionate HFA Inhalation Aerosol, 40 mcg and 80 mcg\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-15T13:15:44.961619",
-    "company": "Aurobindo Pharma Ltd",
-    "text": "Submission of Press Release that is  being issued in connection with receipt of US FDA final approval for Beclomethasone Dipropionate HFA Inhalation Aerosol , 40 mcg and 80 mcg.",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
