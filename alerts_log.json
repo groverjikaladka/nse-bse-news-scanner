@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-22T19:32:20.610087",
+    "company": "Prostarm Info Systems Limited",
+    "text": "[Value: 165 CRORE (VIA NEWS)] Prostarm Info Systems Limited has informed the Exchange about Purchase Order from Rayzon Energy Private Limited for SITC of Aggregate 2900 kVA UPS",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-22T19:32:18.971012",
+    "company": "Prostarm Info Systems Ltd",
+    "text": "[Value: 165 CRORE (VIA NEWS)] Purchase Order from Rayzon Energy Private Limited for SITC of agreegate 2900 kVA UPS",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-22T19:16:40.553018",
     "company": "NHPC Limited",
     "text": "NHPC Limited has informed the Exchange that MCA has fixed 28.09.2026 as hearing date in the matter of scheme of amalgamation between JPCL and NHPC Limited. The other details are given in the attached letter.",
@@ -1348,20 +1362,6 @@
     "company": "Bharat Heavy Electricals Ltd",
     "text": "[Value: 2,500 CRORE (VIA NEWS)] Signing of Joint Venture Agreement with Titagarh Rail Systems Limited",
     "categories": "Order/MoU/Contract, M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-15T14:01:00.972795",
-    "company": "Kavveri Defence & Wireless Technologies Ltd-$",
-    "text": "[Value: RS 1.21 CRORE (VIA NEWS)] Business Update-Update on Order Execution.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-15T14:01:00.017228",
-    "company": "JSW Dulux Ltd",
-    "text": "Attached details of a show cause notice received from Karnataka GST Department.",
-    "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
 ]
