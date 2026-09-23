@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-23T19:01:20.019187",
+    "company": "Max Estates Limited",
+    "text": "Max Estates Limited has informed the Exchange regarding a press release dated September 23, 2026, titled \"Max Estates enters into a Binding Memorandum of Understanding for a proposed Joint Development Agreement for approx. 9.76-Acre Land Parcel in Ghaziabad, to unlock approx. INR 2,500-3,000 Crore GDV Opportunity\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-23T19:01:18.442238",
+    "company": "Accord Transformer & Switchgear Ltd",
+    "text": "[Value: 5.28 CRORE (VIA NEWS)] Order Received for an Amount 20.02 Crores",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-23T18:15:46.770172",
     "company": "Euphoria Infotech (India) Ltd",
     "text": "[Value: 59.02 CRORE (VIA NEWS)] Bagging of Order",
@@ -1488,13 +1502,6 @@
     "company": "Digilogic Systems Ltd",
     "text": "The Company has received an order from Ministry of Defence, Government of India, worth of Rs. 2.40 Crores (Incl. of all taxes)",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-16T13:15:45.384389",
-    "company": "UP Hotels Ltd",
-    "text": "In continuation to our letter dated 14.9.2026 regarding the Postal Ballot Notice,  please find enclosed herewith the copies of Newspaper publication dated 15.9.2026 as published in Financial Express and Jansatta with regard to the completion of dispatch of Postal Ballot Notice.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
