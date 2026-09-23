@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-23T17:31:27.379304",
+    "company": "Shriram Finance Ltd",
+    "text": "[Value: RS 13,393.68 CRORE (VIA NEWS)] Order Received",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-23T17:16:01.721887",
     "company": "Logiciel Solutions Ltd",
     "text": "[Value: 235 CRORE (VIA NEWS)] In compliance with Regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015 and in reference to the Materiality policy of the Company, we hereby inform you that the Company has approved to enter into a Marketing Service agreement with M/s Stori Boat Productions LLP for the purpose of brand repositioning, Identity refresh and website design and development services for the Company.",
@@ -1466,13 +1473,6 @@
     "date": "2026-09-16T13:01:00.623333",
     "company": "Desco Infratech Ltd",
     "text": "[Value: RS 3.03 CRORE (VIA NEWS)] Signing of Memorandum of Understanding (MoU) with DenEB Air Gases Private Limited for strategic collaboration",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-16T12:01:00.581570",
-    "company": "BMW Ventures Ltd",
-    "text": "[Value: 10.6 CRORE (VIA NEWS)] The Company has received an order from Adani",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
