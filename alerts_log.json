@@ -1335,26 +1335,5 @@
     "text": "[Value: 180.6 CRORE (VIA NEWS)] Receipt of Order",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-09-17T23:45:52.437077",
-    "company": "Acme Solar Holdings Limited",
-    "text": "Acme Solar Holdings Limited has informed the Exchange about update on commissioning of Battery Energy Storage System (BESS) Project",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-17T23:45:51.283265",
-    "company": "ACME Solar Holdings Ltd",
-    "text": "Update on commissioning of Battery Energy Storage System (BESS) project",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-17T23:45:50.794930",
-    "company": "Transworld Shipping Lines Ltd",
-    "text": "Execution of Joint Venture Agreement with Bainbridge Navigation DMCC",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
