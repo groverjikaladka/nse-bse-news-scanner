@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-25T17:31:40.362945",
+    "company": "NGL Fine-Chem Limited",
+    "text": "NGL Fine-Chem Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI LODR Regulations )   Show Cause Notice received from the GST Department'.",
+    "categories": "Litigation/Regulatory Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-25T17:31:38.790317",
+    "company": "NGL Fine Chem Ltd",
+    "text": "Disclosure of Show Cause Notice received from the GST Department",
+    "categories": "Litigation/Regulatory Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-25T17:16:01.885138",
     "company": "Jatalia Global Ventures Ltd",
     "text": "Cessation of erstwhile directors of Jatalia Global Ventures Limited pursuant to the Resolution Plan approved by the Hon''ble NCLT and appointment of company secretary and compliance officer as per Reg 6 of SEBI LODR,2015",
@@ -1481,27 +1495,6 @@
     "company": "Patanjali Foods Ltd",
     "text": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 regarding ESG Rating by Niche Ninety Nine Capability and Certification (OPC) Private Limited.",
     "categories": "Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T12:00:59.495521",
-    "company": "HALEOS LABS LIMITED",
-    "text": "HALEOS LABS LIMITED has informed regarding USFDA Update (Material Subsidiary)",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-18T12:00:58.187820",
-    "company": "KS Smart Technologies Ltd",
-    "text": "[Value: RS 4.38 CRORE (VIA NEWS)] Intimation regarding bagging of order by KS Smart Solutions Private Limited, a Wholly-Owned Subsidiary of the Company from School Education Department, Government of Punjab.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T12:00:57.284971",
-    "company": "Haleos Labs Ltd",
-    "text": "Update on the material subsidiary of the Company.",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
