@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 25 Sep 2026, 07:31 AM IST</span>
+<span class="updated">Last updated: 25 Sep 2026, 07:45 AM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">191</div>
+<div class="stat-value">193</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">106</div>
+<div class="stat-value">108</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Capacity/Expansion">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">25 Sep 2026, 07:45 AM</td>
+<td class="company">Vascon Engineers Limited</td>
+<td class="text">Vascon Engineers Limited receives Letter of Intent for Development of Office Facility Ground + 12 Floors at Bengaluru by Multinational IT Company Qualcomm India Private Limited amounting to Rs. 660.79 Crore</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">25 Sep 2026, 07:45 AM</td>
+<td class="company">Vascon Engineers Ltd</td>
+<td class="text">Vascon Engineers Limited receives Letter of Intent amounting to Rs. 660.79 Crore from Qualcumm India Private Limited</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
 <td class="date">24 Sep 2026, 11:16 PM</td>
 <td class="company">Steamhouse India Ltd</td>
 <td class="text">Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure) Requirements, 2015, Steamhouse India Limited has been awarded an EPC, commissioning and comprehensive O&M Mandate by Himachal Pradesh Bulk Drug park Infrastructure Limited for a 300 TPH common steam plant and co-generation Power ...</td>
