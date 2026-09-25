@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-25T20:31:36.248339",
+    "company": "Rashtriya Chemicals and Fertilizers Ltd",
+    "text": "[Value: 1,500 CRORE (VIA NEWS)] Intimation enclosed herewith",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-25T20:31:35.175875",
+    "company": "Kotak Mahindra Bank Ltd",
+    "text": "Intimation attached.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-25T20:16:05.675237",
     "company": "Kotak Mahindra Bank Limited",
     "text": "Intimation of Scheme of Amalgamation of Kotak Mahindra Investments Limited with Kotak Alternate Asset Managers Limited, both, wholly-owned subsidiaries of the Bank",
@@ -1550,13 +1564,6 @@
     "date": "2026-09-18T15:15:46.513036",
     "company": "Career Point Edutech Ltd",
     "text": "[Value: 17.6 CRORE (VIA NEWS)] Disclosure pursuant to Reg. 30 of SEBI LODR enclosed herewith.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T15:01:02.921091",
-    "company": "East India Drums and Barrels Manufacturing Ltd",
-    "text": "Receipt of Order of Indo Tibetan Border Police, Ministry of Home Affairs, Government of India",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
