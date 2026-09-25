@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-25T14:31:26.483495",
+    "company": "Cosmic CRF Ltd",
+    "text": "Receipt of Purchase Order by the Subsidiary M/s N S Engineering Projects Pvt. Ltd. worth Rs. 1302.45 Lakhs.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-25T14:31:25.897347",
+    "company": "Cosmic CRF Ltd",
+    "text": "Receipt of Purchase order by the Company worth Rs. 1329.80 Lakhs.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-25T14:31:25.307372",
+    "company": "Ellenbarrie Industrial Gases Ltd",
+    "text": "Ellenbarrie Industrial Gases Limited has informed the exchange regarding Intimation of Commissioning of an Air Separation Unit (ASU) built under a Long-Term Onsite Agreement.",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-25T14:01:15.573202",
     "company": "G R Infraprojects Limited",
     "text": "G R Infraprojects Limited has informed the Exchange about Update on Show Cause Notice from GST Department.",
