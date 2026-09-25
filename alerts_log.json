@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-25T22:46:16.483679",
+    "company": "Sanofi India Limited",
+    "text": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015   Receipt of Show Cause Notice from GST Authorities",
+    "categories": "Litigation/Regulatory Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-09-25T20:31:36.248339",
     "company": "Rashtriya Chemicals and Fertilizers Ltd",
     "text": "[Value: 1,500 CRORE (VIA NEWS)] Intimation enclosed herewith",
@@ -1522,34 +1529,6 @@
     "date": "2026-09-18T17:31:31.962558",
     "company": "Methodhub Software Ltd",
     "text": "Intimation for receipt of order worth Rs. 161 crores from an International Entity",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T17:15:44.120241",
-    "company": "HEG Ltd",
-    "text": "[Value: 4,000 CRORE (VIA NEWS)] Receipt of orders by Replus Engitech Private Limited, a subsidiary of the Company",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T17:01:05.258611",
-    "company": "Mazagon Dock Shipbuilders Ltd",
-    "text": "[Value: 15,000 CRORE (VIA NEWS)] Mazagon Dock Shipbuilders Limited has informed the Exchange regarding signing of MOU with National Shipbuilding & Heavy Industries Park Andhra Pradesh (NSHIPAP).",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T17:01:04.138291",
-    "company": "Relicab Cable Manufacturing Ltd",
-    "text": "[Value: 13.33 CRORE (VIA NEWS)] Announcement under Regulation 30 (LODR)- Award of order receipt of order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T17:01:03.211368",
-    "company": "AstraZeneca Pharma India Ltd",
-    "text": "[Value: RS 9.24 CRORE (VIA NEWS)] Please find the enclosed intimation of the Company with respect to the captioned subject for your reference.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
