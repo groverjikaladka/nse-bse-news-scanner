@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-25T17:16:01.885138",
+    "company": "Jatalia Global Ventures Ltd",
+    "text": "Cessation of erstwhile directors of Jatalia Global Ventures Limited pursuant to the Resolution Plan approved by the Hon''ble NCLT and appointment of company secretary and compliance officer as per Reg 6 of SEBI LODR,2015",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-25T17:01:21.284799",
     "company": "Tips Music Ltd",
     "text": "Extinguishment of 3,24,700 fully paid-up Equity Shares of the Company consequent to the ongoing buyback from the open market route through the stock exchanges",
@@ -1495,20 +1502,6 @@
     "company": "Haleos Labs Ltd",
     "text": "Update on the material subsidiary of the Company.",
     "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T11:45:45.491992",
-    "company": "Spice Lounge Food Works Ltd",
-    "text": "Spice Lounge Food Works Limited signs strategic MoU with Indian Emulsifiers Ltd for exclusive India offtake, branding and distribution of food-grade emulsifiers; Company estimates ?500 crore revenue potential from this strategic partnership",
-    "categories": "Order/MoU/Contract, Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-18T11:45:44.789414",
-    "company": "Cryogenic Ogs Ltd",
-    "text": "We are pleased to inform you that Cryogenic OGS Limited has received a Purchase Order from a Global EPC Company amounting to USD 2,022,816 (i.e. approximately Rs. 19.36 Crores.).",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
