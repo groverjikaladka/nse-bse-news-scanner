@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-27T22:00:56.758280",
+    "company": "Airfloa Rail Technology Ltd",
+    "text": "Reciving of Order from Acme Industries Limited value of Rs. 7.33 Crores",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-27T21:31:20.153844",
     "company": "Kaiser Corporation Ltd",
     "text": "Compliant Report",
