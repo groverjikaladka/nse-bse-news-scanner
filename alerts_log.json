@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-28T23:01:52.856010",
+    "company": "Newgen Software Technologies Ltd",
+    "text": "Enclosed material order of Rs. 52.55 Cr.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-28T22:43:48.308204",
     "company": "Rane Holdings Limited",
     "text": "This is to inform you that Rane Steering Systems Private Limited, Wholly Owned Subsidiary of the Company has received a GST Show Cause Notice for its Haryana location.",
@@ -1509,13 +1516,6 @@
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on September 21, 2026",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-21T17:31:17.515475",
-    "company": "Rajeswari Infrastructure Ltd",
-    "text": "Pursuant to Reg 30, 42 of SEBI listing Regulation, We wish to inform you that the Board of the company has fixed Friday, September 25, 2026 as the Record Date for the purpose of determining the names of the holders of shares who shall be subject to the actions contemplated under the Hon''ble NCLT Order dated 13.01.2026 and approved resolution plan.",
-    "categories": "Financial/Results",
     "source": "BSE"
   }
 ]
