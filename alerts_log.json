@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-28T16:46:03.414593",
+    "company": "NCC Ltd",
+    "text": "[Value: 79.05 CRORE (VIA NEWS)] Disclosure regarding receipt of Major Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-28T15:16:01.328246",
     "company": "Trishakti Industries Ltd",
     "text": "The Company has issued a press release in respect of issuance of Rs. 105 Crores Purchase Order to XCMG for 60 units of Heavy Machineries and AWP''s.",
@@ -1419,12 +1426,5 @@
     "text": "Cohance Lifesciences Limited has informed the Exchange regarding 'Completion of USFDA Inspection'.",
     "categories": "Regulatory/Drug Approval",
     "source": "NSE"
-  },
-  {
-    "date": "2026-09-21T11:15:38.274671",
-    "company": "Kothari Industrial Corporation Ltd",
-    "text": "[Value: RS 2,500 CRORE (VIA NEWS)] award",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
