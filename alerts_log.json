@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-28T17:16:11.064400",
+    "company": "Atishay Ltd",
+    "text": "Atishay Limited has received Letter of Intent for the work of 'End to End Scanning, Digitization, Indexing and records management services for Punjab Urban Planning & development Authority (PUDA) & its all regional authorities', Government of Punjab - Order value Rs. 2.34 Crores.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-28T17:01:22.196201",
     "company": "PVR INOX Limited",
     "text": "PVR INOX Limited has informed the Exchange about post Buyback Public Announcement.",
@@ -1440,12 +1447,5 @@
     "text": "Intimation regarding NREDCAP - Empanelment for Supply, Installation & Commissioning of 1 KWp to 500 KWp Grid connected Solar Rooftop PV Power Plants at various locations in Andhra Pradesh.",
     "categories": "Capacity/Expansion",
     "source": "BSE"
-  },
-  {
-    "date": "2026-09-21T11:45:45.716700",
-    "company": "Cohance Lifesciences Limited",
-    "text": "Cohance Lifesciences Limited has informed the Exchange regarding 'Completion of USFDA Inspection'.",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
   }
 ]
