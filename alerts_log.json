@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-29T18:01:15.456762",
+    "company": "Hitech Corporation Ltd-$",
+    "text": "Formation of Independent Director''s Committee as per Regulation 28 of SEBI Delisting Regulations.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-29T18:01:14.774443",
+    "company": "Power Mech Projects Ltd",
+    "text": "[Value: RS 279 CRORE (VIA NEWS)] Please find the enclosed disclosure related to receipt of Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-29T17:46:07.501481",
     "company": "Bluspring Enterprises Limited",
     "text": "Bluspring Enterprises Limited has informed the Exchange regarding 'Proposed Scheme of Amalgamation of Bluspring New Horizon Two Private Limited (\"Transferor Company\") with LSG Sky Chefs India Private Limited (\"Transferee Company\")'.",
@@ -1613,27 +1627,6 @@
     "date": "2026-09-22T12:31:16.768445",
     "company": "Borosil Renewables Ltd",
     "text": "Outcome of Board meeting - Update on Capacity expansion",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T12:31:16.126810",
-    "company": "Equitas Small Finance Bank Ltd",
-    "text": "Equitas Small Finance Bank Limited has informed the Exchanges regarding receipt of Show Cause Notice",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T12:31:15.497816",
-    "company": "Ceigall India Ltd",
-    "text": "In continuation of our letter dated August 31, 2026, and pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform you about the commissioning of another 5 MW operational capacity, aggregating to 10 MW, of the project undertaken by Ceigall Green Energy MH2 Limited, a Wholly Owned Subsidiary ('WoS') of the Company. The aforesaid capacity 10 MW forms part of the aggregate 147 MW Solar Power Project being developed and execut",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T12:31:14.847219",
-    "company": "Ceigall India Ltd",
-    "text": "The Press Release in this regard titled 'Ceigall India's Maharashtra Solar Project Reaches 10 MW capacity with Commissioning of Another 5 MW'.\r\n",
     "categories": "Capacity/Expansion",
     "source": "BSE"
   }
