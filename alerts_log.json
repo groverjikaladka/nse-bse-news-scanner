@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-29T16:01:14.817612",
+    "company": "MPS Ltd",
+    "text": "Newspaper Publication of Notice of Petition in relation to the Scheme of Amalgamation.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-29T16:01:14.162217",
+    "company": "ArisInfra Solutions Ltd",
+    "text": "[Value: 60 CRORE (VIA NEWS)] Receipt of Order from Transcon Bellaviu Private Limited, SPV of Transcon Group through Subsidiary company",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-29T15:31:34.452344",
     "company": "KPI Green Energy Limited",
     "text": "KPI Green Energy Limited has informed the Exchange regarding Receipt of Work Order worth approx. Rs. 2,025 crore for 500 MW / 550 MWp Solar EPC Project from NACOF Oorja Private Limited. The Disclosure is attached herewith.",
@@ -1572,13 +1586,6 @@
     "company": "RailTel Corporation of India Ltd",
     "text": "New Order Received",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T10:31:15.458128",
-    "company": "Stylam Industries Ltd",
-    "text": "This has reference to  our earlier intimation dated January 05, 2024, submitted pursuant to the SEBI Listing Regulations, inter alia, regarding the setting -up a new plant adjoining to existing plant in Manak Tabra, Panchkula, Haryana. We are now pleased to inform you that the Company has commenced commercial production w.e.f. September 22, 2026.",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
