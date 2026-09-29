@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-29T18:16:13.462177",
+    "company": "BGR Energy Systems Ltd",
+    "text": "Updates on Insolvency Proceedings",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-29T18:01:15.456762",
     "company": "Hitech Corporation Ltd-$",
     "text": "Formation of Independent Director''s Committee as per Regulation 28 of SEBI Delisting Regulations.",
@@ -1586,48 +1593,6 @@
     "company": "Cosmic CRF Ltd",
     "text": "Receipt of purchase order by the subsidiary M/s. N S Engineering Projects Private Limited worth Rs. 250.46 Lakhs",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T12:45:45.889544",
-    "company": "Ceigall India Limited",
-    "text": "Ceigall India Limited has informed the Exchange regarding a press release titled \"Ceigall India s Maharashtra Solar Project Reaches 10 MW capacity with Commissioning of Another 5 MW\".",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-22T12:45:44.457811",
-    "company": "Optiemus Infracom Ltd",
-    "text": "[Value: 5.60 CRORE (VIA NEWS)] Please find attached intimation regarding execution of Binding Term Sheet between Optiemus Infracom Limited and Nothing Electronics Private Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T12:31:19.579496",
-    "company": "Engineers India Limited",
-    "text": "Engineers India Limited has informed the Exchange regarding a press release dated September 22, 2026, titled \"Press Release - EIL to Execute Dangote s Mega Greenfield Refinery & PetrochemicalPlant in Kenya\".",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-22T12:31:18.920831",
-    "company": "BOROSIL RENEWABLES LIMITED",
-    "text": "BOROSIL RENEWABLES LIMITED has informed the Exchange about Update on Capacity expansion",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-22T12:31:18.276698",
-    "company": "Equitas Small Finance Bank Limited",
-    "text": "Equitas Small Finance Bank Limited has informed the Exchange about Show Cause Notice received on September 21, 2026",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-22T12:31:16.768445",
-    "company": "Borosil Renewables Ltd",
-    "text": "Outcome of Board meeting - Update on Capacity expansion",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
