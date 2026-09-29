@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-29T23:16:03.673153",
+    "company": "Urban Company Limited",
+    "text": "Urban Company Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015   Receipt of Show Cause Notice from GST Authorities",
+    "categories": "Litigation/Regulatory Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-29T23:16:02.219239",
+    "company": "Urban Company Ltd",
+    "text": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Show Cause Notice from GST Authorities",
+    "categories": "Litigation/Regulatory Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-29T22:31:58.495539",
     "company": "Juniper Green Energy Limited",
     "text": "Juniper Green Energy Limited has informed the Exchange about commissioning of additional BESS capacity",
@@ -1683,27 +1697,6 @@
     "date": "2026-09-22T18:01:20.177999",
     "company": "Silver Touch Technologies Ltd",
     "text": "[Value: 100.08 CRORE (VIA NEWS)] Enclosed herewith Business update on \"Silver Touch Technologies Receives Purchase order from Gujarat Energy Limited (GEL), a Government of Gujarat undertaking in power and energy sector.\"",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T17:45:50.400175",
-    "company": "Chalet Hotels Ltd",
-    "text": "Credit Rating upgrade letter enclosed",
-    "categories": "Financial/Results",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T17:45:49.861703",
-    "company": "Advanced Enzyme Technologies Ltd",
-    "text": "Daily Report pursuant to Regulation 18(1) of the Buyback Regulations regarding the Equity Shares bought back on September 22, 2026",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-22T17:45:49.318408",
-    "company": "Rama Steel Tubes Ltd",
-    "text": "[Value: RS 246.15 CRORE (VIA NEWS)] Rama Steel Tubes Limited has informed the Exchange about Amendment in Share Purchase Agreement dated 11th December, 2025.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
