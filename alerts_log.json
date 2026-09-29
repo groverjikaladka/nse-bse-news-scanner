@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-29T18:46:31.103463",
+    "company": "Transport Corporation of India Ltd",
+    "text": "Promoter Group of the Company, have communicated their intention to not participate in the Buyback",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-29T18:46:30.470992",
+    "company": "JNK India Ltd",
+    "text": "[Value: 100 CRORE (VIA NEWS)] Intimation regarding receipt of orders.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-29T18:16:13.462177",
     "company": "BGR Energy Systems Ltd",
     "text": "Updates on Insolvency Proceedings",
@@ -1587,12 +1601,5 @@
     "text": "[Value: 175 CRORE (VIA NEWS)] Annu Projects Limited has informed the Exchange about General Updates relevant to Letter of Acceptance from East Central Rly.",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-09-22T13:01:01.555341",
-    "company": "Cosmic CRF Ltd",
-    "text": "Receipt of purchase order by the subsidiary M/s. N S Engineering Projects Private Limited worth Rs. 250.46 Lakhs",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
