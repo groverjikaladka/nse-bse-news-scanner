@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-30T16:16:08.309124",
+    "company": "Transport Corporation of India Ltd",
+    "text": "Submission of Public Announcement for Buyback of fully paid equity shares",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-30T16:16:07.686050",
+    "company": "Milky Mist Dairy Food Ltd",
+    "text": "Intimation regarding Commissioning of 10 MW Solar Power Plant",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-30T16:01:06.252202",
     "company": "Transport Corporation of India Limited",
     "text": "Transport Corporation of India Limited has informed the Exchange regarding 'Submission of Public Announcement for Buyback of fully paid-equity shares'.",
@@ -1718,27 +1732,6 @@
     "date": "2026-09-23T12:45:49.366924",
     "company": "Subex Ltd",
     "text": "[Value: 14.22 CRORE (VIA NEWS)] Subex secured a contract with a major mobile network operator in the Asia Pacific region",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-23T10:45:44.391979",
-    "company": "Skipper Ltd",
-    "text": "[Value: 10,000 CRORE (VIA NEWS)] Receipt of order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-23T10:31:15.646814",
-    "company": "Garware Hi-Tech Films Limited",
-    "text": "[Value: 130 CRORE (VIA NEWS)] Garware Hi-Tech Films Limited has informed the Exchange regarding a press release dated September 23, 2026, titled \"Press Release -  Garware Hi-Tech Films and Lubrizol sign MoU to collaborate on advanced TPU-based film solutions",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-23T10:31:13.673924",
-    "company": "Garware Hi-Tech Films Ltd",
-    "text": "[Value: 130 CRORE (VIA NEWS)] Intimation of Press Release - \"Garware Hi-Tech Films and Lubrizol Sign MoU to Collaborate on advanced TPU - based film solutions\"",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
