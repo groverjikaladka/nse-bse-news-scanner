@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-30T14:15:52.636276",
+    "company": "Kanohar Electricals Ltd",
+    "text": "[Value: RS 1,055 CRORE (VIA NEWS)] Disclosure pursuant to regulation 30(12) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015-Receipt of Notification of Award",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-30T14:15:51.788704",
+    "company": "Complete Sports and Management India Ltd",
+    "text": "Press Release issued by CSML titled \"CSML secures Rs. 40 Crore order to develop India''s Largest Family Entertainment Centre\".",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-30T13:45:53.759779",
     "company": "Solarworld Energy Solutions Ltd",
     "text": "[Value: 9.50 CRORE (VIA NEWS)] Receipt of purchase order for supply of Solar Panels.",
@@ -1698,13 +1712,6 @@
     "company": "Oswal Pumps Ltd",
     "text": "[Value: 236 CRORE (VIA NEWS)] As per attached intimation letter.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-23T08:45:40.265086",
-    "company": "Lords Mark Industries Ltd",
-    "text": "Intimation under regulation 30 regarding AI - Powered Breast Cancer Screening Technology  towards final clinical trials",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
