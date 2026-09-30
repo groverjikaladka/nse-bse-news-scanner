@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-09-30T12:15:52.190414",
+    "company": "Ceigall India Limited",
+    "text": "[Value: 4,022 CRORE (VIA NEWS)] Ceigall India Limited has informed the Exchange about Receiving of Letter of Intent",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-09-30T12:15:50.724201",
+    "company": "Ceigall India Ltd",
+    "text": "[Value: 4,022 CRORE (VIA NEWS)] In continuation to our earlier intimation dated 08th September 2026 and in accordance with the above-mentioned provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015, we wish to inform you that Ceigall India Limited ('CIL') has received the Letter of Intent dated 28th September 2026 by way of email on 29th September 2026, for the Project ????? ???? ?? ????? ???????? ?? ????????? ???? (Allotment/Leasing of Stone Blocks in Nawada District Lot-4) (Bhadokhara, Bloc",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-09-30T12:15:49.744723",
+    "company": "Larsen & Toubro Ltd",
+    "text": "[Value: 797 CRORE (VIA NEWS)] L&T Transportation Infrastructure Vertical Secures Twin Contracts in Dubai",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-30T12:01:07.075792",
     "company": "Admach Systems Ltd",
     "text": "[Value: 10.62 CRORE (VIA NEWS)] Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order.",
@@ -1663,20 +1684,6 @@
     "company": "Lords Mark Industries Ltd",
     "text": "Intimation under regulation 30 regarding AI - Powered Breast Cancer Screening Technology  towards final clinical trials",
     "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-23T06:31:12.780387",
-    "company": "Orient Green Power Company Limited",
-    "text": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015,   Expansion of Solar Capacity through the Commissioning of 17.6 MW Solar Power Plant",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-23T06:31:11.049987",
-    "company": "Orient Green Power Company Ltd",
-    "text": "Intimation under Regulation 30 of SEBI (LODR) Regulation 2015 - Expansion of solar capacity through commissioning of 17.6 MW Solar Power Plant",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
