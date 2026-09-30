@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-30T21:03:50.766052",
+    "company": "Multi Commodity Exchange of India Ltd",
+    "text": "Show Cause Notice received from GST Department",
+    "categories": "Litigation/Regulatory Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-09-30T20:35:58.319130",
     "company": "PPAP Automotive Ltd",
     "text": "Proceedings of Meetings of equity shareholders, secured and unsecured creditors of the Company pursuant to NCLT order in the matter of Scheme of Amalgamation of Avinya Batteries Limited (\"Transferor Company\") with PPAP Automotive Limited (\"Transferee Company\") and their respective shareholders.",
@@ -1902,12 +1909,5 @@
     "text": "[Value: 300 CRORE (VIA NEWS)] Fresh Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 regarding receipt of Order from the Hon''ble Regional Director (NR-II) approving shifting of Registered Office of the Company from State of Haryana to the NCT of Delhi is enclosed.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-09-23T15:31:38.812702",
-    "company": "Saksoft Limited",
-    "text": "Saksoft Limited has informed the Exchange about Amalgamation/Merger",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
   }
 ]
