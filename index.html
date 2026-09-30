@@ -46,7 +46,7 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 30 Sep 2026, 08:19 PM IST</span>
+<span class="updated">Last updated: 30 Sep 2026, 08:36 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
@@ -54,7 +54,7 @@ tr.hidden { display: none; }
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">110</div>
+<div class="stat-value">109</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">90</div>
+<div class="stat-value">91</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Litigation/Regulatory Action">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action, Financial/Results">
+<td class="date">30 Sep 2026, 08:35 PM</td>
+<td class="company">PPAP Automotive Ltd</td>
+<td class="text">Proceedings of Meetings of equity shareholders, secured and unsecured creditors of the Company pursuant to NCLT order in the matter of Scheme of Amalgamation of Avinya Batteries Limited ("Transferor Company") with PPAP Automotive Limited ("Transferee Company") and their respective shareholders.</td>
+<td><span class="badge" style="background:#64748b">M&A/Corporate Action, Financial/Results</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Litigation/Regulatory Action">
 <td class="date">30 Sep 2026, 08:19 PM</td>
 <td class="company">Greenlam Industries Ltd</td>
 <td class="text">Intimation regarding receipt of Show Cause Notice</td>
@@ -1722,14 +1728,6 @@ R...</td>
 <td class="text">Saksoft Limited has informed the Exchange about Amalgamation/Merger</td>
 <td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
 <td><span class="source">NSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">23 Sep 2026, 03:01 PM</td>
-<td class="company">Tuni Textile Mills Ltd</td>
-<td class="text">Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI
-LODR Regulations"), read with the Company''s Policy for Determination of Materiality of Events and Information, and
-in furtherance of the Company''s commitment to timely, transparent an...</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
-<td><span class="source">BSE</span></td>
 </tr></tbody>
 </table>
 <div class="no-results" id="no-results">No alerts match this filter</div>
