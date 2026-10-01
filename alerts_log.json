@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-01T05:31:24.525461",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Update on commissioning of Battery Energy Storage System (BESS) Project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-01T05:31:23.861917",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Commissioning of Battery Energy Storage Systems (BESS) Project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-01T05:31:23.253486",
+    "company": "Jonjua Overseas Ltd",
+    "text": "Press Release regarding signing of MoU with Catobo is attached.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-01T00:16:55.481293",
     "company": "Acme Solar Holdings Limited",
     "text": "Acme Solar Holdings Limited has informed the Exchange about Update on commissioning of Battery Energy Storage System (BESS) Project",
