@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-02T23:15:48.687591",
+    "company": "NIS Management Ltd",
+    "text": "[Value: 120 CRORE (VIA NEWS)] Bagging of order for CCTV Surveillance system",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-02T23:15:47.989135",
+    "company": "NIS Management Ltd",
+    "text": "[Value: 120 CRORE (VIA NEWS)] Bagging of order for CCTV Surveillance System",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-02T20:31:30.086521",
     "company": "Snowman Logistics Ltd",
     "text": "[Value: 2.06 CR (VIA NEWS)] Please refer the attached file",
@@ -1943,20 +1957,6 @@
     "company": "Hitech Corporation Ltd-$",
     "text": "Receipt of In-principle approval of the Stock Exchanges in accordance with Regulation 12 of SEBI (Delisting of Equity Shares) Regulation, 2021.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-25T17:31:40.362945",
-    "company": "NGL Fine-Chem Limited",
-    "text": "NGL Fine-Chem Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI LODR Regulations )   Show Cause Notice received from the GST Department'.",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-25T17:31:38.790317",
-    "company": "NGL Fine Chem Ltd",
-    "text": "Disclosure of Show Cause Notice received from the GST Department",
-    "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
 ]
