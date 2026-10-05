@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-05T15:15:47.657484",
+    "company": "BMW Industries Ltd",
+    "text": "Press Release- BMW Industries Limited commissions the colour coating line marking the commencement of the first phase of its Greenfield Downstream Steel Project at Bokaro",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-05T15:01:09.059384",
     "company": "Solex Energy Limited",
     "text": "Solex Energy Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"Solex Energy Secures Rs. 75.96 Crore Work Order for 620 Wp N-Type TOPCon Solar PV Modules\".",
@@ -1893,20 +1900,6 @@
     "date": "2026-09-28T10:01:01.644174",
     "company": "Dilip Buildcon Ltd",
     "text": "Dilip Buildcon Limited has been declared as L-1 bidder for 'Construction of 4 lane elevated corridor including approaches from Old Pune Naka to Boramani Naka on NH-65 in Solapur City in the State of Maharashtra on Hybrid Annuity Mode (Km 0.050 to Km 9.710)', order worth Rs. 688.23 Crores.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-28T09:45:46.226944",
-    "company": "Dilip Buildcon Ltd",
-    "text": "[Value: 6,829 CRORE (VIA NEWS)] Dilip Buildcon Limited has been declared as L-1 bidder by REC Power Development and Consultancy Limited (RECPDCL) for 'Development and Operation of Intra State Transmission System for Transmission of Electricity Through Tariff Based Competitive Bidding for Establishment of 400 KV AIS Yavatmal (Babhulgaon) (Dist. Yavatmal)'.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-28T09:45:45.014021",
-    "company": "Elitecon International Ltd",
-    "text": "Elitecon International Limited has entered into a Product Supply Framework Agreement with World Class 77, South Africa, for potential export supplies with an indicative programme ceiling of up to USD 60 million (approximately INR 574.20 crore). \r\n",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
