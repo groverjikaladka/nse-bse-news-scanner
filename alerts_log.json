@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-05T18:46:11.093739",
+    "company": "Juniper Hotels Limited",
+    "text": "[Value: 248 CRORE (VIA NEWS)] Juniper Hotels Limited has informed the Exchange about Memorandum of Understanding/Agreements",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-05T18:46:09.583440",
+    "company": "Juniper Hotels Ltd",
+    "text": "[Value: 248 CRORE (VIA NEWS)] Please find enclosed letter.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-05T18:46:08.560531",
+    "company": "Deep Health AI India Ltd",
+    "text": "[Value: RS. 25.00 CRORE (VIA NEWS)] This is to inform you that, pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations'), the Board of Directors of the Company, at its meeting held today, i.e., Monday, October 05, 2026, through Video Conferencing, inter alia, considered and approved the following: 1. The acquisition of debt by way of assignment from M/s. Kshitij Polyline Limited and matters incidental thereto. The Company proposes to enter into a Deed of Assi",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-05T17:45:52.745077",
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 05, 2026",
@@ -1921,13 +1942,6 @@
     "date": "2026-09-28T14:15:47.365555",
     "company": "Advait Energy Transitions Ltd",
     "text": "[Value: 1,304 CRORE (VIA NEWS)] Master supply agreement executed between Advait Battery Ecosystems Private Limited and Hithium",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-28T13:15:44.765541",
-    "company": "Paras Defence and Space Technologies Ltd",
-    "text": "We are pleased to inform that Paras has received an order  from DRDO, Ministry of Defence valued at an approximately Rs. 26. 59 Crores (including taxes).",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
