@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-05T23:01:21.676613",
+    "company": "Dr. Agarwal's Health Care Limited",
+    "text": "Dr. Agarwal's Health Care Limited has informed the Exchange about the receipt of Sanction from the Hon'ble NCLT, Chennai Bench towards the Scheme of Amalgamation between Dr. Agarwal s Eye Hospital Limited and Dr. Agarwal s Health Care Limited and their respective shareholders and creditors.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-05T23:01:19.799789",
+    "company": "Dr Agarwals Eye Hospital Ltd-$",
+    "text": "Receipt of sanction from the Honble NCLT, Chennai bench towards the Scheme of Amalgamation between Dr. Agarwals Eye Hospital Limited and Dr. Agarwals Health Care Limited and its respective shareholders and creditors.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-05T22:45:53.354106",
     "company": "Dr. Agarwals Health Care Ltd",
     "text": "Receipt of sanction from the Honble NCLT, Chennai Bench towards the scheme of amalgamation between Dr. Agarwals Eye Hospital Limited and Dr. Agarwals Health Care Limited and their respective Shareholders and Creditors.",
@@ -1963,13 +1977,6 @@
     "date": "2026-09-28T17:46:13.244892",
     "company": "Luxury Time Ltd",
     "text": "[Value: 5.62 CRORE (VIA NEWS)] Updation under regulation 30 for final compounding order and Payment of Compounding Fee",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-28T17:16:11.064400",
-    "company": "Atishay Ltd",
-    "text": "Atishay Limited has received Letter of Intent for the work of 'End to End Scanning, Digitization, Indexing and records management services for Punjab Urban Planning & development Authority (PUDA) & its all regional authorities', Government of Punjab - Order value Rs. 2.34 Crores.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
