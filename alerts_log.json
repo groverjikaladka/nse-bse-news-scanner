@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-05T20:31:39.875006",
+    "company": "Acme Solar Holdings Limited",
+    "text": "ACME Solar Holdings Limited has informed the Exchange about an update on commissioning of solar component of the Hybrid Power Project",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-05T20:31:38.360633",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Update on commissioning of solar component of the Hybrid Power Project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-05T19:31:25.249362",
     "company": "Kothari Petrochemicals Limited",
     "text": "Kothari Petrochemicals Limited has informed the Exchange about the receipt of Order passed by the Hon ble National Company Law Tribunal, Chennai Bench, in connection with the proposed Scheme of Amalgamation directing the companies for convening the respective meetings of shareholders and unsecured creditors.",
@@ -1956,13 +1970,6 @@
     "date": "2026-09-28T15:16:01.328246",
     "company": "Trishakti Industries Ltd",
     "text": "The Company has issued a press release in respect of issuance of Rs. 105 Crores Purchase Order to XCMG for 60 units of Heavy Machineries and AWP''s.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-28T15:01:03.592235",
-    "company": "Oriental Rail Infrastructure Ltd",
-    "text": "[Value: RS 3.64 CRORE (VIA NEWS)] Receipt of order",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
