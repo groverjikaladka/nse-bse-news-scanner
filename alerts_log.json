@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-06T22:46:07.355429",
+    "company": "Birlanu Ltd",
+    "text": "Sanction of Scheme of Amalgamation between Clean Coats Private Limited with BirlaNu Limited and their respective Members.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-06T22:01:22.917637",
     "company": "Gabriel India Limited",
     "text": "Gabriel India Limited has informed the Exchange regarding a press release dated October 06, 2026, titled \"Execution of the Joint Venture Agreement ( JVA ) between Faurecia Automotive Seating India Private Limited and Gabriel India Limited\".",
@@ -1845,34 +1852,6 @@
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on September 29, 2026",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-29T17:16:03.430381",
-    "company": "The Ramco Cements Limited",
-    "text": "The Ramco Cements Limited has informed the Exchange about Capacity Expansion",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-29T17:16:02.065719",
-    "company": "The Ramco Cements Ltd",
-    "text": "Capacity Expansion",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-29T17:16:01.399348",
-    "company": "Accord Transformer & Switchgear Ltd",
-    "text": "[Value: 20.02 CRORE (VIA NEWS)] Intimation for Material Order received for an amount -8.63 Crores",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-29T17:16:00.429967",
-    "company": "ArisInfra Solutions Ltd",
-    "text": "[Value: 400 CRORE (VIA NEWS)] Press Release of receipt of order by a subsidiary company",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
