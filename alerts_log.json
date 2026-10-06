@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-06T19:46:04.807029",
+    "company": "Om Power Transmission Ltd",
+    "text": "[Value: 40.69 CRORE (VIA NEWS)] Intimation of receipt of Letter of Intent for AIS substation",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-06T19:01:27.231409",
     "company": "Blue Dart Express Limited",
     "text": "[Value: 88.5 CRORE (VIA NEWS)] Blue Dart Express Limited has informed the Exchange regarding a press release dated October 06, 2026, titled \"Blue Dart and NCRTC Sign MoU to Explore Express Parcel Movement on the Delhi-Meerut Namo Bharat Corridor\".",
@@ -1915,20 +1922,6 @@
     "company": "Schneider Electric President Systems Ltd",
     "text": "[Value: RS 200 CRORE (VIA NEWS)] Please find enclosed Order in Original received by the Company in relation to availment of Input Tax Credit on certain  reverse charge mechanism (RCM) transactions pertaining to pre GST period. Details are enclosed herewith.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-29T14:15:50.746854",
-    "company": "Transport Corporation of India Limited",
-    "text": "Transport Corporation of India Limited has informed the Exchange about Buyback of equity shares of the Company and matters incidental thereto.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-29T14:15:49.369509",
-    "company": "Transport Corporation of India Ltd",
-    "text": "Record Date for Buyback of equity share is October 9, 2026",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
