@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-07T16:15:54.295610",
+    "company": "PNB Housing Finance Limited",
+    "text": "PNB Housing Finance Limited has informed the Exchange regarding a press release titled \"PNB Housing Finance Receives Credit Rating Upgrade to  AAA  from CRISIL; Marking a Full Suite of Rating Upgrades Across All Four Agencies\".",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-07T16:15:52.567642",
+    "company": "PNB Housing Finance Ltd",
+    "text": "Press Release on Credit Rating Upgrade to \"AAA\" from Crisil.",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-07T16:01:05.865544",
     "company": "ITCONS E-Solutions Ltd",
     "text": "We are pleased to inform that our Company has bagged a new contract from Rajiv Gandhi National Institute of Youth Development (RGNIYD) of order value of Rs. 30307724.19. For further details, please refer attached file",
@@ -1712,13 +1726,6 @@
     "company": "Avalon Technologies Ltd",
     "text": "Please find the enclosed Press Release titled \"Clarification on Media Reports regarding Proposed Stake Sale by Mr. Bhaskar Srinivasan''s Promoter Group\"",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-30T10:45:43.460691",
-    "company": "Shayona Engineering Ltd",
-    "text": "[Value: RS 55.80 LAKH (VIA NEWS)] Intimation of Receipt of Purchase Order",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
