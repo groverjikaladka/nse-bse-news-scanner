@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-07T16:45:55.216626",
+    "company": "Bright Brothers Ltd-$",
+    "text": "We refer to our letter dated 11th August, 2026, wherein disclosures were provided regarding commencement of merger of the Company''s wholly-owned subsidiary Bright Brothers LLC with its step-down subsidiary Sintex Logistics LLC.\r\n\r\nIn this regard, we would like to inform you that process of merger has been completed. Pursuant to the said merger, Bright Brothers LLC has ceased to exist and the name of Sintex Logistics LLC has been changed to Bright Composites LLC. Therefore, Bright Composites LLC",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-07T16:15:54.295610",
     "company": "PNB Housing Finance Limited",
     "text": "PNB Housing Finance Limited has informed the Exchange regarding a press release titled \"PNB Housing Finance Receives Credit Rating Upgrade to  AAA  from CRISIL; Marking a Full Suite of Rating Upgrades Across All Four Agencies\".",
@@ -1670,27 +1677,6 @@
     "company": "Admach Systems Ltd",
     "text": "[Value: 10.62 CRORE (VIA NEWS)] Admach Systems Limited has informed the Exchange regarding receipt of Purchase Order.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-30T11:15:51.569263",
-    "company": "Avalon Technologies Limited",
-    "text": "Avalon Technologies Limited has informed the Exchange regarding a press release dated September 30, 2026, titled \"Clarification on Media Reports regarding Proposed Stake Sale by Mr. Bhaskar Srinivasan s Promoter Group\".",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-30T11:15:50.993187",
-    "company": "Sundrop Brands Limited",
-    "text": "Sundrop Brands Limited has informed the Exchange about receipt of show cause notice from Deputy Commissioner (SGST), Ghaziabad I, Uttar Pradesh.",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-30T11:15:49.466263",
-    "company": "Sundrop Brands Ltd",
-    "text": "Intimation about receipt of show cause notice from Deputy Commissioner (SGST), Ghaziabad I, Uttar Pradesh",
-    "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
 ]
