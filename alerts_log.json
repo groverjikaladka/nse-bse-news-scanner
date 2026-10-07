@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-07T22:31:42.660188",
+    "company": "RPSG Ventures Ltd",
+    "text": "Clarification on news item appearing in the media regarding proposed divestment of stake in Lucknow Super Giants",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-07T19:46:01.590224",
     "company": "S.J.S. Enterprises Ltd",
     "text": "Intimation of capacity expansion by the Company.",
@@ -1607,20 +1614,6 @@
     "company": "Transport Corporation of India Ltd",
     "text": "Submission of Board Resolution for Buyback of fully paid equity shares",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-30T17:01:15.176726",
-    "company": "Le Travenues Technology Limited",
-    "text": "Le Travenues Technology Limited has informed the Exchange about Receipt of Show Cause Notice dated September 29, 2026",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-30T17:01:13.726602",
-    "company": "Le Travenues Technology Ltd",
-    "text": "Disclosure under Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 - Receipt of Show Cause notice dated September 29, 2026.",
-    "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
 ]
