@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-07T19:46:01.590224",
+    "company": "S.J.S. Enterprises Ltd",
+    "text": "Intimation of capacity expansion by the Company.",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-07T19:31:59.355903",
     "company": "Brainbees Solutions Limited",
     "text": "[Value: 2,162 CRORE (VIA NEWS)] Brainbees Solutions Limited has informed the Exchange about Execution of Memorandum of Understanding by GlobalBees Brands Private Limited (\"Globalbees\") , a Subsidiary of Brainbees Solutions Limited for sale of its entire stake in Mush Textile Private Limited, a Subsidiary of Globalbees",
@@ -1690,20 +1697,6 @@
     "date": "2026-09-30T15:16:03.354473",
     "company": "Ideaforge Technology Ltd",
     "text": "Intimation regarding the receipt of order received by ideaForge Technology Limited aggregating to Rs. 23.62 Crore.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-30T14:15:52.636276",
-    "company": "Kanohar Electricals Ltd",
-    "text": "[Value: RS 1,055 CRORE (VIA NEWS)] Disclosure pursuant to regulation 30(12) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015-Receipt of Notification of Award",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-30T14:15:51.788704",
-    "company": "Complete Sports and Management India Ltd",
-    "text": "Press Release issued by CSML titled \"CSML secures Rs. 40 Crore order to develop India''s Largest Family Entertainment Centre\".",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
