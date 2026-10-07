@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-07T15:16:02.260423",
+    "company": "Dixon Technologies (India) Limited",
+    "text": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technology Co., Ltd",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-07T15:16:00.665056",
+    "company": "Dixon Technologies (India) Ltd",
+    "text": "Announcement under Regulation 30 of SEBI LODR- Execution of Joint Venture Agreement between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technology Co., Ltd.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-07T14:45:52.628494",
     "company": "ITCONS E-Solutions Ltd",
     "text": "We are pleased to inform that our Company has bagged a new contract from Indian Army, Department of Military Affairs, Ministry of Defence of order value of Rs. 10526224.27. For further details, kindly refer attached file",
@@ -1690,13 +1704,6 @@
     "date": "2026-09-30T10:45:43.460691",
     "company": "Shayona Engineering Ltd",
     "text": "[Value: RS 55.80 LAKH (VIA NEWS)] Intimation of Receipt of Purchase Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-30T09:45:46.339501",
-    "company": "Dhabriya Polywood Ltd",
-    "text": "[Value: 34.81 CR (VIA NEWS)] Intimation of receiving of work order.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
