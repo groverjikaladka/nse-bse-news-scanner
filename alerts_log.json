@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-07T23:01:13.585701",
+    "company": "Polycab India Limited",
+    "text": "Polycab India Limited has informed the Exchange about intimation of NCLT order",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-07T22:46:08.345477",
     "company": "Polycab India Ltd",
     "text": "Intimation of NCLT order",
@@ -1607,20 +1614,6 @@
     "company": "Modulex Construction Technologies Ltd",
     "text": "[Value: 5.42 CRORE (VIA NEWS)] Receipt of an Order.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-09-30T17:16:17.740752",
-    "company": "Transport Corporation of India Limited",
-    "text": "Transport Corporation of India Limited has informed the Exchange regarding 'Submission of Board Resolution for Buyback of fully paid-equity shares'.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-09-30T17:16:15.592827",
-    "company": "Transport Corporation of India Ltd",
-    "text": "Submission of Board Resolution for Buyback of fully paid equity shares",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
