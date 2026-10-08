@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-08T17:16:00.620457",
+    "company": "Steelcast Ltd",
+    "text": "Update regarding Receipt of IRIS Certification",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-08T17:16:00.140307",
+    "company": "Pace Digitek Ltd",
+    "text": "Intimation for receipt of letter of Intent (LOI) aggregating to Rs. 1,794 million",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-08T17:15:59.604649",
+    "company": "Hexaware Technologies Ltd",
+    "text": "Press Release",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T17:01:13.679086",
     "company": "Steelcast Limited",
     "text": "Steelcast Limited has informed the Exchange regarding 'Receipt of IRIS Certification'.",
@@ -1453,20 +1474,6 @@
     "company": "GPT Infraprojects Ltd",
     "text": "Please find enclosed herewith Press Release on contract win of Rs. 385 Crore by a Subsidiary Company of GPT Infraprojects Limited",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T11:45:41.957896",
-    "company": "TD Power Systems Ltd",
-    "text": "[Value: 75 CRORE (VIA NEWS)] Intimation of Receipt of Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T11:31:17.737250",
-    "company": "Bondada Engineering Ltd",
-    "text": "Intimation of Solar Projects Commissioning of Bondada Engineering Ltd.",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
