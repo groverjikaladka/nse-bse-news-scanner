@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-08T17:46:00.945787",
+    "company": "S&S Power Switchgear Ltd",
+    "text": "[Value: 8 CRORE (VIA NEWS)] Announcement under regulation 30 (LODR) Receipt of order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T17:31:33.679956",
     "company": "NCC Ltd",
     "text": "[Value: RS 500 CRORE (VIA NEWS)] Disclosure regarding receipt of Major Order",
@@ -1445,27 +1452,6 @@
     "date": "2026-10-01T12:31:30.722614",
     "company": "Transport Corporation of India Ltd",
     "text": "Submission of Corrigendum to Public Announcement for Buyback of fully paid equity shares",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T12:15:46.546637",
-    "company": "Tips Music Limited",
-    "text": "Tips Music Limited has informed the Exchange about post Buyback Public Announcement",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-01T12:15:45.425943",
-    "company": "Jumbo Bag Ltd",
-    "text": "Intimation regarding the commissioning of a 2 MW solar project as of 30/09/2026.",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T12:15:44.929620",
-    "company": "Tips Music Ltd",
-    "text": "Post Buyback Public Announcement",
     "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
