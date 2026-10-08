@@ -1,5 +1,54 @@
 [
   {
+    "date": "2026-10-08T19:01:32.796395",
+    "company": "Pace Digitek Limited",
+    "text": "Pace Digitek Limited has informed the Exchange regarding a press release dated October 08, 2026, titled \"Intimation of Press Release - receipt of Letter of Intent (LOI) aggregating to Rs. 1,794 Million from BSES Rajdhani Power Limited\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-08T19:01:32.147251",
+    "company": "GOCL Corporation Limited",
+    "text": "[Value: 1,522 CRORE (VIA NEWS)] GOCL Corporation Limited has informed the Exchange about receipt of Order from National Company Law Tribunal dated October 08, 2026",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-08T19:01:31.223101",
+    "company": "Man Infraconstruction Limited",
+    "text": "Man Infraconstruction Limited has informed the Exchange regarding ''.Extinguishment of 69,25,000 (Sixty-Nine Lakh Twenty-Five Thousand) fully paid-up Equity Shares of the face value of &#8377;2/- each (Rupees Two only) of Man Infraconstruction Limited ( Company ) consequent to the ongoing buyback from the open market route through the Stock Exchanges.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-08T19:01:28.823949",
+    "company": "Meghmani Organics Ltd",
+    "text": "Please find attached intimation under Regulation 30 of SEBI (LODR) Regulation, 2015 for receipt of NCLT order.",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-08T19:01:28.251672",
+    "company": "Man Infraconstruction Ltd",
+    "text": "Extinguishment of 69,25,000 Equity Shares of Man Infraconstruction Limited consequent to the ongoing buyback from open market route through Stock Exchanges.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-08T19:01:27.708179",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 08, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-08T19:01:27.134510",
+    "company": "GOCL Corporation Ltd-$",
+    "text": "[Value: 1,522 CRORE (VIA NEWS)] Receipt of Order from National Company Law Tribunal dated October 08, 2026",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T18:01:23.306400",
     "company": "Avalon Technologies Ltd",
     "text": "[Value: 883 CRORE (VIA NEWS)] Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that Avalon Technologies Limited has executed a lease deed today with State Industrial Promotion Corporation of Tamil Nadu Ltd (SIPCOT).",
@@ -1418,13 +1467,6 @@
     "company": "HEG Advanced Materials Ltd",
     "text": "[Value: 218 CRORE (VIA NEWS)] Receipt of orders by Replus Engitech Private Limited, a subsidiary of the Company",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T13:31:18.899884",
-    "company": "Tips Music Ltd",
-    "text": "Inga Ventures Pvt Ltd (\"Manager to the Buyback Offer\") has submitted to BSE a copy of Post Buyback Public Announcement for the attention of Shareholders of the Equity Shares of the Tips Music Ltd (the \"Company\") for the Buyback of Equity Shares from the open market through stock exchanges under the Securities and Exchange Board of India (Buy-Back of Securities) Regulations, 2018, as amended.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
