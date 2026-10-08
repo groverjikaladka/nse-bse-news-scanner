@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-08T21:01:28.729908",
+    "company": "Lupin Limited",
+    "text": "Lupin Limited has informed the Exchange regarding a press release dated October 08, 2026, titled \"Lupin Receives U.S. FDA Approval for Phytonadione Injectable Emulsion, USP\".",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-08T21:01:27.036109",
+    "company": "KEC International Ltd",
+    "text": "We are pleased to enclose a copy of the press release with respect to new orders of Rs. 1,030 Crores secured by the Company. All the orders mentioned in the enclosed press release have been received in the normal course of business.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-08T21:01:26.556064",
+    "company": "Lupin Ltd",
+    "text": "Lupin Receives U.S. FDA Approval for Phytonadione Injectable Emulsion, USP",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T19:46:08.694887",
     "company": "Shree Rajeshwaranand Paper Mills Ltd",
     "text": "The Board of Director updated the proposed list of allotees for the prf. issue based on NCLt Order",
@@ -1446,27 +1467,6 @@
     "company": "Meta Infotech Ltd",
     "text": "We wish to inform that company has received fresh and renewal orders amounting to Rs. 7.82 crores bagged by the Company in the ordinary course of business.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T15:16:10.850673",
-    "company": "Blue Dart Express Ltd",
-    "text": "[Value: 88.5 CRORE (VIA NEWS)] As per the attachment",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T15:16:09.956903",
-    "company": "ARCL Organics Ltd",
-    "text": "ARCL Organics Ltd has informed the exchange about receipt of show cause notice dated 30.09.2026.",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T15:16:09.470854",
-    "company": "Shardul Securities Ltd",
-    "text": "Submission of  Public Announcement in newspaper for Buyback of Equity Shares",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
