@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-08T22:31:40.512587",
+    "company": "Power Grid Corporation of India Limited",
+    "text": "Power Grid Corporation of India Limited has informed the Exchange about Commissioning of project namely  Transmission Scheme for Solar Energy Zone in Bidar (2500 MW), Karnataka (TBCB) .",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-08T22:15:59.360195",
     "company": "Power Grid Corporation of India Ltd",
     "text": "Commissioning of Project namely \"Transmission Scheme for Solar Energy Zone in Bidar (2500 MW), Karnataka (TBCB).",
@@ -1411,27 +1418,6 @@
     "company": "Ceinsys Tech Ltd",
     "text": "[Value: 30.06 CR (VIA NEWS)] Intimation of Extension of Letter of Award from MSRDC Tunnels Limited",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T17:01:16.956376",
-    "company": "Thirumalai Chemicals Ltd",
-    "text": "Details of show cause notice is attached.",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T17:01:16.399775",
-    "company": "Hitech Corporation Ltd-$",
-    "text": "Intimation of publication of reasoned recommendations of Independent Directors'' Committee on Voluntary Delisting as per Regulation 28 of SEBI Delisting Regulations.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T16:46:06.478210",
-    "company": "TVS Supply Chain Solutions Ltd",
-    "text": "TVS Supply Chain Solutions Limited has informed the Stock Exchanges that the Hon''ble National Company Law Tribunal, Bengaluru Bench has Sanctioned the Scheme of Amalgamation.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
