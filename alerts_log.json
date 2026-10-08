@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-08T19:46:08.694887",
+    "company": "Shree Rajeshwaranand Paper Mills Ltd",
+    "text": "The Board of Director updated the proposed list of allotees for the prf. issue based on NCLt Order",
+    "categories": "Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-08T19:46:08.079886",
+    "company": "Highway Infrastructure Ltd",
+    "text": "[Value: RS 245 CRORE (VIA NEWS)] Company received a work order for the Velanchettiyur Fee Plaza.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T19:16:02.152506",
     "company": "Waaree Renewable Technologies Ltd",
     "text": "[Value: 5,300 CRORE (VIA NEWS)] Please find attached herewith disclosure for Order awarded to the Company",
@@ -1460,20 +1474,6 @@
     "company": "Jeevan Scientific Technology Ltd",
     "text": "Announcement under Regulation 30 of SEBI (LODR) Regulations, 2015",
     "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T14:15:54.126712",
-    "company": "Marg Techno Projects Ltd",
-    "text": "News Paper Publication - Notice for Praposed Delisting of Company''s Equity Shares from Metropolitan Stock Exchange of India Limited (MSEI)",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T13:46:35.461196",
-    "company": "HEG Advanced Materials Ltd",
-    "text": "[Value: 218 CRORE (VIA NEWS)] Receipt of orders by Replus Engitech Private Limited, a subsidiary of the Company",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
