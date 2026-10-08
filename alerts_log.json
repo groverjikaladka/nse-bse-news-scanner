@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-08T17:31:33.679956",
+    "company": "NCC Ltd",
+    "text": "[Value: RS 500 CRORE (VIA NEWS)] Disclosure regarding receipt of Major Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T17:16:00.620457",
     "company": "Steelcast Ltd",
     "text": "Update regarding Receipt of IRIS Certification",
@@ -1460,20 +1467,6 @@
     "company": "Tips Music Ltd",
     "text": "Post Buyback Public Announcement",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T12:01:07.252284",
-    "company": "GPT Infraprojects Limited",
-    "text": "GPT Infraprojects Limited has informed the Exchange about contract win of Rs. 385 Crore by its Subsidiary Company,  GPT Concrete Products South Africa (Pty) Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-01T12:01:05.580258",
-    "company": "GPT Infraprojects Ltd",
-    "text": "Please find enclosed herewith Press Release on contract win of Rs. 385 Crore by a Subsidiary Company of GPT Infraprojects Limited",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
