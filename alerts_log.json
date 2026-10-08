@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-08T22:15:59.360195",
+    "company": "Power Grid Corporation of India Ltd",
+    "text": "Commissioning of Project namely \"Transmission Scheme for Solar Energy Zone in Bidar (2500 MW), Karnataka (TBCB).",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T21:01:28.729908",
     "company": "Lupin Limited",
     "text": "Lupin Limited has informed the Exchange regarding a press release dated October 08, 2026, titled \"Lupin Receives U.S. FDA Approval for Phytonadione Injectable Emulsion, USP\".",
@@ -1424,20 +1431,6 @@
     "date": "2026-10-01T16:46:06.478210",
     "company": "TVS Supply Chain Solutions Ltd",
     "text": "TVS Supply Chain Solutions Limited has informed the Stock Exchanges that the Hon''ble National Company Law Tribunal, Bengaluru Bench has Sanctioned the Scheme of Amalgamation.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T16:31:40.796563",
-    "company": "Shree Pushkar Chemicals & Fertilisers Limited",
-    "text": "Shree Pushkar Chemicals & Fertilisers Limited has informed the Exchange about Amalgamation/Merger",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-01T16:31:39.228598",
-    "company": "Anka India Ltd",
-    "text": "Intimation under regulation 30(7) of SEBI (LODR) 2015-Update on the Scheme of Amalgamation",
     "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
