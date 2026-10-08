@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-08T15:46:00.562882",
+    "company": "VRL Logistics Limited",
+    "text": "VRL Logistics Limited has informed the Exchange about public Announcement - Buyback of Shares",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-08T15:45:58.989923",
+    "company": "VRL Logistics Ltd",
+    "text": "In compliance with Regulation 7(i) of the SEBI (Buyback) Regulations 2018, Public Announcement dated 07/10/2026 pertaining to the buyback has been published on 08/10/2026 in all editions of the following newspapers - \r\n1) Financial Express (English)\r\n2) Janasatta (Hindi)\r\n3) Vijayavani (Kannada, Regional)",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-08T13:15:55.484143",
     "company": "Max Estates Limited",
     "text": "Max Estates Limited has informed the Exchange about Show Cause Notice.",
@@ -1439,20 +1453,6 @@
     "company": "Dhabriya Polywood Ltd",
     "text": "[Value: RS 17.4 CRORE (VIA NEWS)] Intimation of receiving of work order.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-01T10:15:43.525948",
-    "company": "Lupin Limited",
-    "text": "Lupin Limited has informed the Exchange about Multicare Pharmaceuticals Philippines, Inc. ('MPPI') has completed buyback of 30,559 shares, pursuant to which MPPI has become a step-down wholly owned subsidiary of the Company effective from October 01, 2026.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-01T10:15:41.430039",
-    "company": "Lupin Ltd",
-    "text": "Multicare Pharmaceuticals Philippines, Inc. (MPPI) has completed buyback of 30,559 shares, pursuant to which MPPI has become a step-down wholly owned subsidiary of the Company effective from October 01, 2026.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
