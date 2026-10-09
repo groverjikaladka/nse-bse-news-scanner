@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-09T16:46:01.298603",
+    "company": "NIS Management Ltd",
+    "text": "[Value: 120 CRORE (VIA NEWS)] Bagging of Order for CCTV Surveillance System",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-09T16:46:00.222454",
+    "company": "Bhansali Engineering Polymers Ltd-$",
+    "text": "Commissioning of 1300 KW DC capacity ground mounted solar power plant at company''s manufacturing unit at satnoor, (M.P) with capex of Rs. 642 Lacs.",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-09T16:01:38.507097",
     "company": "Shree Balaji (Mala) Textiles Ltd",
     "text": "Please Find Enclosed",
@@ -1235,20 +1249,6 @@
     "date": "2026-10-02T12:01:02.181922",
     "company": "Ideaforge Technology Ltd",
     "text": "[Value: RS 23.62 CRORE (VIA NEWS)] Intimation under Regulation 30 - Order received by the ideaForge Technology Limited (the Company) under section 74 of the CGST Act.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-02T11:01:08.479224",
-    "company": "BN Agrochem Ltd",
-    "text": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)Regulations, 2015, please find attached herewith update from the Company on Scheme of Amalgamation.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-02T11:01:07.826409",
-    "company": "Transformers and Rectifiers (India) Ltd",
-    "text": "[Value: 100 CRORE (VIA NEWS)] We have received Large Order from Damodar Valley Corporation",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
