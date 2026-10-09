@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-09T17:31:37.832414",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 09, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-09T17:31:37.140521",
+    "company": "Bajel Projects Ltd",
+    "text": "[Value: 200 CR (VIA NEWS)] Announcement under Regulation 30 SEBI (LODR) - Bagging of Award",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-09T17:01:16.129227",
     "company": "Innovision Ltd",
     "text": "[Value: RS 243.60 CRORE (VIA NEWS)] Intimation under Regulation 30 Receipt of Work Order by Subsidiary Company from Indian Army, Ministry of Defence, for the supply of Drones",
@@ -1256,13 +1270,6 @@
     "date": "2026-10-02T12:15:42.159746",
     "company": "ZF Commercial Vehicle Control Systems India Ltd",
     "text": "[Value: 517 CRORE (VIA NEWS)] Favourable order received from the Office of the Commissioner (Appeals)",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-02T12:01:02.181922",
-    "company": "Ideaforge Technology Ltd",
-    "text": "[Value: RS 23.62 CRORE (VIA NEWS)] Intimation under Regulation 30 - Order received by the ideaForge Technology Limited (the Company) under section 74 of the CGST Act.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
