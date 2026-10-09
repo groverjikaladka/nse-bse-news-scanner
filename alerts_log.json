@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-09T17:46:01.765248",
+    "company": "Go Fashion (India) Ltd",
+    "text": "Certification under 74(5) of SEBI (DP) Regulations",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-09T17:46:01.055336",
+    "company": "Ashoka Buildcon Ltd",
+    "text": "[Value: 100 CRORE (VIA NEWS)] Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project to North Eastern Railway (NER).\r\n\r\nDesign, Supply, Erection, Testing & Commissioning of Traction Sub Stations with associated Switching Posts for 2x25 KY AT traction feeding system in Gorakhpur Cantt-Chhapra Gramin section of Varanasi Division of North Eastern Railway for capacity up-gradation work of electric traction power supply installations on Engineering, Procurement & Construction (",
+    "categories": "Order/MoU/Contract, Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-09T17:31:37.832414",
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 09, 2026",
@@ -1265,12 +1279,5 @@
     "text": "[Value: 18,552 CR (VIA NEWS)] Shyam Metalics And Energy Limited has informed the Exchange about Memorandum of Understanding with Govt. of Maharashtra",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-10-02T12:15:42.159746",
-    "company": "ZF Commercial Vehicle Control Systems India Ltd",
-    "text": "[Value: 517 CRORE (VIA NEWS)] Favourable order received from the Office of the Commissioner (Appeals)",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
