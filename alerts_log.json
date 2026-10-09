@@ -1363,19 +1363,5 @@
     "text": "[Value: 2.06 CR (VIA NEWS)] Please refer the attached file",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-02T17:45:50.207322",
-    "company": "Knack Packaging Limited",
-    "text": "[Value: 130 CRORE (VIA NEWS)] Knack Packaging Limited has informed the Exchange about Received New Order and Renewal of Contract",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-02T17:45:47.925815",
-    "company": "Knack Packaging Ltd",
-    "text": "[Value: 130 CRORE (VIA NEWS)] Received New Order and Renewal of Contract.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
