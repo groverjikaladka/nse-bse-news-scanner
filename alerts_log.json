@@ -1398,19 +1398,5 @@
     "text": "[Value: 75.96 CRORE (VIA NEWS)] Intimation of Receipt of Work Order",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-05T20:31:39.875006",
-    "company": "Acme Solar Holdings Limited",
-    "text": "ACME Solar Holdings Limited has informed the Exchange about an update on commissioning of solar component of the Hybrid Power Project",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-05T20:31:38.360633",
-    "company": "ACME Solar Holdings Ltd",
-    "text": "Update on commissioning of solar component of the Hybrid Power Project",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
   }
 ]
