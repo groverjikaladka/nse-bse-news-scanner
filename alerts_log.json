@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-12T21:16:00.191499",
+    "company": "Transport Corporation of India Limited",
+    "text": "Transport Corporation of India Limited has informed the Exchange about Letter of Offer for buyback of fully paid-up equity shares through tender offer route",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-12T21:15:58.422913",
+    "company": "Transport Corporation of India Ltd",
+    "text": "Transport Corporation of India has submitted with the exchanges the Letter of Offer pursuant to buyback through tender offer route",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-12T20:31:44.418517",
     "company": "Airfloa Rail Technology Ltd",
     "text": "Reveiving of LAO for order value of Rs.34.85 Crores under Consortium with Blue Engineering, Italy",
@@ -1466,20 +1480,6 @@
     "date": "2026-10-05T16:01:12.655692",
     "company": "A B Infrabuild Ltd",
     "text": "[Value: 66.96 CRORE (VIA NEWS)] Allotment of Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-05T15:45:54.007751",
-    "company": "Popular Vehicles and Services Limited",
-    "text": "Popular Vehicles and Services Limited has informed the Exchange about Memorandum of Understanding/Agreements",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-05T15:45:52.420516",
-    "company": "Popular Vehicles and Services Ltd",
-    "text": "The Company has received a communication dated October 05, 2026 from the promoters and members of promoter group informing the Company about the execution of a Memorandum Recording Family Arrangement (Family Settlement/Agreement) dated October 01, 2026.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
