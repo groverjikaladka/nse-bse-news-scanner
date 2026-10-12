@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-12T14:32:01.294440",
+    "company": "Emami Limited",
+    "text": "Emami Limited has informed the Exchange about post Buyback Public Announcement",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-12T14:31:59.498656",
+    "company": "Emami Ltd-$",
+    "text": "Post Buyback Public Announcement",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-12T13:45:56.568878",
     "company": "Avonmore Capital & Management Services Limited",
     "text": "[Value: RS 49.52 CRORE (VIA NEWS)] Avonmore Capital & Management Services  Limited has informed the Exchange regarding a press release dated October 12, 2026, titled \"Press Release on new order book secured by Almondz Global Infra Consultant Limited, a Step-down subsidiary of the Company\".",
@@ -1396,20 +1410,6 @@
     "date": "2026-10-05T09:45:43.296353",
     "company": "JTL Industries Ltd",
     "text": "[Value: INR 100 CRORE (VIA NEWS)] Receipt of Export Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-05T09:01:07.322488",
-    "company": "Shyam Metalics and Energy Limited",
-    "text": "Shyam Metalics And Energy Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"Shyam Metalics Signs MoU with Maharashtra Govt. to SetUp \u00a550,000 Crore Integrated Steel Complex in Chandrapur\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-05T09:01:03.927755",
-    "company": "Shyam Metalics and Energy Ltd",
-    "text": "Press Release - Shyam Metalics signs MOU with Maharashtra Govt. to set up Rs. 50000 Crore Integrated Steel Complex in Chandrapur",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
