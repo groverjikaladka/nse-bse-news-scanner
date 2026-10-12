@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-12T20:31:44.418517",
+    "company": "Airfloa Rail Technology Ltd",
+    "text": "Reveiving of LAO for order value of Rs.34.85 Crores under Consortium with Blue Engineering, Italy",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-12T19:31:38.584901",
     "company": "Vikran Engineering Limited",
     "text": "[Value: 530.80 CRORE (VIA NEWS)] Vikran Engineering Limited has informed the Exchange about Memorandum of Understanding/Agreements",
@@ -1481,27 +1488,6 @@
     "company": "BMW Industries Ltd",
     "text": "Press Release- BMW Industries Limited commissions the colour coating line marking the commencement of the first phase of its Greenfield Downstream Steel Project at Bokaro",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-05T15:01:09.059384",
-    "company": "Solex Energy Limited",
-    "text": "Solex Energy Limited has informed the Exchange regarding a press release dated October 05, 2026, titled \"Solex Energy Secures Rs. 75.96 Crore Work Order for 620 Wp N-Type TOPCon Solar PV Modules\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-05T14:50:23.156606",
-    "company": "BMW Industries Ltd",
-    "text": "BMW Industries Limited successfully commissioned its Colour Coating Line which is the First Phase of its Greenfield Downstream Steel Complex at Bokaro",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-05T14:50:22.663004",
-    "company": "Honeywell Automation India Ltd",
-    "text": "Enclosed please find certification under Regulation 74(5) of the SEBI (DP) Regulations, 2018, for the quarter ended September 30, 2026",
-    "categories": "Partnership/Certification",
     "source": "BSE"
   }
 ]
