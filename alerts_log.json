@@ -1370,19 +1370,5 @@
     "text": "New order received",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-06T07:01:03.322438",
-    "company": "Adani Power Limited",
-    "text": "[Value: 43.26 CR (VIA NEWS)] Adani Power Limited has informed the Exchange about Memorandum of Understanding/Agreements",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-06T07:01:01.657529",
-    "company": "Adani Power Ltd",
-    "text": "[Value: 43.26 CR (VIA NEWS)] Adani Power Limited has informed the Exchange about signing of Shareholders Agreement",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
