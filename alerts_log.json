@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-13T23:46:11.809403",
+    "company": "Aegis Logistics Limited",
+    "text": "[Value: 6,000 CRORE (VIA NEWS)] Aegis Logistics Limited has informed the Exchange regarding a press release dated October 13, 2026, titled \" Aegis signs definitive agreement for its proposed acquisition of a majority stake in Tristar \".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-13T23:46:10.392195",
+    "company": "Aegis Logistics Ltd",
+    "text": "[Value: 6,000 CRORE (VIA NEWS)] Aegis Logistics Limited has informed the Exchange regarding a press release dated 13th October 2026 titled \"Aegis sign definitive agreement for its  proposed acquisition of a majority stake in Tristar\"",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-13T20:46:08.021631",
     "company": "Zydus Lifesciences Limited",
     "text": "Zydus Lifesciences Limited has informed the Exchange regarding a press release dated October 13, 2026, titled \"USFDA inspection concludes at Zydus' manufacturing plant at Moraiya, Ahmedabad\".",
@@ -1481,20 +1495,6 @@
     "company": "Container Corporation of India Ltd",
     "text": "Award an order",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-06T18:16:00.366713",
-    "company": "IRM Energy Limited",
-    "text": "IRM Energy Limited has informed the Exchange about Copy of Newspaper Publication - Notice of the hearing of the petition seeking sanction to the Scheme of Amalgamation of Enertech Distribution Management Private Limited with IRM Energy Limited and their respective shareholders",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-06T18:15:58.653984",
-    "company": "Advanced Enzyme Technologies Ltd",
-    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 06, 2026",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
