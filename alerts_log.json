@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-14T21:46:06.569919",
+    "company": "Neuland Laboratories Limited",
+    "text": "Neuland Laboratories Limited has informed the Exchange regarding 'We refer to our letter dated August 14, 2026 regarding the US FDA inspection conducted at our Unit 3 manufacturing facility  and would like to inform that the US FDA has issued an EIR against the inspection conducted from August 10, 2026 to August 14, 2026. The US FDA has concluded that this inspection is closed.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-14T21:46:04.171714",
+    "company": "Neuland Laboratories Ltd",
+    "text": "We refer to our letter dated August 14, 2026 regarding the US FDA inspection conducted at our Unit 3 manufacturing facility and we would like to inform that the US FDA has issued an EIR against the inspection conducted from August 10, 2026 to August 14, 2026. The US FDA has concluded that the inspection is closed.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-14T20:16:06.860051",
     "company": "Hariom Pipe Industries Ltd",
     "text": "Intimation of commissioning of Two Solar Power Plant with cumulative capacity of 10 MW (AC) under MSKVY 2.0 Scheme at Pusegaon and Jaipur, Taluka Sengaon, District Hingoli, Maharashtra.",
@@ -1453,20 +1467,6 @@
     "company": "Bright Brothers Ltd-$",
     "text": "We refer to our letter dated 11th August, 2026, wherein disclosures were provided regarding commencement of merger of the Company''s wholly-owned subsidiary Bright Brothers LLC with its step-down subsidiary Sintex Logistics LLC.\r\n\r\nIn this regard, we would like to inform you that process of merger has been completed. Pursuant to the said merger, Bright Brothers LLC has ceased to exist and the name of Sintex Logistics LLC has been changed to Bright Composites LLC. Therefore, Bright Composites LLC",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-07T16:15:54.295610",
-    "company": "PNB Housing Finance Limited",
-    "text": "PNB Housing Finance Limited has informed the Exchange regarding a press release titled \"PNB Housing Finance Receives Credit Rating Upgrade to  AAA  from CRISIL; Marking a Full Suite of Rating Upgrades Across All Four Agencies\".",
-    "categories": "Financial/Results",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-07T16:15:52.567642",
-    "company": "PNB Housing Finance Ltd",
-    "text": "Press Release on Credit Rating Upgrade to \"AAA\" from Crisil.",
-    "categories": "Financial/Results",
     "source": "BSE"
   }
 ]
