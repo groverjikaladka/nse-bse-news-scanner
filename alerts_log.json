@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-14T11:15:47.804126",
+    "company": "RailTel Corporation of India Ltd",
+    "text": "New Order Received",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-14T11:15:46.896370",
+    "company": "Navkar Corporation Ltd",
+    "text": "[Value: RS 190.75 CRORE (VIA NEWS)] As per attached file",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-14T11:01:09.388027",
     "company": "Adani Power Limited",
     "text": "[Value: 1,000 CRORE (VIA NEWS)] Adani Power Limited has informed the Exchange about Letter of Award",
