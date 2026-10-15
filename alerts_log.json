@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-15T19:01:22.579262",
+    "company": "Rajesh Exports Ltd",
+    "text": "Order from SEBI",
+    "categories": "Litigation/Regulatory Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-15T19:01:21.951338",
+    "company": "Asian Energy Services Ltd",
+    "text": "Asian Energy Services Limited has informed the Exchange about Receipt of certified true copy of the final order by the Hon''ble National Company Law Tribunal, Mumbai Bench (''Hon''ble Tribunal'') in the matter of Scheme of Merger by Absorption of Oilmax Energy Private Limited (''OEPL'' or ''Transferor Company'') with Asian Energy Services Limited (''AESL'' or ''Transferee Company'' or ''the Company'') and their respective shareholders (''Scheme'').",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-15T17:45:56.645006",
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 15, 2026",
@@ -1502,41 +1516,6 @@
     "company": "VRL Logistics Ltd",
     "text": "In compliance with Regulation 7(i) of the SEBI (Buyback) Regulations 2018, Public Announcement dated 07/10/2026 pertaining to the buyback has been published on 08/10/2026 in all editions of the following newspapers - \r\n1) Financial Express (English)\r\n2) Janasatta (Hindi)\r\n3) Vijayavani (Kannada, Regional)",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-08T13:15:55.484143",
-    "company": "Max Estates Limited",
-    "text": "Max Estates Limited has informed the Exchange about Show Cause Notice.",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-08T13:15:54.117240",
-    "company": "EMS Ltd",
-    "text": "[Value: RS 1,908 CRORE (VIA NEWS)] In continuation to our intimation dated August 17th, 2026, we are pleased to inform about receipt of Letter of Award from Municipal Corporation Jodhpur for Sewerage Work",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-08T13:15:53.133088",
-    "company": "Kabra Extrusiontechnik Ltd",
-    "text": "Intimation",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-08T13:15:52.576917",
-    "company": "Max Estates Ltd",
-    "text": "Please find attached the intimation for Show Cause Notice.",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-08T13:01:18.298492",
-    "company": "Cranex Ltd",
-    "text": "Enclosed herewith is the intimation regarding the receipt of a Letter of Award (LOA) for a new order valued at approximately Rs. 1,06,81,360/- for supply, commissioning and testing of a 25/5T EOT Crane.",
-    "categories": "Order/MoU/Contract, Capacity/Expansion",
     "source": "BSE"
   }
 ]
