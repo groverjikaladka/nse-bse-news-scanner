@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-15T22:46:06.878084",
+    "company": "REC Limited",
+    "text": "Intimation of receipt of No Objection Certificate from the Reserve Bank of India in relation to proposed scheme of merger.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-15T22:46:04.990420",
+    "company": "REC Ltd",
+    "text": "Intimation of reciept of No Objection Certificate from the Reserve Bank of India in relation to proposed scheme of merger.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-15T22:01:24.581922",
     "company": "Power Finance Corporation Ltd",
     "text": "Intimation of receipt of No Objection certificate from Reserve Bank of India (RBI) in relation to proposed scheme of Merger",
@@ -1565,27 +1579,6 @@
     "company": "NCC Ltd",
     "text": "[Value: RS 500 CRORE (VIA NEWS)] Disclosure regarding receipt of Major Order",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-08T17:16:00.620457",
-    "company": "Steelcast Ltd",
-    "text": "Update regarding Receipt of IRIS Certification",
-    "categories": "Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-08T17:16:00.140307",
-    "company": "Pace Digitek Ltd",
-    "text": "Intimation for receipt of letter of Intent (LOI) aggregating to Rs. 1,794 million",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-08T17:15:59.604649",
-    "company": "Hexaware Technologies Ltd",
-    "text": "Press Release",
-    "categories": "Partnership/Certification",
     "source": "BSE"
   }
 ]
