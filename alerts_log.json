@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-16T21:31:41.229744",
+    "company": "RBL Bank Limited",
+    "text": "RBL Bank Limited has informed the Exchange about receipt of approval from the Reserve Bank of India for amalgamation of Indian branches of Emirates NBD Bank P.J.S.C. with RBL Bank Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-16T21:31:39.716618",
+    "company": "RBL Bank Ltd",
+    "text": "RBL Bank Limited informs the exchange about receipt of approval from RBI for amalgamation of Indian branches of Emirates NBD Bank P.J.S.C with RBL Bank Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-16T21:16:02.909815",
     "company": "NBCC (India) Ltd",
     "text": "NBCC (India) Ltd - 534309 - Corrigendum To MCA Order On First Motion Application In The Matter Of Scheme Of Arrangement For Merger Between HSCC (India) Limited With NBCC (India) Limited And Their Respective Shareholders And Creditors",
@@ -1642,20 +1656,6 @@
     "company": "Bhansali Engineering Polymers Ltd-$",
     "text": "Commissioning of 1300 KW DC capacity ground mounted solar power plant at company''s manufacturing unit at satnoor, (M.P) with capex of Rs. 642 Lacs.",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-09T16:01:38.507097",
-    "company": "Shree Balaji (Mala) Textiles Ltd",
-    "text": "Please Find Enclosed",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-09T16:01:29.848989",
-    "company": "Innovision Ltd",
-    "text": "Intimation under regulation 30 for receipt of work order by Manpower vertical from Chhattisgarh State Health & family Welfare Department",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
