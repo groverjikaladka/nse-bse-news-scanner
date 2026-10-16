@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-16T17:15:56.995434",
+    "company": "Mauria Udyog Ltd",
+    "text": "[Value: 167 CRORE (VIA NEWS)] In furtherance to our intimation dated July17, 2026 we inform that company had filed Appeal No 269 of 2026 before the Securities Appellate Tribunal,Mumbai(SAT) against the Final Order dt. 30-06-2026 passed by  WTM ,SEBI  and that that the SAT has ,vide its Order dt. 08-10-2026 decided on the Company''s prayer for interim relief in the said Order.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-16T17:01:19.476405",
     "company": "Hindware Home Innovation Limited",
     "text": "Hindware Home Innovation Limited has informed the Exchange about Scheme of Arrangementunder Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 pursuant to the NCLT Order on the Scheme",
@@ -1600,13 +1607,6 @@
     "company": "Svarnim Trade Udyog Ltd",
     "text": "Certification under Regulation 74(5) of SEBI (DP) Regulations, 2018.",
     "categories": "Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-09T11:31:23.547684",
-    "company": "Brahmaputra Infrastructure Ltd",
-    "text": "Bags an new order of an total amount Rs. 897.30 Millions",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
