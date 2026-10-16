@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-16T22:16:04.044225",
+    "company": "Juniper Green Energy Limited",
+    "text": "Juniper Green Energy Limited has informed the Exchange about commissioning of additional Wind Capacity",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-16T22:01:21.610369",
     "company": "Juniper Green Energy Ltd",
     "text": "Update on commissioning of additional Wind Capacity",
@@ -1649,20 +1656,6 @@
     "company": "NBCC (India) Ltd",
     "text": "As per attached Intimation",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-09T16:46:01.298603",
-    "company": "NIS Management Ltd",
-    "text": "[Value: 120 CRORE (VIA NEWS)] Bagging of Order for CCTV Surveillance System",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-09T16:46:00.222454",
-    "company": "Bhansali Engineering Polymers Ltd-$",
-    "text": "Commissioning of 1300 KW DC capacity ground mounted solar power plant at company''s manufacturing unit at satnoor, (M.P) with capex of Rs. 642 Lacs.",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
