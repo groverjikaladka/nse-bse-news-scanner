@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-16T23:15:55.023001",
+    "company": "SIS LIMITED",
+    "text": "SIS Limited has informed that 14,85,134 equity shares of face value of Rs. 5/- each have been extinguished pursuant to the ongoing buyback through the open market route on the stock exchanges.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-16T23:15:53.885656",
+    "company": "SIS Ltd",
+    "text": "SIS Limited has informed that 14,85,134 equity shares of face value of Rs. 5/- each have been extinguished pursuant to the ongoing buyback through the open market route on the stock exchanges.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-16T22:16:04.044225",
     "company": "Juniper Green Energy Limited",
     "text": "Juniper Green Energy Limited has informed the Exchange about commissioning of additional Wind Capacity",
@@ -1628,20 +1642,6 @@
     "company": "Ashoka Buildcon Ltd",
     "text": "[Value: 100 CRORE (VIA NEWS)] Ashoka Buildcon Limited (the Company) informs that the Company had submitted bid, for the following Project to North Eastern Railway (NER).\r\n\r\nDesign, Supply, Erection, Testing & Commissioning of Traction Sub Stations with associated Switching Posts for 2x25 KY AT traction feeding system in Gorakhpur Cantt-Chhapra Gramin section of Varanasi Division of North Eastern Railway for capacity up-gradation work of electric traction power supply installations on Engineering, Procurement & Construction (",
     "categories": "Order/MoU/Contract, Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-09T17:31:37.832414",
-    "company": "Advanced Enzyme Technologies Ltd",
-    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 09, 2026",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-09T17:31:37.140521",
-    "company": "Bajel Projects Ltd",
-    "text": "[Value: 200 CR (VIA NEWS)] Announcement under Regulation 30 SEBI (LODR) - Bagging of Award",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]

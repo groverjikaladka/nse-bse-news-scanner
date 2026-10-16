@@ -46,7 +46,7 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 16 Oct 2026, 11:01 PM IST</span>
+<span class="updated">Last updated: 16 Oct 2026, 11:15 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
@@ -54,7 +54,7 @@ tr.hidden { display: none; }
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">103</div>
+<div class="stat-value">102</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">66</div>
+<div class="stat-value">67</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Capacity/Expansion">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">16 Oct 2026, 11:15 PM</td>
+<td class="company">SIS LIMITED</td>
+<td class="text">SIS Limited has informed that 14,85,134 equity shares of face value of Rs. 5/- each have been extinguished pursuant to the ongoing buyback through the open market route on the stock exchanges.</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">16 Oct 2026, 11:15 PM</td>
+<td class="company">SIS Ltd</td>
+<td class="text">SIS Limited has informed that 14,85,134 equity shares of face value of Rs. 5/- each have been extinguished pursuant to the ongoing buyback through the open market route on the stock exchanges.</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Capacity/Expansion">
 <td class="date">16 Oct 2026, 10:16 PM</td>
 <td class="company">Juniper Green Energy Limited</td>
 <td class="text">Juniper Green Energy Limited has informed the Exchange about commissioning of additional Wind Capacity</td>
@@ -1473,18 +1485,6 @@ tr.hidden { display: none; }
 
 Design, Supply, Erection, Testing & Commissioning of Traction Sub Stations with associated Switching Posts for 2x25 KY AT tract...</td>
 <td><span class="badge" style="background:#64748b">Order/MoU/Contract, Capacity/Expansion</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="M&A/Corporate Action">
-<td class="date">09 Oct 2026, 05:31 PM</td>
-<td class="company">Advanced Enzyme Technologies Ltd</td>
-<td class="text">Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 09, 2026</td>
-<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
-<td><span class="source">BSE</span></td>
-</tr><tr data-category="Order/MoU/Contract">
-<td class="date">09 Oct 2026, 05:31 PM</td>
-<td class="company">Bajel Projects Ltd</td>
-<td class="text">[Value: 200 CR (VIA NEWS)] Announcement under Regulation 30 SEBI (LODR) - Bagging of Award</td>
-<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
 <td><span class="source">BSE</span></td>
 </tr></tbody>
 </table>
