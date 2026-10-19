@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-19T14:31:30.884212",
+    "company": "Qualitek Labs Ltd",
+    "text": "[Value: 435.71 CRORE (VIA NEWS)] As per the attached information",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-19T14:31:30.178183",
+    "company": "Qualitek Labs Ltd",
+    "text": "[Value: 435.71 CRORE (VIA NEWS)] Receipt of Work Order by Interstellar Testing Centre Private Limited, a Wholly Owned Subsidiary of Qualitek Labs Limited from BRDC, Govt of Meghalaya",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-19T14:01:13.485809",
     "company": "Ceigall India Ltd",
     "text": "Ceigall Jalbehra Shahbad Greenfield Highway Private Limited, a subsidiary of Ceigall India Limited, has received a Provisional Completion Certificate dated October 19, 2026, from the Independent Engineer, declaring the project provisionally complete with effect from August 27, 2026.",
@@ -1487,13 +1501,6 @@
     "date": "2026-10-12T10:01:11.421909",
     "company": "Rajesh Power Services Ltd",
     "text": "[Value: 864.8 CRORE (VIA NEWS)] Press Release for Order received from Madhya Gujarat Vij Company Limited (MGVCL).",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-12T09:01:08.485758",
-    "company": "Tamboli Industries Ltd",
-    "text": "[Value: RS 22.75 CRORE (VIA NEWS)] Tamboli Industries Limited announces a significant milestone as its wholly owned subsidiary, Tamboli Castings Limited (TCL), is selected and qualified by a multibillion dollar Fortune 100 Global OEM in the Off-Highway equipments and advanced mobility solutions segments. Emerging successfully from a rigourous international selection proccess against leading precision component manufacturers across emerging markets, TCL has secured development orders for over 50 precision components under a long-t",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
