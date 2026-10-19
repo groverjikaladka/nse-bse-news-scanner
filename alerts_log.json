@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19T15:45:52.695021",
+    "company": "EPL Ltd",
+    "text": "Observation Letters received from BSE and NSE in relation to Scheme of Amalgamation of Indovida India Private Limited with the Company and their respective shareholders, is enclosed herewith.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-19T15:15:57.460438",
     "company": "EPL Limited",
     "text": "EPL Limited has informed the Exchange about Receipt of Observation Letters from BSE and NSE in relation to Scheme of Amalgamation of Indovida India Private Limited with the Company and their respective shareholders",
@@ -1523,20 +1530,6 @@
     "company": "Emcure Pharmaceuticals Ltd",
     "text": "Proposed Scheme of Amalgamation of  Zuventus Healthcare Limited and Emcutix Biopharmaceuticals Limited, wholly owned subsidiaries of the Company with Emcure Pharmaceuticals Limited - Holding Company, subject to requisite statutory and regulatory approvals.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-12T10:01:12.129583",
-    "company": "Rajesh Power Services Ltd",
-    "text": "[Value: 864.8 CRORE (VIA NEWS)] Intimation of Order Received from Madhya Gujrat Vij Company Limited (MGVCL).",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-12T10:01:11.421909",
-    "company": "Rajesh Power Services Ltd",
-    "text": "[Value: 864.8 CRORE (VIA NEWS)] Press Release for Order received from Madhya Gujarat Vij Company Limited (MGVCL).",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
