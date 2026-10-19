@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19T21:02:00.341549",
+    "company": "Systematic Industries Ltd",
+    "text": "[Value: 33.94 CRORE (VIA NEWS)] Disclosure under Regulation 30 for Intimation of Execution of SPA",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-19T20:46:30.243001",
     "company": "Saraswati Saree Depot Ltd",
     "text": "Receipt of order passed by the Office of the Joint Commissioner , CGST Kolhapur Commissionerate",
@@ -1551,13 +1558,6 @@
     "company": "Tata Motors Passenger Vehicles Ltd",
     "text": "Pursuant to Regulation 30 of the SEB9 (LODR) Regulations, 2015, we are enclosing herewith a Press Release titled \"Stellantis and Tata Motors Passenger Vehicles Broaden Strategic Partnership to include Advanced Technology and Product Collaboration\".",
     "categories": "Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-12T15:31:38.549490",
-    "company": "Hazoor Multi Projects Ltd-$",
-    "text": "[Value: 77.60 CRORE (VIA NEWS)] Please find attached the revised intimation regarding Letter of Award received from National Highways Authority of India (NHAI) for collection of user fee at Gaddurur (Nangli) Fee Plaza.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
