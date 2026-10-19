@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19T22:46:18.888946",
+    "company": "Power Finance Corporation Limited",
+    "text": "Intimation of receipt of No Objection letters from BSE Limited and National Stock Exchange of India Limited in relation to proposed scheme of merger of REC Limited ( Transferor Company ) with and into Power Finance Corporation Limited ( Company  or  Transferee Company )",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-19T21:17:00.792723",
     "company": "GOCL Corporation Limited",
     "text": "GOCL Corporation Limited has informed the Exchange regarding Outcome of Board Meeting held on October 19, 2026 - Update on Scheme of Merger of HNPCL with GOCL",
@@ -1530,13 +1537,6 @@
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 12, 2026.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-12T17:15:56.294733",
-    "company": "Master Trust Ltd",
-    "text": "Acquisition of Shares in Future Colonizers  & Construction Limited through CIRP vide NCLT order",
-    "categories": "Financial/Results",
     "source": "BSE"
   }
 ]
