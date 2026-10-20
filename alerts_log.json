@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-20T22:15:50.782779",
+    "company": "SIS LIMITED",
+    "text": "SIS Limited has informed the Exchange about post buyback public announcement dated October 19, 2026, for the buyback of fully paid-up equity shares of face value of INR 5/- each from the open market route.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-20T22:15:49.533288",
+    "company": "SIS Ltd",
+    "text": "SIS Limited has informed the Exchange about post buyback public announcement dated October 19, 2026, for the buyback of fully paid-up equity shares of face value of INR 5/- each from the open market route.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-20T20:01:13.314449",
     "company": "Dr Agarwals Eye Hospital Ltd-$",
     "text": "Fixation of Record Date w.r.t. the scheme of amalgamation between Dr. Agarwal''s Eye Hospital Limited and Dr. Agarwal''s Health Care Limited, is submitted.",
@@ -1425,20 +1439,6 @@
     "company": "Wipro Ltd",
     "text": "The recent announcement by the U.S. Department of Labor regarding the suspension of new PERM applications for certain companies, relates to a specific permanent residency pathway and is distinct from broader skilled talent mobility programmes such as the H1B Visa. We don''t anticipate any material business impact from this announcement. \r\n\r\nOver the years, Wipro has pursued a deliberate localisation strategy in the U.S., with more than 80% of our workforce in the country locally hired. We remain",
     "categories": "Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-13T16:31:33.260014",
-    "company": "Share India Securities Ltd",
-    "text": "We are pleased to inform you that the Hon''ble NCLT, Ahmedabad Bench - 1 vide its order pronounced on October 12, 2026, has rectified the Appointed Date of the Scheme from October 01, 2023 to April 01, 2026.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-13T16:31:32.587940",
-    "company": "Signpost India Ltd",
-    "text": "[Value: 21 CRORE (VIA NEWS)] Award of Exclusive Adverting Rights on Buses Operating under the Premium Bus Service by Chalo Mobility Private Limited",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
