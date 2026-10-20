@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-20T19:15:50.010493",
+    "company": "Dr. Agarwal's Health Care Limited",
+    "text": "Dr. Agarwal's Health Care Limited has informed the Exchange that Record date for the purpose of Scheme of Amalgamation with Dr. Agarwal's Eye Hospital Limited is 18-Nov-2026.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-20T19:15:47.729183",
+    "company": "Dr. Agarwals Health Care Ltd",
+    "text": "Fixation of Record Date w.r.t. the Scheme of Amalgamation between Dr. Agarwals Eye Hospital Limited and Dr. Agarwals Health Care Limited, is disclosed.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-20T19:01:13.320021",
     "company": "Dr. Agarwal's Health Care Limited",
     "text": "Material Update on the Scheme of Amalgamation between Dr. Agarwal's Eye Hospital Limited and Dr. Agarwal's Health Care Limited and their respective shareholders and creditors",
@@ -1440,19 +1454,5 @@
     "text": "[Value: 1,000 CRORE (VIA NEWS)] Aarti Industries Limited has informed the Exchange regarding a press release dated October 13, 2026, titled \"Aarti Industries enters into a 10+ year strategic and dedicated manufacturing & Supply Agreement with a Global Speciality Chemical Company\".",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-10-13T13:31:32.453127",
-    "company": "Accord Transformer & Switchgear Ltd",
-    "text": "[Value: 20.02 CRORE (VIA NEWS)] Purchase Order Received for an amount Seventy Lakhs from October 07, 2026.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-13T13:31:31.449287",
-    "company": "National Fittings Ltd",
-    "text": "The company has entered MOU to acquire land parcel measuring approximately 4.5 acres adjacent to our leased premises for construction of new manufacturing facility - R S 314/315, Khakariya Road, Mudhela Village, Savali Taluk, Vadodara Dist - 391510 Gujarat - approximately for Rs 4.65 crores (being met by internal accruals)\r\n\r\nS Aravinthan\r\nCompany Secretary",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
