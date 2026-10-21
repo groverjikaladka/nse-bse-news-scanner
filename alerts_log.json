@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-21T17:31:30.197434",
+    "company": "GOCL Corporation Ltd-$",
+    "text": "As directed by the Hon''ble NCLT, Amaravati Bench vide order dated October 08, 2026, a meeting of Equity Shareholders of GOCL Corporation Limited shall be held on Tuesday, November 24, 2026 at 11.00 a.m. IST through VC or OAVM.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-21T17:15:53.890894",
     "company": "Seamec Ltd",
     "text": "[Value: RS 411 CRORE (VIA NEWS)] Intimation on Execution of Contract with HAL OFFSHORE LIMITED for charter hire of Vessel \"SEAMEC ANANT\"",
@@ -1256,20 +1263,6 @@
     "date": "2026-10-14T12:15:53.586772",
     "company": "DMR Engineering Ltd",
     "text": "[Value: 1.66 CRORE (VIA NEWS)] Intimation opf receipt of letter of assignment",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-14T12:01:10.810418",
-    "company": "Ahluwalia Contracts (India) Ltd",
-    "text": "Construction of Bennett University Building - Awards Rs. 310 Crores",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-14T12:01:10.109127",
-    "company": "Apana Logistics Ltd",
-    "text": "[Value: RS 34.14 CRORE (VIA NEWS)] Award of work order",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
