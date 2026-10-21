@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-21T18:31:43.967202",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 21, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-21T18:16:01.733024",
     "company": "Container Corporation of India Ltd",
     "text": "Receipt of Order from GST authority for Imposition of Penalty",
@@ -1278,13 +1285,6 @@
     "company": "Rajesh Power Services Ltd",
     "text": "[Value: INR 472 CRORE (VIA NEWS)] Press Release for Order Received from Uttar Gujarat Vij Company Limited (UGVCL).",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-14T13:01:11.402724",
-    "company": "Hira Automobiles Ltd",
-    "text": "Please find enclosed the quarterly compliance report as above for quarter september 2026.",
-    "categories": "Litigation/Regulatory Action",
     "source": "BSE"
   }
 ]
