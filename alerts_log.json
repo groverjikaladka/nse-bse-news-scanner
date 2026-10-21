@@ -1223,19 +1223,5 @@
     "text": "Purchase order of Total Value of Rs.6.25 Crore.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-14T21:46:06.569919",
-    "company": "Neuland Laboratories Limited",
-    "text": "Neuland Laboratories Limited has informed the Exchange regarding 'We refer to our letter dated August 14, 2026 regarding the US FDA inspection conducted at our Unit 3 manufacturing facility  and would like to inform that the US FDA has issued an EIR against the inspection conducted from August 10, 2026 to August 14, 2026. The US FDA has concluded that this inspection is closed.",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-14T21:46:04.171714",
-    "company": "Neuland Laboratories Ltd",
-    "text": "We refer to our letter dated August 14, 2026 regarding the US FDA inspection conducted at our Unit 3 manufacturing facility and we would like to inform that the US FDA has issued an EIR against the inspection conducted from August 10, 2026 to August 14, 2026. The US FDA has concluded that the inspection is closed.",
-    "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
   }
 ]
