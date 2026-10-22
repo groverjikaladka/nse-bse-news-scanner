@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-22T19:16:00.288174",
+    "company": "Pitti Engineering Limited",
+    "text": "Pitti Engineering Limited has informed the Exchange about approval of Capex and capacity expansion",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-22T19:15:58.945586",
+    "company": "Pitti Engineering Ltd-$",
+    "text": "Approval of Capex and capacity expansion",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-22T19:01:31.184945",
     "company": "Ramco Systems Ltd",
     "text": "Upgrade in Credit Rating",
@@ -1376,20 +1390,6 @@
     "company": "Containerway International Ltd",
     "text": "[Value: RS 0.72 CRORE (VIA NEWS)] MOU for arrangement of Marketing Tie-up.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-15T13:31:39.428432",
-    "company": "Vraj Iron and Steel Limited",
-    "text": "Vraj Iron and Steel Limited has informed the Exchange about receipt of Fresh Terms of Reference (ToR) for the Greenfield Steel Plant Project of the Company from MoEF&CC.",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-15T13:31:37.925560",
-    "company": "Vraj Iron And Steel Ltd",
-    "text": "Please find enclosed intimation regarding receipt of Terms of Reference (ToR) for the Greenfield Steel Plant project of the company.",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
