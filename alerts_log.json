@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-22T19:46:00.187356",
+    "company": "Ashapura Intimates Fashion Limited",
+    "text": "Members of the Exchange are hereby informed that the trading in equity shares of Ashapura Intimates Fashion Limited shall remain to be suspended on account of Reduction of Share Capital pursuant to NCLT order.",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-22T19:16:00.288174",
     "company": "Pitti Engineering Limited",
     "text": "Pitti Engineering Limited has informed the Exchange about approval of Capex and capacity expansion",
@@ -1377,19 +1384,5 @@
     "text": "Intimation regarding SEBI Order granting exemption to Shashi Kiran Shetty Family Trust under the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011",
     "categories": "Litigation/Regulatory Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-10-15T14:15:58.180253",
-    "company": "ITCONS E-Solutions Ltd",
-    "text": "We are pleased to inform that our Company has bagged a new contract from I&B Main Secretariate, Ministry of Information & Broadcasting of order value of Rs. 1894647.99. For further details kindly refer attached file",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-15T14:15:57.533565",
-    "company": "Containerway International Ltd",
-    "text": "[Value: RS 0.72 CRORE (VIA NEWS)] MOU for arrangement of Marketing Tie-up.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
