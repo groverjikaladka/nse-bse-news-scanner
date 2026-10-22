@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-10-22T18:15:59.530428",
+    "company": "Hitech Corporation Limited",
+    "text": "Hitech Corporation Limited has informed the Exchange about Receipt of Corrigendum to Outcome of Reverse Book Building Process (\"RBBP\") issued in accordance Regulation 17(3) and other applicable provisions with Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021, as amended ( SEBI Delisting Regulations ) and to post offer public announcement ( Post Offer PA ) issued in accordance Regulation 17(4) and other applicable provisions of  SEBI Delisting Regulations for ",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-22T18:15:58.097932",
+    "company": "Acme Universal Safezone 9 Ltd",
+    "text": "[Value: 20.58 CR (VIA NEWS)] Acme Universal Safezone 9 Limited is informing about the receipt of the order received from the international entity for specialized safety shoes",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-22T18:15:57.441137",
+    "company": "Acme Universal Safezone 9 Ltd",
+    "text": "[Value: 20.58 CR (VIA NEWS)] Acme Universal Safezone 9 Limited is informing about the receipt of the order received from the international entity for Specialized Safety Shoes",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-22T18:15:56.458272",
+    "company": "Hitech Corporation Ltd-$",
+    "text": "Please find attached.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-22T18:15:53.534993",
+    "company": "Adishakti Loha and Ispat Ltd",
+    "text": "Execution of MOU with Dream Media Network Private Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-22T18:01:25.602879",
     "company": "Anka India Ltd",
     "text": "Intimation under Regulation 30 of the SEBI(Listing Obligation and Disclosure Requirements) Regulation,2015-Receipt of Order from the Hon''ble NCLT in relation to the Scheme of Amalgamation.",
@@ -1313,13 +1348,6 @@
     "company": "Vraj Iron And Steel Ltd",
     "text": "Please find enclosed intimation regarding receipt of Terms of Reference (ToR) for the Greenfield Steel Plant project of the company.",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-15T12:31:30.040790",
-    "company": "POCL Enterprises Ltd",
-    "text": "With respect to the Scheme of Amalgamation of Planetfirst Green Private Limited with and into POCL Enterprises Limited, the Hon''ble National Company Law Tribunal, Chennai Bench, has issued directions for convening the meetings of the equity shareholders and unsecured creditors of POCL Enterprises Limited. The order copy is enclosed herewith.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
