@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-22T20:16:03.761071",
+    "company": "Talwalkars Better Value Fitness Limited",
+    "text": "Members of the Exchange are hereby informed that the trading in Equity Shares of Talwalkars Better Value Fitness Limited shall remain to be suspended on account of Reduction of Share Capital pursuant to NCLT order.",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-22T20:16:03.104624",
+    "company": "NLC India Limited",
+    "text": "[Value: 3,769 CRORE (VIA NEWS)] NLC India Limited has informed the Exchange regarding a press release dated October 22, 2026, titled \"NLCIL Signs MoU with IPICOL for Establishment of a 3200 MW (4x800 MW)Ultra Super Critical coal-based thermal power plant and Exploration of CoalGasification-Based Fertilizer Production and Beach Sand Mineral ProcessingFacility in Odisha\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-22T19:46:00.187356",
     "company": "Ashapura Intimates Fashion Limited",
     "text": "Members of the Exchange are hereby informed that the trading in equity shares of Ashapura Intimates Fashion Limited shall remain to be suspended on account of Reduction of Share Capital pursuant to NCLT order.",
@@ -1356,33 +1370,5 @@
     "text": "[Value: RS 810.79 CRORE (VIA NEWS)] Receipt of Order for Heavyweight Torpedoes",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-15T14:45:58.010340",
-    "company": "CSB Bank Limited",
-    "text": "The Exchange has sought clarification from CSB Bank Limited with respect to recent news item captioned CSB Bank merger with IDBI Bank likely after Fairfax deal.  The response from the Company is awaited.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-15T14:45:55.782622",
-    "company": "Hitech Corporation Ltd-$",
-    "text": "Receipt of Post Offer Public Announcement (\"Post Offer PA\") issued in accordance Regulation 17(4) and other applicable provisions of SEBI Delisting Regulations for the delisting of the equity shares of Hitech Corporation Limited.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-15T14:45:55.058191",
-    "company": "Allcargo Logistics Ltd",
-    "text": "Intimation regarding SEBI Order granting exemption to Shashi Kiran Shetty Family Trust under SEBI (Substantial Acquisition of shares and Takeovers) Regulation, 2011",
-    "categories": "Litigation/Regulatory Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-15T14:31:47.634110",
-    "company": "Allcargo Logistics Limited",
-    "text": "Intimation regarding SEBI Order granting exemption to Shashi Kiran Shetty Family Trust under the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011",
-    "categories": "Litigation/Regulatory Action",
-    "source": "NSE"
   }
 ]
