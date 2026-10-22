@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-22T22:46:09.517815",
+    "company": "3i Infotech Ltd",
+    "text": "[Value: 37.05 CR (VIA NEWS)] Intimation regarding receipt of purchase order.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-22T21:01:33.927647",
     "company": "Safety Controls & Devices Ltd",
     "text": "The Company hereby informs the exchange regarding Award of Order/ Receipt of Order, aggregating to Rs. 10.157 Crore.",
@@ -1286,12 +1293,5 @@
     "text": "[Value: 4.86 CRORE (VIA NEWS)] Media Release on Purchase Order.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-15T17:16:04.643216",
-    "company": "The Phoenix Mills Limited",
-    "text": "The Phoenix Mills Limited has informed the Exchange about Amalgamation/Merger of Subsidiary Companies.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
   }
 ]
