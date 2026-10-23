@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-23T20:31:45.343775",
+    "company": "Jindal Photo Ltd",
+    "text": "Submission of Letter of Offer ('Letter of Offer') by Jindal Photo Limited ('the Company') in accordance with the provisions of the SEBI (Delisting of Equity Shares) Regulations, 2021 and SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-23T20:16:07.521319",
     "company": "Loyal Equipments Ltd",
     "text": "[Value: RS.6.54 CRORE (VIA NEWS)] We are pleased to inform you that our company  has received Purchase order for supply of Turbine Ducts from Linde GmbH, Pullach, Germany.",
@@ -1320,13 +1327,6 @@
     "company": "Indo Rama Synthetics (India) Ltd",
     "text": "The Board of Directors, in their meeting held today, i.e., 16th October 2026, have interalia considered and approved expansion plan of approx. INR 200 Crores in the Company and its Wholly Owned Material Subsidiary, i.e., lndorama Ventures Yarns Private Limited.",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-16T15:01:13.518306",
-    "company": "B. L. Kashyap and Sons Ltd",
-    "text": "The Company has secured an order worth Rs. 202.02 Crores.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
