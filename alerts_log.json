@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-23T20:46:09.767659",
+    "company": "Acme Solar Holdings Limited",
+    "text": "Acme Solar Holdings Limited has informed the Exchange about an update on commissioning of Battery Energy Storage System (BESS) Project at Rajasthan",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-23T20:46:06.714161",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Update on commissioning of Battery Energy Storage System (BESS) Project at Rajasthan",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-23T20:46:06.053274",
+    "company": "Gufic Biosciences Ltd",
+    "text": "Intimation regarding USFDA Pre-Approval Inspection at the Company''s Manufacturing facility situated at Indore, Madhya Pradesh is attached herewith.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-23T20:46:05.265766",
+    "company": "Highway Infrastructure Ltd",
+    "text": "[Value: 7,300 CRORE (VIA NEWS)] Company received a LOA for Palayam Fee Plaza in the state of Tamil Nadu.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-23T20:31:45.343775",
     "company": "Jindal Photo Ltd",
     "text": "Submission of Letter of Offer ('Letter of Offer') by Jindal Photo Limited ('the Company') in accordance with the provisions of the SEBI (Delisting of Equity Shares) Regulations, 2021 and SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
@@ -1320,13 +1348,6 @@
     "company": "Dharmaj Crop Guard Ltd",
     "text": "[Value: 38 CRORE (VIA NEWS)] Intimation regarding the Order passed by the Hon''ble High Court of Himachal Pradesh",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-16T15:15:57.043318",
-    "company": "Indo Rama Synthetics (India) Ltd",
-    "text": "The Board of Directors, in their meeting held today, i.e., 16th October 2026, have interalia considered and approved expansion plan of approx. INR 200 Crores in the Company and its Wholly Owned Material Subsidiary, i.e., lndorama Ventures Yarns Private Limited.",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
