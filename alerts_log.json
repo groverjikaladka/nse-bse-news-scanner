@@ -1300,12 +1300,5 @@
     "text": "New Order Received",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-17T13:15:46.048421",
-    "company": "Ameenji Rubber Ltd",
-    "text": "[Value: 4.15 CRORE (VIA NEWS)] Disclosure under SEBI (LODR) Regulations, 2015 with respect to receipt of purchase order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
