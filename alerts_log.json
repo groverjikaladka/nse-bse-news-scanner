@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-24T17:15:50.521820",
+    "company": "Orchid Pharma Limited",
+    "text": "[Value: 600 CRORE (VIA NEWS)] Orchid Pharma Limited has informed the Exchange regarding a press release dated October 24, 2026, titled \"Announcement under Regulation 30 regarding the licensing and supply agreement with Laboratorio Libra S.A.(\"Libra\"}\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-24T17:15:49.007904",
+    "company": "Takyon Networks Ltd",
+    "text": "Intimation under Regulation 30 regarding receipt of a Purchase Order worth Rs. 19.40 Crore from \"Hindustan Power Exchange Limited\" for the supply of Hardware, software and Licenses vide purchase Order No HPX/IT/26-27/011 dated 23 October, 2026.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-24T17:15:48.524922",
+    "company": "Orchid Pharma Ltd",
+    "text": "[Value: 600 CRORE (VIA NEWS)] Announcement under regulation 30 regarding the licensing and supply agreement with Laboratorio Libra S.A.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-24T16:31:29.648119",
     "company": "Melstar Information Technologies Limited",
     "text": "[Value: RS 0.63 CRORE (VIA NEWS)] Melstar Information Technologies Limited has informed the Exchange about Memorandum of Understanding entered into between Melstarr Aviations Tech Private Limited ( MATPL ), a wholly owned subsidiary of the Company, and Andhra Pradesh Economic Development Board, Government of Andhra Pradesh ( APEDB ).",
@@ -1278,20 +1299,6 @@
     "company": "Ameenji Rubber Ltd",
     "text": "[Value: 4.15 CRORE (VIA NEWS)] Disclosure under SEBI (LODR) Regulations, 2015 with respect to receipt of purchase order",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-17T11:31:21.228490",
-    "company": "VRL Logistics Limited",
-    "text": "VRL Logistics Limited has informed the Exchange about corrigendum to the public Announcement filed on October 8, 2026- Buyback of Shares",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-17T11:31:19.971373",
-    "company": "VRL Logistics Ltd",
-    "text": "Corrigendum to the Public Announcement published on October 8, 2026.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
