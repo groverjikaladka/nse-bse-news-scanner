@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-26T21:31:51.469025",
+    "company": "WeWork India Management Limited",
+    "text": "WeWork India Management Limited has informed the Exchange regarding a media release dated October 26, 2026, titled \"WeWork India delivers strong Q2 FY27 performance amid record capacity expansion\".",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-26T21:01:27.979215",
     "company": "Alldigi Tech Ltd",
     "text": "Alldigi Tech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Proposed Buyback of Equity Shares",
@@ -1467,13 +1474,6 @@
     "company": "Maharashtra Seamless Ltd",
     "text": "[Value: INR 1,709 CRORE (VIA NEWS)] Receipt of order from Hon''ble Regional Director, Western Region-II, Mumbai for shifting of Registered Office",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-19T15:45:52.695021",
-    "company": "EPL Ltd",
-    "text": "Observation Letters received from BSE and NSE in relation to Scheme of Amalgamation of Indovida India Private Limited with the Company and their respective shareholders, is enclosed herewith.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
