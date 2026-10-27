@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-27T19:46:18.629415",
+    "company": "FDC Limited",
+    "text": "FDC Limited has informed the Exchange that Record date for the purpose of Buyback  is 13-Nov-2026.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-27T19:46:15.055915",
+    "company": "FDC Ltd",
+    "text": "The Board Has Decided November 13, 2026, as the Record Date For the buyback Offer.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-27T19:46:14.511518",
+    "company": "Nephrocare Health Services Ltd",
+    "text": "[Value: RS 11.6 CRORE (VIA NEWS)] Pursuant to Reg 30 of SEBI Listing Regulations, we hereby inform you that Nephrocare Health Services, Philippines Inc., a step-down wholly owned subsidiary of the company has acquired a dialysis center and has executed an ATA as per disclosure annexed herewith.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-27T19:31:47.310193",
     "company": "Acme Solar Holdings Limited",
     "text": "ACME Solar Holdings Limited has informed the Exchange about an update on the commissioning of its Battery Energy Storage System (BESS) Project",
@@ -1564,13 +1585,6 @@
     "date": "2026-10-20T15:15:49.260625",
     "company": "Grauer & Weil India Ltd-$",
     "text": "[Value: 11,784 CRORE (VIA NEWS)] The Company entered into MoU with RENA Technologies GmbH - Germany, to form a JV Company.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-20T14:15:49.928627",
-    "company": "PVP Ventures Ltd",
-    "text": "Signing and Issuance of Letter of Intent to Elekta Solutions AB, Sweden, for the proposed procurement, of ten (10) Harmony, linear accelerator (LINAC) systems, Deal value is expected to be between 11 to 15 million dollars USD.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
