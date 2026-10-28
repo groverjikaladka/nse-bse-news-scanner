@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-28T16:46:02.607231",
+    "company": "Praveg Ltd",
+    "text": "[Value: RS 1,439.44 CRORE (VIA NEWS)] Update to earlier intimation dated September 16, 2026 regarding receipt of the Letter of Acceptance (LoA) from Tourism Corporation of Gujarat Limited (TCGL).",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-28T16:31:44.680326",
     "company": "United Drilling Tools Ltd",
     "text": "[Value: RS 48.29 LAKH (VIA NEWS)] Award of order from Argentera",
@@ -1586,20 +1593,6 @@
     "company": "Lactose India Ltd",
     "text": "With reference to the Scheme of Amalgamation NCLT order dated 05th August 2026",
     "categories": "M&A/Corporate Action, Financial/Results",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-21T11:15:52.429248",
-    "company": "Zydus Lifesciences Limited",
-    "text": "Zydus Lifesciences Limited has informed the Exchange regarding a press release dated October 21, 2026, titled \"Zydus receives USFDA approval for Estradiol and Levonorgestrel Transdermal System, eligible for 180-day CGT exclusivity\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-21T11:15:50.950762",
-    "company": "Zydus Lifesciences Ltd",
-    "text": "Zydus receives USFDA approval for Estradiol and Levonorgestrel Transdermal System, eligible for 180-day CGT exclusivity.",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
