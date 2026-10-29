@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-29T18:16:23.740047",
+    "company": "DCM Shriram Ltd",
+    "text": "Intimation regarding fully commissioning of Renewable Power Project is attached.",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-29T17:46:02.050172",
     "company": "Advanced Enzyme Technologies Ltd",
     "text": "Daily Report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on October 29, 2026",
@@ -1726,13 +1733,6 @@
     "company": "Bondada Engineering Ltd",
     "text": "[Value: INR 1,153.93 CRORE (VIA NEWS)] Intimation of receipt Work Order.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-22T12:31:37.007574",
-    "company": "Jindal Photo Ltd",
-    "text": "Saffron Capital Advisors Pvt. Ltd (\"Manager to the Delisting Offer\") has submitted to BSE a copy of Detailed Public Announcement under Regulation 15 of the Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021 for the attention of the Public Shareholders of Jindal Photo Ltd (\"Target Company\").",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
