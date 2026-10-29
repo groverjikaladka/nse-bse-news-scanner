@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-29T19:46:08.494167",
+    "company": "Shelter Pharma Ltd",
+    "text": "[Value: INR 200 CR (VIA NEWS)] Attached here with order updates recieved on 28.10.2026",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-29T19:01:33.499928",
     "company": "Epigral Ltd",
     "text": "Intimation of assessment order for A.Y. 2023-24 pertaining to F.Y. 2022-23, along with notice of demand of Rs.28.11 crore (including applicable interest).",
@@ -1733,13 +1740,6 @@
     "company": "Automobile Corporation of Goa Ltd-$",
     "text": "Pursuant to Regulation 42 of SEBI (LODR) Regulations 2015 and Regulation 9(i) of the SEBI (Buyback of Securities) Regulations, 2018, the Company has fixed October 28, 2026 (Wednesday) as record date for the purpose of determining the entitlement and names of equity shareholders who are eligible to participate in the Buyback.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-22T14:15:52.246751",
-    "company": "Bondada Engineering Ltd",
-    "text": "[Value: INR 1,153.93 CRORE (VIA NEWS)] Intimation of receipt Work Order.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
