@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-30T17:31:32.029603",
+    "company": "Manipal Health Enterprises Ltd",
+    "text": "[Value: 2.38 CRORE (VIA NEWS)] Please find attached the disclosure under Regulation 30 read with Schedule III of the SEBI (LODR) Regulations, 2015 pertaining to actions taken/ order passed against the subsidiary Company.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-30T17:31:31.144165",
+    "company": "Taneja Aerospace & Aviation Ltd-$",
+    "text": "1. approval of the un-audited (standalone and consolidated) financial results for the quarter and half year ended 30th September, 2026.   \r\n2. approval of the scheme of Amalgamation of Katra Auto Engineering Private Limited, a wholly owned subsidiary (Transferor Company) with Taneja Aerospace and Aviation Limited (Transferee Company).\r\n",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-30T17:16:12.169097",
     "company": "Gail (India) Ltd",
     "text": "[Value: RS 4,665 CRORE (VIA NEWS)] Please find enclosed a copy of Press Release on 'GAIL and RCF Sign MoU for Setting up Gas-Based Fertilizer Project in Maharashtra'",
@@ -1664,12 +1678,5 @@
     "text": "Newspaper Notice Regarding Final Hearing Of Company Scheme Petition In Relation To The Scheme Of Amalgamation Of Siemens Rail Automation Private Limited With Siemens Limited And Their Respective Shareholders",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-10-23T12:01:11.085655",
-    "company": "Siemens Ltd",
-    "text": "Please refer the attached file",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
