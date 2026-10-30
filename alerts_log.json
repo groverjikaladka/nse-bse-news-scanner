@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-30T19:33:05.680630",
+    "company": "Venus Pipes & Tubes Ltd",
+    "text": "[Value: INR 185 CRORE (VIA NEWS)] intimation",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-30T19:33:04.604120",
+    "company": "Advanced Enzyme Technologies Ltd",
+    "text": "Closure of Buyback",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-30T19:16:46.735555",
     "company": "Venus Pipes & Tubes Limited",
     "text": "Venus Pipes & Tubes Limited has informed the Exchange regarding a press release dated October 30, 2026, titled \"Venus Pipes & Tubes receives Rs. 29 Crore Order Against Rs. 185 Crore LOI from Data Centre Customer for Pipe Spooling solutions\".",
@@ -1713,12 +1727,5 @@
     "text": "[Value: RS 446 CRORE (VIA NEWS)] Please find enclosed herewith the intimation under Regulation 30 read with Schedule III Part A(20(b) of SEBI Listing Regulations, 2015",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-23T14:01:13.314734",
-    "company": "Newgen Software Technologies Limited",
-    "text": "Newgen Software Technologies Limited has informed the Exchange about Approval of the Scheme of Arrangement for Amalgamation of Newgen Computers Technologies Limited ( Transferor Company ) with and into Newgen Software Technologies Limited ( Transferee Company  /  the Company ) and their respective shareholders and creditors ( Scheme /  Scheme of Arrangement )",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
   }
 ]
