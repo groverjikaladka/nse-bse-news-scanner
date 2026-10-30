@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-30T15:31:34.834563",
+    "company": "Alkem Laboratories Limited",
+    "text": "Alkem Laboratories Limited has informed the Exchange about US FDA Inspection at Company s API manufacturing facility located at Mandva.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-30T15:31:34.274141",
+    "company": "SJVN Limited",
+    "text": "SJVN Limited has informed the Exchange about Amalgamation/Merger",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-10-30T15:31:32.427684",
+    "company": "Alkem Laboratories Ltd",
+    "text": "Update On US FDA Inspection At Company's API manufacturing facility located at Mandva.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-30T15:31:31.870461",
+    "company": "SJVN Ltd",
+    "text": "Merger/Amalgamation of SJVN Thermal Private Limited with SJVN Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-30T15:15:55.954479",
     "company": "Kilburn Engineering Ltd",
     "text": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors of Kilburn Engineering Limited, at its meeting held on 30 October 2026, approved a capacity expansion plan at Monga Strayfield Private Limited,  a wholly owned subsidiary of the Company, involving capital expenditure of up to ?25 crore to expand its precision engineering and manufacturing capabilities at its Pune facility.",
@@ -1629,12 +1657,5 @@
     "text": "The Board of Directors of the Company, at its meeting held today, i.e., October 23, 2026, has approved the Scheme of Amalgamation under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013, read with the rules made thereunder, for the amalgamation of its wholly-owned subsidiary, Heritage Novandie Foods Limited ('Transferor Company'), with Heritage Foods Limited ('Transferee Company' or 'the Company')",
     "categories": "M&A/Corporate Action",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-23T10:01:07.109489",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: 492.39 CRORE (VIA NEWS)] Magellanic Cloud Limited s Wholly Owned Subsidiary, Provigil Surveillance Limited, Receives Letter of Acceptance Worth &#8377;3,16,00,452.60 from Dedicated Freight Corridor Corporation of India Limited (DFCCIL), office of CGM, Jaipur, for CCTV Surveillance Solutions",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
