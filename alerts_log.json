@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-30T15:15:55.954479",
+    "company": "Kilburn Engineering Ltd",
+    "text": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors of Kilburn Engineering Limited, at its meeting held on 30 October 2026, approved a capacity expansion plan at Monga Strayfield Private Limited,  a wholly owned subsidiary of the Company, involving capital expenditure of up to ?25 crore to expand its precision engineering and manufacturing capabilities at its Pune facility.",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-30T14:15:55.584188",
     "company": "Onesource Specialty Pharma Limited",
     "text": "Onesource Specialty Pharma Limited has informed the Exchange regarding a press release dated October 30, 2026, titled \"OneSource Receives USFDA EIR with VAI Classification, Marking Completion of Inspection Process at its Sterile Product Division (SPD) Facility in Bengaluru\".",
@@ -1628,27 +1635,6 @@
     "company": "Magellanic Cloud Limited",
     "text": "[Value: 492.39 CRORE (VIA NEWS)] Magellanic Cloud Limited s Wholly Owned Subsidiary, Provigil Surveillance Limited, Receives Letter of Acceptance Worth &#8377;3,16,00,452.60 from Dedicated Freight Corridor Corporation of India Limited (DFCCIL), office of CGM, Jaipur, for CCTV Surveillance Solutions",
     "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-23T09:45:50.866822",
-    "company": "Magellanic Cloud Limited",
-    "text": "[Value: 492.39 CRORE (VIA NEWS)] Magellanic Cloud Limited s Wholly Owned Subsidiary, Provigil Surveillance Limited, Receives Letter of Acceptance Worth &#8377;3,16,00,452.60 from Dedicated Freight Corridor Corporation of India Limited (DFCCIL), office of CGM, Jaipur for CCTV Surveillance Solutions",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-23T09:45:49.625719",
-    "company": "Magellanic Cloud Ltd",
-    "text": "[Value: 492.39 CRORE (VIA NEWS)] Attached herewith the intimation",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-23T09:31:28.085637",
-    "company": "Shyam Metalics and Energy Limited",
-    "text": "Shyam Metalics And Energy Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"Shyam Metalics  Subsidiary Shyam Sel and Power Limited Secures NCLT Sanction for Merger of Shree Venkateshwara Electrocast Private Limited; Effective Retroactively from April 01, 2024\".",
-    "categories": "M&A/Corporate Action",
     "source": "NSE"
   }
 ]
