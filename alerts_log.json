@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-31T18:01:20.583281",
+    "company": "Atlanta Electricals Ltd",
+    "text": "Approval of CAPEX by AE Components Private Limited, a Wholly Owned Subsidiary of the Company",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-31T17:15:57.325694",
     "company": "DCW Limited",
     "text": "DCW Limited has informed the Exchange about Copy of Newspaper Publication of Publication Announcement dated October 31, 2026, in respect of the buyback of fully paid-up equity shares of &#8377; 2/- each of DCW Limited ( Company ) from the open market through the stock exchange mechanism.",
@@ -1573,19 +1580,5 @@
     "text": "B. L. Kashyap and Sons Limited has informed the Exchange about the Company has secured a work order of Rs.  495.86 Crores.",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-10-24T12:31:22.117998",
-    "company": "Rudra Ecovation Ltd",
-    "text": "Cancellation/ Extinguishment of Cross- Holdings Pursuant to the Scheme of Amalgamation of Rudra Ecovation Limited with Shiva Texfabs Limited",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-24T12:31:21.468442",
-    "company": "B. L. Kashyap and Sons Ltd",
-    "text": "The Company has secured a work order of Rs. 495.86 Crores.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
