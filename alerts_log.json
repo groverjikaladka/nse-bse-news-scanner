@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-01T02:15:52.119723",
+    "company": "JSW Steel Limited",
+    "text": "JSW Steel Limited has informed the Exchange about the Effectiveness of the Scheme of Amalgamation of Piombino Steel Limited with JSW Steel Limited and their respective shareholders",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-10-31T20:46:05.551491",
     "company": "Aurionpro Solutions Ltd",
     "text": "Intimation regarding Scheme of Amalgamation of Three Wholly Owned Subsidiaries with Aurionpro Solutions Limited.",
@@ -1482,26 +1489,5 @@
     "text": "Submission of Recommendations of the Committee of Independent Directors ( IDC ) under Regulation 28 of Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021, as amended ( SEBI Delisting Regulations ) for the delisting of the Equity Shares of Jindal Photo Limited ( Company )",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-10-24T20:45:51.173041",
-    "company": "Equippp Social Impact Technologies Limited",
-    "text": "[Value: 1 CRORE (VIA NEWS)] Equippp Social Impact Technologies Limited has informed the Exchange about a Business Update - Execution of Memorandum of Understanding (MoU) with Instillmotion Labs Private Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-24T20:45:49.816468",
-    "company": "Equippp Social Impact Technologies Ltd",
-    "text": "[Value: 1 CRORE (VIA NEWS)] Equippp Social Impact Technologies Limited has informed the exchange about the  business update on execution of MOU with Instillmotion Labs Private Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-24T20:31:34.951925",
-    "company": "Agribio Spirits Ltd",
-    "text": "Outcome of the Meeting of equity shareholders of Agribio Spirits Ltd convened pursuant to the order passed by the Hon''ble National Company Law Tribunal, Jaipur Bench in relation to the Scheme of Amalgamation of Agribiotech Industries Ltd. (Transferor Company) with Agribio Spirits Ltd (Transferee Company).",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
