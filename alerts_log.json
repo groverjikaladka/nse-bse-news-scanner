@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-31T19:15:58.911767",
+    "company": "Shish Industries Ltd",
+    "text": "A certified true copy of NCLT order in filled for information and records",
+    "categories": "M&A/Corporate Action, Financial/Results",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-31T19:15:58.264979",
+    "company": "Devyani International Ltd",
+    "text": "Intimation regarding approval from the CCI w.r.t. merger of Sapphire Foods India Limited with and into the Company",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-10-31T19:15:57.633286",
+    "company": "Automobile Corporation of Goa Ltd-$",
+    "text": "Submission of Newspaper advertisement pertaining to dispatch of Letter of Offer with respect to Buyback of Shares.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-10-31T18:01:20.583281",
     "company": "Atlanta Electricals Ltd",
     "text": "Approval of CAPEX by AE Components Private Limited, a Wholly Owned Subsidiary of the Company",
@@ -1558,20 +1579,6 @@
     "company": "VRL Logistics Ltd",
     "text": "This is regard to the captioned buyback and is further to our communication dated October 8, 2026 wherein we had submitted the Public Announcement (PA) and corrigendum to PA pertaining to the captioned buyback. we pleased to submit herewith the letter of offer dated October 24, 2026 for your reference and dissemination.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-24T13:45:50.722836",
-    "company": "Ugro Capital Limited",
-    "text": "Intimation regarding publication of Newspaper Advertisement for hearing of the Company Scheme Petition in connection with the Scheme of Amalgamation",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-24T13:31:25.259622",
-    "company": "Ugro Capital Ltd",
-    "text": "Newspaper advertisement of the NCLT order fixing final hearing date on the scheme of amalgamation",
-    "categories": "M&A/Corporate Action, Financial/Results",
     "source": "BSE"
   }
 ]
