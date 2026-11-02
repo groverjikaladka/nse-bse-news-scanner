@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-02T14:31:30.839608",
+    "company": "Jyoti Structures Ltd",
+    "text": "[Value: INR 949.35 CRORE (VIA NEWS)] Purchase Order from Torrent Power Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-02T14:15:51.397813",
     "company": "Brahmaputra Infrastructure Ltd",
     "text": "Upgrade of Credit Rating of the Company by Care Ratings Limited ( Care BBB; Stable ) for Long Term Facilities and ( Care BBB; Stable / Care A3 +) for long term and Short term facilities, respective ratings accepted by the company in Board meeting held on 02nd November 2026.",
@@ -1544,13 +1551,6 @@
     "company": "Netripples Software Ltd",
     "text": "MC2022-UPDATION OF OLD RECORDS IN NEW DASHBOARD- NONAPPLICABILITY OF 24A CERTIFICATION.",
     "categories": "Partnership/Certification",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-26T09:01:10.007465",
-    "company": "Jyoti Structures Ltd",
-    "text": "[Value: 690 CRORE (VIA NEWS)] We wish to inform you that the Company has received Notifications of Award from Power Grid Corporation of India Limited",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
