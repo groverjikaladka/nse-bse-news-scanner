@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-02T19:02:19.791828",
+    "company": "DCW Ltd",
+    "text": "We wish to inform you that as per the requirements of Securities and Exchange Board of India (Buy-Back of Securities) Regulations, 2018, as amended, the Company has sent the intimation of the open market buyback offer to the members on November 2, 2026, through electronic mode, whose email addresses are registered with the Company or Bigshare Services Private Limited, Registrar and Transfer Agent of the Company, or the Depositories. \r\n",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-02T18:46:46.613901",
     "company": "ITC Limited",
     "text": "ITC Limited has informed the Exchange about Amalgamation/Merger",
@@ -1579,13 +1586,6 @@
     "company": "Sugs Lloyd Ltd",
     "text": "Sugs LLoyd Secures Rs. 3.16 crore Rate Contract from Tata Power-DDL for SITC of 11Kv Auto Reclosure for Distribution Automation System (DAS)",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-26T13:28:07.487911",
-    "company": "VRL Logistics Ltd",
-    "text": "Submission of offer opening advertisement pertaining to the buyback of 87,50,000 equity shares of face value of Rs. 10 each at price of Rs. 320/- per share (Buybak price)",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
