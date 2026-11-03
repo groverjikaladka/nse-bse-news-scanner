@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-04T00:16:42.453312",
+    "company": "HEG Advanced Materials Limited",
+    "text": "HEG Advanced Materials Limited has informed the Exchange regarding a press release dated November 03, 2026, relating to Q2 and H1 FY27 financial results and other matters relating to capacity expansion of Anode plant and setting up of new businesses.\".",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
     "date": "2026-11-03T22:57:56.571857",
     "company": "Parag Milk Foods Limited",
     "text": "Parag Milk Foods Limited has informed the Exchange about Amalgamation/Merger",
@@ -1515,27 +1522,6 @@
     "date": "2026-10-27T19:01:39.649474",
     "company": "ArisInfra Solutions Ltd",
     "text": "[Value: 550 CRORE (VIA NEWS)] Press Release for receipt of order by a Subsidiary Company",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-27T18:46:15.030367",
-    "company": "Steamhouse India Limited",
-    "text": "[Value: RS 311 CRORE (VIA NEWS)] Steamhouse India Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015   Press Release regarding signing of a Memorandum of Understanding with Haryana Enterprises Promotion Centre (HEPC), Government of Haryana\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-27T18:46:14.458327",
-    "company": "Arisinfra Solutions Limited",
-    "text": "Arisinfra Solutions Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"ARIS' Unitern Bags Third Transcon Mandate for &#8377;250 Cr GDV Ramdev Plaza Phase II, Santacruz\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-27T18:46:11.639500",
-    "company": "Steamhouse India Ltd",
-    "text": "[Value: RS 311 CRORE (VIA NEWS)] Press Release regarding signing of Memorandum of Understanding with Haryana Enterprises Promotion Centre (HEPC), Government of Haryana",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
