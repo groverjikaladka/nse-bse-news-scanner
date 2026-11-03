@@ -1552,12 +1552,5 @@
     "text": "New Order Received",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-10-27T09:31:26.602760",
-    "company": "RailTel Corporation of India Ltd",
-    "text": "New Order Received",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
