@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-04T22:03:00.991726",
+    "company": "Alembic Pharmaceuticals Limited",
+    "text": "Alembic Pharmaceuticals Limited receives USFDA Final Approval for Olopatadine Hydrochloride Ophthalmic Solution USP, 0.7% (OTC).",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-04T22:02:58.448204",
+    "company": "Alembic Pharmaceuticals Ltd",
+    "text": "Alembic Pharmaceuticals Limited receives USFDA Final Approval for Olopatadine Hydrochloride Ophthalmic Solution USP, 0.7% (OTC).",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-04T21:47:25.845210",
     "company": "Clio Infotech Ltd",
     "text": "Please find enclosed herewith intimation towards approval of scheme of Merger-amalgamation by board of directors of the company.",
@@ -1669,13 +1683,6 @@
     "date": "2026-10-28T16:46:02.607231",
     "company": "Praveg Ltd",
     "text": "[Value: RS 1,439.44 CRORE (VIA NEWS)] Update to earlier intimation dated September 16, 2026 regarding receipt of the Letter of Acceptance (LoA) from Tourism Corporation of Gujarat Limited (TCGL).",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-28T16:31:44.680326",
-    "company": "United Drilling Tools Ltd",
-    "text": "[Value: RS 48.29 LAKH (VIA NEWS)] Award of order from Argentera",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
