@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-04T17:31:29.173557",
+    "company": "DCW Ltd",
+    "text": "Daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Wednesday, November 04, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-04T17:16:19.308679",
     "company": "Bliss GVS Pharma Ltd",
     "text": "We wish to inform you that Asterisk Lifesciences Ltd, UK, a wholly owned subsidiary of Bliss GVS Pharma Limited, has obtained marketing authorization from the Medicines & Healthcare products Regulatory Agency (MHRA) for Mesalazine 1g Suppositiories.",
@@ -1606,13 +1613,6 @@
     "date": "2026-10-28T12:15:52.887973",
     "company": "Siyaram Recycling Industries Ltd",
     "text": "[Value: 4.07 CRORE (VIA NEWS)] Attached Intimation for Order updates dated 28th October, 2026 from Anurag Impex",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-28T12:01:11.582814",
-    "company": "Remi Edelstahl Tubulars Ltd",
-    "text": "[Value: RS. 62.66 CRORE (VIA NEWS)] Receipt of Order as per attached letter",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
