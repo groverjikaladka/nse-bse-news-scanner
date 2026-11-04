@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-04T14:32:00.700487",
+    "company": "Jupiter Wagons Limited",
+    "text": "[Value: RS 324 CRORE (VIA NEWS)] Jupiter Wagons Limited has informed the Exchange about Receipt of order for supply of 3 Railway Rakes-BFNS22.9T Wagons and Brake Van from Balmer Lawrie and Company Limited",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-04T14:31:59.081806",
+    "company": "Jupiter Wagons Ltd",
+    "text": "[Value: RS 324 CRORE (VIA NEWS)] Please find the enclosed announcement.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-04T14:01:30.043036",
     "company": "Capacit'e Infraprojects Limited",
     "text": "[Value: 369 CRORE (VIA NEWS)] Capacite Infraprojects Limited has informed the Exchange regarding 'Letter of Award from Puravankara Limited'.",
@@ -1579,20 +1593,6 @@
     "company": "Polycab India Ltd",
     "text": "Update on NCLAT order dated October 27, 2026",
     "categories": "Financial/Results",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-28T09:01:09.935527",
-    "company": "Velan Hotels Ltd",
-    "text": "[Value: 37.16 CR (VIA NEWS)] Adjudication order received from RoC, Tamilnadu, Coimbatore",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-28T09:01:09.104807",
-    "company": "Jyoti Structures Ltd",
-    "text": "[Value: RS 949 CRORE (VIA NEWS)] We wish to inform you that the company has received a Notification of Award from Power Grid Corporation of India Limited",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
