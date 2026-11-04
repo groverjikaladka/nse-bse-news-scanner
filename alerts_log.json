@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-04T18:02:01.568572",
+    "company": "Emmbi Industries Limited",
+    "text": "Emmbi Industries Limited has informed the Exchange about SEBI Order Granting Exemption to Rinku Appalwar Business Trust and Makrand Appalwar Business Trust Under Regulation 11 of Securities and Exchange Board of India (Substantial Acqusition of Shares and Takeover) Regulation, 2011.",
+    "categories": "Litigation/Regulatory Action",
+    "source": "NSE"
+  },
+  {
     "date": "2026-11-04T17:46:13.667632",
     "company": "Quadrant Televentures Ltd-$",
     "text": "Approval of Resolution Plan - NCLT Order",
@@ -1601,19 +1608,5 @@
     "text": "Global Education Limited has informed the Exchange that Record date for the purpose of Buyback  is 18-Nov-2026.",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-10-28T12:31:32.544004",
-    "company": "Genus Power Infrastructures Limited",
-    "text": "Genus Power Infrastructures Limited has informed the Exchange about public Announcement - Buyback of Shares",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-28T12:31:30.942274",
-    "company": "Genus Power Infrastructures Ltd-$",
-    "text": "Public Announcement for Buy-back of equity shares of the Company",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
