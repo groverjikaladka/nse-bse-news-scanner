@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-04T23:19:22.469063",
+    "company": "Brigade Enterprises Ltd",
+    "text": "[Value: RS 40,000 CRORE (VIA NEWS)] Execution of Agreement",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-04T22:03:00.991726",
     "company": "Alembic Pharmaceuticals Limited",
     "text": "Alembic Pharmaceuticals Limited receives USFDA Final Approval for Olopatadine Hydrochloride Ophthalmic Solution USP, 0.7% (OTC).",
@@ -1663,13 +1670,6 @@
     "company": "Ashapura Intimates Fashion Ltd",
     "text": "Company has Reduced the Paid-Up Share Capital as per the NCLT Order",
     "categories": "Financial/Results",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-28T17:31:38.260102",
-    "company": "SK Minerals & Additives Ltd",
-    "text": "[Value: 21.8 CRORE (VIA NEWS)] Receipt of New Order from a well-established industrial conglomerate.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
