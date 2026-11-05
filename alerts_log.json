@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-05T14:46:55.696478",
+    "company": "STL Networks Ltd",
+    "text": "[Value: 16 CRORE (VIA NEWS)] Receipt of order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-05T14:46:54.584149",
+    "company": "Bharat Parenterals Ltd",
+    "text": "Intimation for receipt of Establishment Inspection Report from US FDA by Innoxel Lifesciences Pvt Ltd., a subsidiary company of Bharat Parenterals Limited.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-05T13:31:42.010515",
     "company": "UNO Minda Ltd-$",
     "text": "Please refer the attached file for capacity expansion of sunroof Division of the Company",
@@ -1571,20 +1585,6 @@
     "date": "2026-10-29T11:01:07.485804",
     "company": "Dilip Buildcon Ltd",
     "text": "Dilip Buildcon Limited has received Letter of Award for Project 'Construction of 4 lane elevated corridor including approaches from Old Pune Naka to Boramani Naka on NH-65 in Solapur City in the State of Maharashtra on Hybrid Annuity Mode (Km 0.050 to Km 9.710)', order worth Rs. 688.23 Crores.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-10-29T09:15:54.420059",
-    "company": "Jupiter Wagons Limited",
-    "text": "Jupiter Wagons Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Jupiter Wagons secures order for 2,583 BOXNHL and BOXNS wagons worth INR 1,140 crore from the Ministry of Railways\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-10-29T09:15:52.851545",
-    "company": "Jupiter Wagons Ltd",
-    "text": "[Value: 10,000 CRORE (VIA NEWS)] Please find the enclosed attachment.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
