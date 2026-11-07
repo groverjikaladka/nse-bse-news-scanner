@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 07 Nov 2026, 11:01 AM IST</span>
+<span class="updated">Last updated: 07 Nov 2026, 11:15 AM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">199</div>
+<div class="stat-value">201</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -58,7 +58,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
-<div class="stat-value">18</div>
+<div class="stat-value">20</div>
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Regulatory/Drug Approval">
+<td class="date">07 Nov 2026, 11:15 AM</td>
+<td class="company">Cohance Lifesciences Limited</td>
+<td class="text">Cohance Lifesciences Limited has informed the Exchange about update on USFDA Inspection for Company s Pashamylaram Manufacturing Facility</td>
+<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Regulatory/Drug Approval">
+<td class="date">07 Nov 2026, 11:15 AM</td>
+<td class="company">Cohance Lifesciences Ltd</td>
+<td class="text">Update on USFDA inspection at Pashamylaram Manufacturing facility.</td>
+<td><span class="badge" style="background:#10b981">Regulatory/Drug Approval</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
 <td class="date">07 Nov 2026, 12:32 AM</td>
 <td class="company">PAKKA LIMITED</td>
 <td class="text">PAKKA LIMITED has informed regarding Sanction of the Scheme of Amalgamation of Pakka Impact Limited with Pakka Limited by the Hon ble National Company Law Tribunal, Allahabad Bench, Prayagraj</td>
