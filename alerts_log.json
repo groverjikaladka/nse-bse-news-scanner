@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-09T17:31:28.396099",
+    "company": "DCW Ltd",
+    "text": "This is in relation to the captioned Buyback, the Company hereby submits the daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Monday, November 09, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-09T17:31:27.870626",
+    "company": "Shish Industries Ltd",
+    "text": "We hereby submit the Notice calling the General Meeting of Unsecured Creditors of the Company called pursuant to Order Dated October 31, 2026 issued by Hon''ble NCLT, Ahmedabad bench in the matter of Composite Scheme of Amalgamation of Shish Polylam Private Limited and Shish Global Solutions Private Limited with Shish Industries Limited",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-09T17:01:12.303866",
     "company": "Jyothy Labs Limited",
     "text": "Jyothy Labs Limited has informed the Exchange regarding 'Addendum to Public Announcement - Buyback of Equity Shares of the Company'.",
@@ -1300,12 +1314,5 @@
     "text": "Siti Networks Limited has informed the Exchange regarding 'Disclosure in compliance with Para 3(C1) of SEBI Circular No. SEBI/HO/CFD/CMD1/CIR/2019/140 dated November 21, 2019, of default on payment of interest/repayment of principal amount on loans from Bank(s)'.",
     "categories": "Financial/Results",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-02T12:01:09.221929",
-    "company": "AstraZeneca Pharma India Ltd",
-    "text": "[Value: 11.96 CRORE (VIA NEWS)] Please find the enclosed intimation of the Company as per the captioned subject for your reference.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
