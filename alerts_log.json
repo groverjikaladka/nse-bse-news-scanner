@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-09T21:46:05.420706",
+    "company": "Ashoka Buildcon Limited",
+    "text": "[Value: RS 602 CRORE (VIA NEWS)] Ashoka Buildcon Limited has informed the Exchange about Receipt of LOA for NHAI Project",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-09T21:46:03.896104",
+    "company": "Ashoka Buildcon Ltd",
+    "text": "[Value: RS 602 CRORE (VIA NEWS)] The Company has received Letter of Acceptance (LOA) from NHAI for the Project.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-09T17:31:28.396099",
     "company": "DCW Ltd",
     "text": "This is in relation to the captioned Buyback, the Company hereby submits the daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Monday, November 09, 2026",
@@ -1257,13 +1271,6 @@
     "company": "DCW Ltd",
     "text": "DCW Limited has informed the exchange about intimation of commencement of Buyback from November 03, 2026.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-02T16:15:55.719261",
-    "company": "EKI Energy Services Ltd",
-    "text": "[Value: RS 15.80 CRORE (VIA NEWS)] Disclosure under Regulation 30(13) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order from the SEBI",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
