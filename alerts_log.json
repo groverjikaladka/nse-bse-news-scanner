@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-10T19:31:31.889058",
+    "company": "Jindal Photo Limited",
+    "text": "Intimation regarding publication of Post Offer Public Announcement ( Post Offer PA ) announcing the successful completion of the Delisting Offer of equity shares of Jindal Photo Limited from BSE Limited and National Stock Exchange of India Limited pursuant to the SEBI (Delisting of Equity Shares) Regulations, 2021 ( Delisting Regulations )",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-10T19:31:30.278668",
+    "company": "Jindal Photo Ltd",
+    "text": "Intimation regarding publication of Post Offer Public Announcement ('Post Offer PA') announcing the successful completion of the Delisting Offer of equity shares of Jindal Photo Limited from BSE Limited and National Stock Exchange of India Limited pursuant to the SEBI (Delisting of Equity Shares) Regulations, 2021 ('Delisting Regulations')",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-10T16:15:52.469881",
     "company": "Punjab National Bank",
     "text": "[Value: RS 6,000 CRORE (VIA NEWS)] Imposition of penalty",
@@ -1123,41 +1137,6 @@
     "date": "2026-11-03T14:15:50.912189",
     "company": "AVG Logistics Ltd",
     "text": "[Value: 1,250 CR (VIA NEWS)] AVG Logistics bagged a long term Contract from a Beverages Company",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-03T13:45:56.610747",
-    "company": "Share India Securities Limited",
-    "text": "We are pleased to inform you that pursuant to the filing of e-form INC 28 with the Registrar of Companies, the Scheme of Amalgamation of Silverleaf Capital Services Private Limited with Share India Securities Limited has become effective in accordance with its terms.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-03T13:45:55.266931",
-    "company": "T T Ltd-$",
-    "text": "T T Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 16/11/2026 ,inter alia, to consider and approve the proposal of Buyback of the Equity Shares of the Company.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-03T13:31:29.459061",
-    "company": "Share India Securities Ltd",
-    "text": "We are pleased to inform you that pursuant to the filing of e-form INC 28 with the Registrar of Companies, the Scheme has become effective in accordance with its terms.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-03T13:15:56.796627",
-    "company": "Tata Steel Ltd",
-    "text": "Effective Date of Scheme of Amalgamation",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-03T13:15:56.158876",
-    "company": "Bondada Engineering Ltd",
-    "text": "[Value: RS 1,154 CR (VIA NEWS)] Intimation regarding signing of Memorandum of Understanding  with Goa investment Promotion and Facilitation Board.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
