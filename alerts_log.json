@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-11T17:15:50.145608",
+    "company": "DCW Ltd",
+    "text": "This is in relation to the captioned Buyback, the Company hereby submits the daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Wednesday, November 11, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-11T17:01:15.684720",
     "company": "Dhampur Bio Organics Ltd",
     "text": "Dhampur Bio Organics Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 1. Audited Standalone and Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026\r\n2. The proposal for buyback of equity shares of the Company and the matters necessary and incidental thereto, in accordance with the applicable provisions under Securities and Exchange Board of India (Buy-back",
@@ -992,26 +999,5 @@
     "text": "LOA Recieved of an total amount Rs. 89.73 Crores.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-11-04T11:45:49.002808",
-    "company": "Vishnu Prakash R Punglia Ltd",
-    "text": "[Value: RS 5,000 CRORE (VIA NEWS)] Business update regarding MOU for proposed acquisition of N.K. Gupta Builders Private Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-04T11:45:48.110138",
-    "company": "Affordable Robotic & Automation Ltd",
-    "text": "[Value: RS 11.0583735 CRORE (VIA NEWS)] Pursuant to Regulation 30 read with Schedule III of the SEBI LODR Regulations, 2015, we wish to inform you that the Subsidiary of the Company has received an order from the International customer for the supply of autonomous robots.\r\n\r\nKindly take the same on your records.",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-04T11:31:20.442819",
-    "company": "Vishnu Prakash R Punglia Limited",
-    "text": "[Value: RS 5,000 CRORE (VIA NEWS)] Vishnu Prakash R Punglia Limited has informed the Exchange regarding 'Business update regarding MOU for proposed acquisition of N.K. Gupta Builders Private Limited'.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
   }
 ]
