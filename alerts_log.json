@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-11T11:01:33.436643",
+    "company": "Ashoka Buildcon Limited",
+    "text": "[Value: RS 865.90 CRORE (VIA NEWS)] Ashoka Buildcon Limited has informed the Exchange about Receipt of Letter of Acceptance (LOA) for Solar PV Power Plant in Bhutan",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
     "date": "2026-11-11T08:15:48.208115",
     "company": "Jindal Photo Ltd",
     "text": "Saffron Capital Advisors Pvt. Ltd (\"Manager to the Delisting Offer\") has submitted to BSE a copy of Post-Offer Public Announcement for the attention of the Equity Shareholders of Jindal Photo Ltd (\"Target Company\").",
@@ -928,20 +935,6 @@
     "company": "SPML Infra Ltd",
     "text": "SPML Infra Limited has obtained orders worth Rs. 186.41 Crore from Power Grid Corporation of India Limited",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-04T05:31:28.570658",
-    "company": "HEG Advanced Materials Ltd",
-    "text": "Press Release in relation to Q2 and H1 FY27 financial results and other matters relating to capacity expansion of Anode plant and setting up of new businesses.",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-04T05:31:27.897379",
-    "company": "HEG Advanced Materials Ltd",
-    "text": "Press Release in relation to Q2 and H1 FY27 financial results and other matters relating to capacity expansion of Anode plant, setting up of new businesses and ESOP scheme",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
