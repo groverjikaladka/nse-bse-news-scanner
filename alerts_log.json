@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-11T14:01:37.614890",
+    "company": "Bajaj Hindusthan Sugar Limited",
+    "text": "Bajaj Hindusthan Sugar Limited has informed the Exchange regarding Outcome of Board Meeting held on November 11, 2026 and sale / divestment of the Company's entire (100%) shareholding in Bajaj Hindusthan (Singapore) Private Limited, a wholly owned subsidiary of the Company.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-11T14:01:34.795492",
+    "company": "CWD Ltd",
+    "text": "Press Release for announcement of Government Certification received from the Government of India by CWD Limited",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-11T14:01:34.131968",
+    "company": "Bajaj Hindusthan Sugar Ltd",
+    "text": "Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulation, 2015 for outcome of Board Meeting held on November 11, 2026 and sale/disinvestment of the Company''s entire (100%)shareholding in Bajaj Hindusthan (Singapore) Private Limited, a wholly owned subsidiary of the Company.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-11T12:45:57.625423",
     "company": "Orient Green Power Company Limited",
     "text": "Intimation on the Outcome of the Board Meeting under Regulations 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 - wrt Financial Results for the quarter and half year ended September 30, 2026 and revision in timeline for commissioning of the Wind Projects executed by company subsidiaries",
@@ -969,20 +990,6 @@
     "date": "2026-11-04T10:01:08.302649",
     "company": "Rajesh Power Services Ltd",
     "text": "[Value: RS 4,000 CRORE (VIA NEWS)] Intimation of orders received from Dakshin Gujarat Vij Company Limited (DGVCL).",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-04T08:31:27.716063",
-    "company": "RattanIndia Enterprises Limited",
-    "text": "[Value: 3,935 CR (VIA NEWS)] RattanIndia Enterprises Limited has informed the Exchange regarding a press release dated November 04, 2026, titled \"Revolt Motors secures order for 1,100 electric motorcycles from Bihar Police\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-04T08:31:25.598885",
-    "company": "SPML Infra Ltd",
-    "text": "SPML Infra Limited has obtained orders worth Rs. 186.41 Crore from Power Grid Corporation of India Limited",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
