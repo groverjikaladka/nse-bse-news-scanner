@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-16T23:02:54.929900",
+    "company": "Shalimar Paints Limited",
+    "text": "Shalimar Paints Limited has informed the Exchange about Amalgamation/Merger",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-16T23:02:53.488368",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "[Value: 2,800 CRORE (VIA NEWS)] Execution of Power Purchase Agreement",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-16T20:16:57.437931",
     "company": "Artefact Projects Ltd",
     "text": "[Value: RS 3.50 CRORE (VIA NEWS)] LETTER OF AWARD",
@@ -991,41 +1005,6 @@
     "company": "Ashoka Buildcon Ltd",
     "text": "[Value: RS 602 CRORE (VIA NEWS)] The Company has received Letter of Acceptance (LOA) from NHAI for the Project.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-09T17:31:28.396099",
-    "company": "DCW Ltd",
-    "text": "This is in relation to the captioned Buyback, the Company hereby submits the daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Monday, November 09, 2026",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-09T17:31:27.870626",
-    "company": "Shish Industries Ltd",
-    "text": "We hereby submit the Notice calling the General Meeting of Unsecured Creditors of the Company called pursuant to Order Dated October 31, 2026 issued by Hon''ble NCLT, Ahmedabad bench in the matter of Composite Scheme of Amalgamation of Shish Polylam Private Limited and Shish Global Solutions Private Limited with Shish Industries Limited",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-09T17:01:12.303866",
-    "company": "Jyothy Labs Limited",
-    "text": "Jyothy Labs Limited has informed the Exchange regarding 'Addendum to Public Announcement - Buyback of Equity Shares of the Company'.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-09T17:01:10.871633",
-    "company": "Jyothy Labs Ltd",
-    "text": "Addendum to Public Announcement pursuant to Buyback of Equity Shares of the Company",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-09T16:01:11.082192",
-    "company": "Great Eastern Shipping Company Ltd",
-    "text": "We enclose herewith daily buyback report for November 09, 2026.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
