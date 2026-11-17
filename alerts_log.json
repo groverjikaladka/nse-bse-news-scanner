@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-17T18:46:02.502555",
+    "company": "Sanofi India Limited",
+    "text": "Sanofi India Limited has informed the Exchange about Update on Show Cause Notice received from GST Authorities dated 25th September 2026.",
+    "categories": "Litigation/Regulatory Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-17T18:46:01.220897",
+    "company": "Advait Energy Transitions Ltd",
+    "text": "[Value: RS 69.52 CRORE (VIA NEWS)] Order received from GETCO",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-17T18:46:00.427525",
+    "company": "Taylormade Renewables Ltd",
+    "text": "[Value: 9.98 CRORE (VIA NEWS)] Receipt of order from IOCL",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-17T18:31:37.607490",
     "company": "Annu Projects Ltd",
     "text": "[Value: 1,018 CRORE (VIA NEWS)] Receipt of Work Order from Indian Oil Corporation Limited (Pipelines Division) Eastern Region Pipelines, Kolkata for OFC laying works & liaison works in selected sections of BKPL Mughalsarai: (CH. Ex Barauni); 115 km (Including Supply)",
@@ -1124,27 +1145,6 @@
     "company": "HLE Glascoat Ltd",
     "text": "[Value: RS 1,087 CRORE (VIA NEWS)] HLE Glascoat Limited has informed the Exchange about Receiving of orders / contracts by the Company''s Subsidiary, Kinam Engineering Industries Private Limited.",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-10T13:15:56.167285",
-    "company": "Medplus Health Services Limited",
-    "text": "Submission of Board Resolution and Public Announcement for Buyback of equity shares of MedPlus Health Services Limited (the  Company ) through open market route.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-10T13:15:54.722430",
-    "company": "Kesoram Industries Ltd",
-    "text": "[Value: 881 CRORE (VIA NEWS)] Receipt of Arbitral Award in respect of outstanding loan recoverable from Kesoram Textile Mills Limited",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-10T13:15:53.651766",
-    "company": "Medplus Health Services Ltd",
-    "text": "Submission of Board Resolution and Public Announcement - Buyback.",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
