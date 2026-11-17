@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-17T17:15:59.827905",
+    "company": "Dhabriya Polywood Ltd",
+    "text": "[Value: RS 11.79 CRORE (VIA NEWS)] Intimation of receiving of work order.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-17T17:15:59.338384",
+    "company": "Dhabriya Polywood Ltd",
+    "text": "[Value: RS 11.79 CRORE (VIA NEWS)] Intimation of receiving of work order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-17T17:15:58.590587",
+    "company": "TVS Supply Chain Solutions Ltd",
+    "text": "TVS Supply Chain Solutions Limited has received an order from Office of the Assistant Commissioner, Jharkhand",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-17T16:31:36.527594",
     "company": "Pace Digitek Ltd",
     "text": "[Value: 2,691 CRORE (VIA NEWS)] Intimation of receipt of order",
@@ -1069,19 +1090,5 @@
     "text": "Jyothy Labs Limited has informed the Exchange regarding 'Submission of Addendum to the Public Announcement for the Buyback of fully paid upEquity Shares'.",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-10T11:45:49.532160",
-    "company": "Jyothy Labs Ltd",
-    "text": "Addendum to Public Announcement - Buyback of Equity Shares of the Company",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-10T11:45:49.008472",
-    "company": "Jyothy Labs Ltd",
-    "text": "Addendum to Public Announcement - Buyback of Equity Shares of the Company",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
