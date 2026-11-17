@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-17T17:31:31.343864",
+    "company": "Indian Metals & Ferro Alloys Ltd",
+    "text": "As per corporate announcement attached",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-17T17:31:30.796105",
+    "company": "DCW Ltd",
+    "text": "This is in relation to the captioned Buyback, the Company hereby submits the daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Tuesday, November 17, 2026",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-17T17:15:59.827905",
     "company": "Dhabriya Polywood Ltd",
     "text": "[Value: RS 11.79 CRORE (VIA NEWS)] Intimation of receiving of work order.",
@@ -1083,12 +1097,5 @@
     "text": "Submission of Board Resolution and Public Announcement - Buyback.",
     "categories": "M&A/Corporate Action",
     "source": "BSE"
-  },
-  {
-    "date": "2026-11-10T12:01:08.484660",
-    "company": "Jyothy Labs Limited",
-    "text": "Jyothy Labs Limited has informed the Exchange regarding 'Submission of Addendum to the Public Announcement for the Buyback of fully paid upEquity Shares'.",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
   }
 ]
