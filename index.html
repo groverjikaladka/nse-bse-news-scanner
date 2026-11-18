@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 18 Nov 2026, 11:45 AM IST</span>
+<span class="updated">Last updated: 18 Nov 2026, 12:01 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">182</div>
+<div class="stat-value">185</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">86</div>
+<div class="stat-value">88</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">61</div>
+<div class="stat-value">62</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,26 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Order/MoU/Contract, M&A/Corporate Action">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">18 Nov 2026, 12:01 PM</td>
+<td class="company">Protean eGov Technologies Ltd</td>
+<td class="text">[Value: RS 1160 CRORE (VIA NEWS)] Announcement under Regulation 30 (LODR) - Receipt of Order-In-Appeal from the Office of the Commissioner of Central Tax (Appeals-I) Bangaluru</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="M&A/Corporate Action">
+<td class="date">18 Nov 2026, 12:01 PM</td>
+<td class="company">FDC Ltd</td>
+<td class="text">FDC Limited has been informed regarding the newspapers publication of the offer opening advertisement cum corrigendum to the public announcement in connection with the Buyback of fully paid-up equity shares through the tender offer route on a proportionate basis, as per SEBI(buyback) regulation.
+Th...</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">18 Nov 2026, 12:01 PM</td>
+<td class="company">Sharika Enterprises Ltd</td>
+<td class="text">[Value: RS 42.23 LAKH (VIA NEWS)] Intimation of receipt of Work Order from Punjab Energy Development Agency</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Order/MoU/Contract, M&A/Corporate Action">
 <td class="date">18 Nov 2026, 11:45 AM</td>
 <td class="company">SC Agrotech Ltd</td>
 <td class="text">[Value: RS 1,000 CRORE (VIA NEWS)] Intimation of Non - Binding Letter of Intent for proposed AgriBridge strategic investment and international expansion; Proposed board deliberation on November 20, 2026.</td>
