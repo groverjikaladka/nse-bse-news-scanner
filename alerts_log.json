@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-18T17:45:59.419901",
+    "company": "National Aluminium Company Limited",
+    "text": "[Value: 5,816 CR (VIA NEWS)] National Aluminium Company Limited has informed the Exchange regarding a press release dated November 18, 2026, titled \"NALCO Signs MoU with RUSAL for Collaboration in Scandium Recovery from Red Mud\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-18T17:45:57.747965",
+    "company": "National Aluminium Company Ltd",
+    "text": "[Value: 5,816 CR (VIA NEWS)] NALCO Signs MOU with RUSAL for Collaboration in Scandium Recovery from Red Mud.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-18T17:31:29.470778",
     "company": "DCW Ltd",
     "text": "This is in relation to the captioned Buyback, the Company hereby submits the daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Wednesday, November 18, 2026",
@@ -1376,13 +1390,6 @@
     "company": "Orient Green Power Company Ltd",
     "text": "Intimation on the Outcome of the Board Meeting under Regulations 30 and 33\r\nof the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 w.r.t the financial results for the quarter and half year ended September 30, 2026.\r\nIntimation for revised timeline for commissioning of the Wind Projects executed by company subsidiaries",
     "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-11T12:15:52.352111",
-    "company": "Dilip Buildcon Ltd",
-    "text": "Dilip Buildcon Limited has been declared as L-1 bidder for 'Development of Satellite Township Phase-l, Package- 3 (Group Housing 02) including allied works at Rakh Gund Aksha, Bemina, Srinagar (J&K) on Design, Engineering, Procurement and Construction (EPC) basis with Operation & Maintenance of 2 years', order worth Rs. 901.43 Crores. The tender floated by the National Buildings Construction Corporation Limited\" NBCC (India) Limited",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
