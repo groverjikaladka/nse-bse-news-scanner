@@ -46,11 +46,11 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 19 Nov 2026, 08:15 AM IST</span>
+<span class="updated">Last updated: 19 Nov 2026, 08:31 AM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">197</div>
+<div class="stat-value">198</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
@@ -62,7 +62,7 @@ tr.hidden { display: none; }
 <div class="stat-label">Regulatory / Drug</div>
 </div>
 <div class="stat" onclick="filterBy('M&A')" id="stat-ma">
-<div class="stat-value">67</div>
+<div class="stat-value">68</div>
 <div class="stat-label">M&A / Corporate</div>
 </div>
 </div>
@@ -74,7 +74,13 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Financial/Results">
+<tbody id="table-body"><tr data-category="M&A/Corporate Action">
+<td class="date">19 Nov 2026, 08:31 AM</td>
+<td class="company">Cyient Limited</td>
+<td class="text">Cyient Limited has informed the Exchange regarding a press release dated November 19, 2026, titled "Cyient Semiconductors Secures Strategic Investment from GlobalFoundries".</td>
+<td><span class="badge" style="background:#f59e0b">M&A/Corporate Action</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Financial/Results">
 <td class="date">18 Nov 2026, 10:16 PM</td>
 <td class="company">Compuage Infocom Limited</td>
 <td class="text">Compuage Infocom Limited has informed the Exchange about the NCLT Order received for the Commencement of Liquidation Process and Appointment of Liquidator</td>
