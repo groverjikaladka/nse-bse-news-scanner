@@ -46,15 +46,15 @@ tr.hidden { display: none; }
 <body>
 <div class="header">
 <h1>Market <span>Intelligence</span> Dashboard</h1>
-<span class="updated">Last updated: 19 Nov 2026, 02:31 PM IST</span>
+<span class="updated">Last updated: 19 Nov 2026, 03:01 PM IST</span>
 </div>
 <div class="stats">
 <div class="stat" onclick="filterBy('all')" id="stat-all">
-<div class="stat-value">203</div>
+<div class="stat-value">205</div>
 <div class="stat-label">All Alerts (Last 7 Days)</div>
 </div>
 <div class="stat" onclick="filterBy('Order')" id="stat-order">
-<div class="stat-value">102</div>
+<div class="stat-value">104</div>
 <div class="stat-label">Order Wins / Contracts</div>
 </div>
 <div class="stat" onclick="filterBy('Drug')" id="stat-drug">
@@ -74,7 +74,19 @@ tr.hidden { display: none; }
 <div class="table-wrap">
 <table>
 <thead><tr><th>Time (IST)</th><th>Company</th><th>Announcement</th><th>Category</th><th>Source</th></tr></thead>
-<tbody id="table-body"><tr data-category="Regulatory/Drug Approval">
+<tbody id="table-body"><tr data-category="Order/MoU/Contract">
+<td class="date">19 Nov 2026, 03:01 PM</td>
+<td class="company">MV Electrosystems Limited</td>
+<td class="text">[Value: RS 325.26 CRORE (VIA NEWS)] MV Electrosystems Limited has informed the Exchange about General Updates regarding receipt of LOI for allotment of land</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">NSE</span></td>
+</tr><tr data-category="Order/MoU/Contract">
+<td class="date">19 Nov 2026, 03:01 PM</td>
+<td class="company">Brahmaputra Infrastructure Ltd</td>
+<td class="text">Brahmaputra Infrastructure Limited recieved an LOA for 17 acres of Land on an annual lease Rent of Rs. 3.12 Crores.</td>
+<td><span class="badge" style="background:#0ea5e9">Order/MoU/Contract</span></td>
+<td><span class="source">BSE</span></td>
+</tr><tr data-category="Regulatory/Drug Approval">
 <td class="date">19 Nov 2026, 01:46 PM</td>
 <td class="company">Alkem Laboratories Limited</td>
 <td class="text">Alkem Laboratories Limited has informed the Exchange about Update on US FDA Inspection at Company s manufacturing facility located at Amaliya, Daman .</td>
