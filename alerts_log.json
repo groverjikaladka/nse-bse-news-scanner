@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-21T19:15:56.318783",
+    "company": "Sandesh Ltd",
+    "text": "Intimation for the Order passed by the NCLT, Ahmedabad Bench towards the first motion application filed in respect of amalgamation of Sandesh Digital Private Limited and The Sandesh Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-21T17:01:16.742618",
     "company": "Premier Explosives Ltd",
     "text": "[Value: 600 CRORE (VIA NEWS)] Intimation of Receipt of Export Order",
@@ -1601,12 +1608,5 @@
     "text": "Jyothy Labs Limited has informed the Exchange about Copy of Newspaper Publication- Submission of opening of offer advertisement for Buyback and dispatch of LOF",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-14T13:31:20.516785",
-    "company": "Securekloud Technologies Ltd",
-    "text": "Pls find enclosed disclosure of default on payment of principal to Bank",
-    "categories": "Financial/Results",
-    "source": "BSE"
   }
 ]
