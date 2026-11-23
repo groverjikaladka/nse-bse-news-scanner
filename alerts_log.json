@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-23T14:31:45.587376",
+    "company": "Elpro International Ltd",
+    "text": "Motilal Oswal Investment Advisors Limited (Manager to the Delisting Offer) has submitted a copy of Exit Letter of Offer dated November 23, 2026, for the attention of the Public Shareholders of Elpro International Limited (\"Target Company\").",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-23T14:31:44.715860",
+    "company": "Trishakti Industries Ltd",
+    "text": "Press Release issued by the Company in respect of Trishakti Industries Deploys CWIP Fleet into Operations, Expected to Drive Higher Revenue; Completes Rs 370 Crore Capex Programme.",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-23T13:45:50.491204",
     "company": "D & H India Ltd-$",
     "text": "Pursuant to Order of Hon''ble NCLT, Mumbai III Bench issued on 30/10/2026, Meeting of Equity Shareholder of the company is scheduled to be held on 26.12.2026 at 2.00 P.M. through VC/OAVM for approval of the Scheme of Amalgamation.",
@@ -1613,27 +1627,6 @@
     "date": "2026-11-16T09:45:50.160757",
     "company": "Hirect Ltd",
     "text": "Hirect receives a letter of acceptance for ~?133.38 Crore Order from Chittaranjan Locomotive Works for IGBT-Based Propulsion Systems",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-16T09:01:09.194319",
-    "company": "HEG Advanced Materials Limited",
-    "text": "[Value: 609.50 CRORE (VIA NEWS)] HEG Advanced Materials Limited has informed the Exchange regarding a press release dated November 16, 2026, titled \"TACC Signs a non-binding MoU to Explore the Supply of fast-charging anode materials for electric mobility\".",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-16T09:01:07.872109",
-    "company": "Kalpataru Projects International Ltd",
-    "text": "Press Release - KPIL SECURES NEW ORDER OF RS. 2610 CRORES",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-16T09:01:07.403121",
-    "company": "HEG Advanced Materials Ltd",
-    "text": "[Value: 609.50 CRORE (VIA NEWS)] TACC Signs a non-binding MoU to Explore the Supply of fast-charging anode materials for electric mobility",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
