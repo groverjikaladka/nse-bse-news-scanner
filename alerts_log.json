@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-23T15:31:36.207349",
+    "company": "Pricol Ltd",
+    "text": "Transcript for the Con-call held on Thursday, 19th November 2026 at 04:00 PM (IST) pertaining to the stake sale in Pricol Autotech Limited.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-23T15:01:13.305198",
     "company": "Arkade Developers Limited",
     "text": "[Value: 146 CRORE (VIA NEWS)] Arkade Developers Limited has informed the Exchange regarding a press release dated November 23, 2026, titled \"Receipt of Letter of Intent for redevelopment project in Tardeo\".",
@@ -1650,12 +1657,5 @@
     "text": "Hirect Limited has informed the Exchange regarding a press release dated November 16, 2026, titled \"Hirect receives a letter of acceptance for Appx. &#8377;133.38 Crore Order from Chittaranjan Locomotive Works for IGBT-Based Propulsion Systems \".",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-16T09:45:50.160757",
-    "company": "Hirect Ltd",
-    "text": "Hirect receives a letter of acceptance for ~?133.38 Crore Order from Chittaranjan Locomotive Works for IGBT-Based Propulsion Systems",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
