@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-23T18:16:00.901145",
+    "company": "Ceinsys Tech Limited",
+    "text": "[Value: 10.27 CRORE (VIA NEWS)] Ceinsys Tech Limited has informed the Exchange regarding a press release dated November 23, 2026, titled \"CS TECH Ai Signs MoU with Pixxel at India International Space Conclave 2026\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-23T18:15:58.887338",
+    "company": "Texmaco Rail & Engineering Ltd",
+    "text": "[Value: 230.58 CRORE (VIA NEWS)] Receipt of Order from Eastern Railway",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-23T18:01:20.797816",
     "company": "Medi Assist Healthcare Services Limited",
     "text": "Medi Assist Healthcare Services Limited has informed the Exchange about the Letter of Offer in relation to the buyback of fully paid-up equity shares of the Company through tender offer route",
@@ -1676,13 +1690,6 @@
     "date": "2026-11-16T16:31:33.961281",
     "company": "PG Foils Ltd",
     "text": "[Value: 5 CRORE (VIA NEWS)] Intimation under Regulation 30 - Letter of Intent",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-16T12:31:25.518226",
-    "company": "MV Electrosystems Ltd",
-    "text": "[Value: 990 CRORE (VIA NEWS)] Receipt of Letter of Acceptance",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
