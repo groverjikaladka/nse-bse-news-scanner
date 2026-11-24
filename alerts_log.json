@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-24T16:01:18.016357",
+    "company": "Vascon Engineers Limited",
+    "text": "[Value: 660.79 CRORE (VIA NEWS)] Vascon Engineers Limited receives Letter of Intent for Construction of Shell & Core works for T1, T2 & T3 at Mohan Society Redevelopment project, Borivali from Kanakia Transparent Developers Pvt. Ltd",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-24T16:01:15.845629",
+    "company": "Shayona Engineering Ltd",
+    "text": "[Value: RS 29.5 LAKH (VIA NEWS)] Intimation of receipt of Purchase Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-24T15:45:53.497743",
     "company": "Indobell Insulations Ltd",
     "text": "[Value: RS 6.98 CRORE (VIA NEWS)] Export Order for $194,736.00",
@@ -1643,12 +1657,5 @@
     "text": "In accordance with Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, read with the applicable SEBI circulars, we wish to inform you that Aether Industries Limited has today entered into a Facility Development and Supply Agreement with Baker Petrolite LLC, a Baker Hughes Company, as attached.",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-17T10:15:55.602631",
-    "company": "TCPL Packaging Ltd-$",
-    "text": "Joint Venture Agreement",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
