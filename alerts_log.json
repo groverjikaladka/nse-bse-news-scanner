@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-24T21:16:03.462038",
+    "company": "Thomas Cook  (India)  Limited",
+    "text": "Thomas Cook  (India)  Limited has informed the Exchange about granting of   ISO/IEC 27001:2022 Certification on management system.",
+    "categories": "Partnership/Certification",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-24T21:16:02.184341",
+    "company": "Thomas Cook (India) Ltd",
+    "text": "Intimation regarding the issuance of ISO/IEC 27001:2022 certification on management system.",
+    "categories": "Partnership/Certification",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-24T20:16:09.525962",
     "company": "Centum Electronics Limited",
     "text": "Centum Electronics Limited has informed the Exchange regarding a press release dated November 24, 2026, titled \"Centum Electronics and Pixxel Sign MoU to Advance Indigenous Satellite Payload Technologies\".",
@@ -1718,20 +1732,6 @@
     "date": "2026-11-17T16:31:35.586662",
     "company": "Procter & Gamble Hygiene and Health Care Ltd",
     "text": "[Value: 126 CRORE (VIA NEWS)] The Company has informed the Exchange that the Company has arrived at an Advanced Pricing Agreement with Tax authorities today",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-17T15:31:32.344438",
-    "company": "AstraZeneca Pharma India Limited",
-    "text": "[Value: RS 151.196 CRORE (VIA NEWS)] AstraZeneca Pharma India Limited has informed the Exchange regarding 'Revised submission with functional link - Letter of Intent with Strand Life Sciences Private Limited - Disclosure of LinkedIn Communication'.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-17T15:31:30.858744",
-    "company": "AstraZeneca Pharma India Ltd",
-    "text": "[Value: RS 151.196 CRORE (VIA NEWS)] Please find the enclosed document of the Company as per the captioned subject. This is being resubmitted as the weblink was not correctly re-directing to the relevant web page in the earlier submission. Kindly take this submission on record.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
