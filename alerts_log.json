@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-24T19:31:28.148335",
+    "company": "Maruti Global Industries Ltd",
+    "text": "Company received order from Naandi Infratech Private Limited approx of Rs.12.16 Crores towards the execution of Shuttering & Reinforcements, Concrete, Hacking, Brick Work & Plaster, Scaffolding, Chipping, Water Proofing, Tiles & NMR.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-24T19:01:12.258516",
     "company": "ACS Technologies Ltd",
     "text": "[Value: RS 78.15 CRORE (VIA NEWS)] Announcement under Regulation 30  (LODR)- Receipt of order",
@@ -1726,13 +1733,6 @@
     "company": "Caplin Point Laboratories Ltd",
     "text": " Classification of US FDA Inspection at the facility of Caplin Steriles Limited, subsidiary of the Company as OAI",
     "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-17T14:01:12.146948",
-    "company": "AstraZeneca Pharma India Ltd",
-    "text": "[Value: RS 151.196 CRORE (VIA NEWS)] Please find the enclosed intimation of the Company as per the captioned subject for your reference.",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
