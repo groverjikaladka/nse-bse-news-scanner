@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-24T20:01:13.897042",
+    "company": "Bliss GVS Pharma Ltd",
+    "text": "Please find enclosed herewith Intimation EU-GMP compliance for the Company''s Manufacturing Facility at Palghar, Maharashtra, India.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-24T19:45:56.090565",
     "company": "Alembic Pharmaceuticals Limited",
     "text": "Alembic Pharmaceuticals Limited has informed the Exchange regarding a press release dated November 24, 2026, titled \"Alembic Pharmaceuticals Limited receives USFDA Final Approval for Bosutinib Tablets, 400 mg\".",
@@ -1727,26 +1734,5 @@
     "text": "Pondy Oxides & Chemicals Limited has informed the Exchange about receipt of First Motion order from Hon'ble NCLT, Chennai Division Bench",
     "categories": "M&A/Corporate Action",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-17T14:16:02.711556",
-    "company": "Caplin Point Laboratories Limited",
-    "text": "Caplin Point Laboratories Limited has informed the Exchange about Classification of US FDA Inspection at the facility of Caplin Steriles Limited (Company's Subsidiary) as OAI",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-17T14:16:02.247550",
-    "company": "AstraZeneca Pharma India Limited",
-    "text": "[Value: RS 151.196 CRORE (VIA NEWS)] AstraZeneca Pharma India Limited has informed the Exchange regarding 'Letter of Intent with Strand Life Sciences Private Limited - Disclosure of LinkedIn Communication'.",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-17T14:16:00.402002",
-    "company": "Caplin Point Laboratories Ltd",
-    "text": " Classification of US FDA Inspection at the facility of Caplin Steriles Limited, subsidiary of the Company as OAI",
-    "categories": "Regulatory/Drug Approval",
-    "source": "BSE"
   }
 ]
