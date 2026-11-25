@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-25T13:31:37.842171",
+    "company": "Beta Drugs Limited",
+    "text": "Beta Drugs Limited has informed the Exchange regarding a press release dated November 25, 2026, titled \"Beta Drugs Limited receives COFEPRIS certification for select Oncology Products, reinforcing Its global quality credentials and strengthening its position in the high-growth Mexican Oncology market\".",
+    "categories": "Partnership/Certification",
+    "source": "NSE"
+  },
+  {
     "date": "2026-11-25T13:01:14.147862",
     "company": "Craftsman Automation Limited",
     "text": "Craftsman Automation Limited has informed the Exchange about Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and in continuation of our earlier intimations relating to the Company s manufacturing facility at Kothavadi, Coimbatore, we wish to inform you that Phase II of the Kothavadi Plant was virtually inaugurated today by the Hon ble Chief Minister of Tamil Nadu.",
@@ -1580,19 +1587,5 @@
     "text": "Biocon Limited has informed the Exchange regarding a press release dated November 18, 2026, titled \"Biocon s Pertuzumab Gets Marketing Authorization in EU, First Biosimilar Approved Under New Tailored Clinical Approach\".",
     "categories": "Regulatory/Drug Approval",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-18T07:45:57.680445",
-    "company": "Exide Industries Limited",
-    "text": "Exide Industries Limited has informed the Exchange about Regulation 30   Update on Divestment from captive wind power project",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-18T07:45:54.130437",
-    "company": "Exide Industries Ltd",
-    "text": "Please find enclosed letter on update w.r.t. divestment from captive wind power project",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
   }
 ]
