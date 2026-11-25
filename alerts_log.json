@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-25T17:15:55.625367",
+    "company": "Alembic Pharmaceuticals Limited",
+    "text": "Alembic Pharmaceuticals Limited has informed the Exchange regarding 'Receipt of Establishment Inspection Reports (EIRs) pertaining to the unannounced USFDA inspection conducted at the Company's Bioequivalence Facility, Vadodara, Gujarat, from 31st August, 2026 to 10th September, 2026.'.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-25T17:15:53.977385",
+    "company": "CESC Ltd",
+    "text": "[Value: RS 80 CRORE (VIA NEWS)] Award of order by Purvah Green Power Private Limited, a CESC Subsidiary",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-25T17:15:53.044412",
+    "company": "BGR Energy Systems Ltd",
+    "text": "NCLAT - Receipt of Order dated 16.11.2026",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-25T17:15:52.036497",
+    "company": "SBC Exports Ltd",
+    "text": "Work Order Awarded by NICSI amounting INR 1.22cr",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-25T17:01:11.209295",
     "company": "Acme Solar Holdings Limited",
     "text": "Acme Solar Holdings Limited has informed the Exchange about an update on commissioning of Battery Energy Storage System (BESS) Project",
@@ -1635,20 +1663,6 @@
     "company": "Sharika Enterprises Ltd",
     "text": "[Value: RS 42.23 LAKH (VIA NEWS)] Intimation of receipt of Work Order from Punjab Energy Development Agency",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-18T11:45:52.436908",
-    "company": "SC Agrotech Ltd",
-    "text": "[Value: RS 1,000 CRORE (VIA NEWS)] Intimation of Non - Binding Letter of Intent for proposed AgriBridge strategic investment and international expansion; Proposed board deliberation on November 20, 2026.",
-    "categories": "Order/MoU/Contract, M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-18T11:31:28.154368",
-    "company": "FDC Ltd",
-    "text": "Sundae Capital Advisors Private Limited (\"Manager to the Offer\") has submitted to BSE a copy of Offer Opening Advertisement cum Corrigendum to the Public Announcement for the Buyback of Equity Shares on a proportionate basis through Tender Offer under the Securities and Exchange Board of India (Buyback of Securities) Regulations, 2018, (\"SEBI Buyback Regulations\") as amended for the attention of Equity Shareholders / Beneficial Owners of the Equity Shares of FDC Ltd (\"the Company\").",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
