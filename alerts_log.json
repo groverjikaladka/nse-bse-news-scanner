@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-25T19:46:13.582996",
+    "company": "Atlanta Electricals Limited",
+    "text": "Atlanta Electricals Limited has informed the Exchange regarding a press release dated November 25, 2026, titled \"Press release on receipt of Order aggregating to Rs. 523.21 Crore\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-25T19:46:11.198323",
+    "company": "Kiran Syntex Ltd",
+    "text": "Kiran Syntex Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/12/2026 ,inter alia, to consider and approve the withdrawal of Application of Merger filed by the Company with BSE Limited for NOC for Scheme of Merger between Kiran Syntex Limited (Transferee Company) with Gujarat Kiran Polytex Limited (Transferor Company) and their respective Shareholders and creditors.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-25T19:46:10.483433",
+    "company": "Atlanta Electricals Ltd",
+    "text": "Press Release on receipt of Order aggregating to Rs. 523.21 Crore",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-25T19:31:34.283105",
     "company": "Atlanta Electricals Ltd",
     "text": "Intimation for receipt of Order aggregating to Rs. 523.21 Crore",
@@ -1664,19 +1685,5 @@
     "text": "[Value: RS 957 CRORE (VIA NEWS)] Glass Wall Systems (India) Limited has informed the Exchange about intimation regarding receipt of order",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-18T14:15:54.209462",
-    "company": "Apollo Micro Systems Ltd",
-    "text": "[Value: 189.57 CRORE (VIA NEWS)] AMS Business Update",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-18T14:15:52.216645",
-    "company": "Glass Wall Systems (India) Ltd",
-    "text": "[Value: RS 957 CRORE (VIA NEWS)] Intimation regarding receipt of Work Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
