@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-25T14:15:58.100076",
+    "company": "Refex Industries Limited",
+    "text": "[Value: RS 1,721 CRORE (VIA NEWS)] Venwind Refex Power Limited, a subsidiary of the Company, bags order for supply and Project execution of Wind Turbine Generator including Tubular Tower for 153.7 MW",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-25T14:15:56.603653",
+    "company": "Refex Industries Ltd",
+    "text": "[Value: RS 1,721 CRORE (VIA NEWS)] Venwind Refex Power Limited, a Subsidiary of the Company, bags order for supply and project execution of Wind Turbine Generator including Tubular Tower for 153.7 MW",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-25T14:01:15.076326",
     "company": "TVS Motor Company Limited",
     "text": "TVS Motor Company Limited has informed the Exchange about Signing of Non- Binding Memorandum of Understanding with Government of Tamil Nadu",
@@ -1601,12 +1615,5 @@
     "text": "[Value: RS 16.06 CRORE (VIA NEWS)] Received an LOA",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-11-18T08:45:51.267860",
-    "company": "Biocon Limited",
-    "text": "Biocon Limited has informed the Exchange regarding a press release dated November 18, 2026, titled \"Biocon s Pertuzumab Gets Marketing Authorization in EU, First Biosimilar Approved Under New Tailored Clinical Approach\".",
-    "categories": "Regulatory/Drug Approval",
-    "source": "NSE"
   }
 ]
