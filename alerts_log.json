@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-11-25T17:31:33.860342",
+    "company": "Acme Solar Holdings Limited",
+    "text": "Acme Solar Holdings Limited has informed the Exchange about an update on commissioning of Battery Energy Storage System (BESS) Project",
+    "categories": "Capacity/Expansion",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-25T17:31:33.145946",
+    "company": "BGR Energy Systems Limited",
+    "text": "BGR Energy Systems Limited has informed the Exchange about Corporate Insolvency Resolution Process - Receipt of NCLAT Order dated 16.11.2026",
+    "categories": "Financial/Results",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-25T17:31:32.444275",
+    "company": "Ksb Limited",
+    "text": "KSB Limited receives letter of award from Triveni Turbines Limited.",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-25T17:31:30.420210",
+    "company": "Alembic Pharmaceuticals Ltd",
+    "text": "Please find attached herewith intimation regarding receipt of Establishment Inspection Report.",
+    "categories": "Regulatory/Drug Approval",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-25T17:31:29.688958",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Update on commissioning of Battery Energy Storage System (BESS) Project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-25T17:31:28.964506",
+    "company": "Updater Services Ltd",
+    "text": "Announcement under Regulation 30 (LODR)_Award of Order or Receipt of Order",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-25T17:15:55.625367",
     "company": "Alembic Pharmaceuticals Limited",
     "text": "Alembic Pharmaceuticals Limited has informed the Exchange regarding 'Receipt of Establishment Inspection Reports (EIRs) pertaining to the unannounced USFDA inspection conducted at the Company's Bioequivalence Facility, Vadodara, Gujarat, from 31st August, 2026 to 10th September, 2026.'.",
@@ -1643,26 +1685,5 @@
     "text": "[Value: RS 1160 CRORE (VIA NEWS)] Protean eGov Technologies Limited has informed the Exchange about Receipt of Order-In-Appeal from the Office of the Commissioner of Central Tax (Appeals-I), Bengaluru",
     "categories": "Order/MoU/Contract",
     "source": "NSE"
-  },
-  {
-    "date": "2026-11-18T12:01:14.853981",
-    "company": "Protean eGov Technologies Ltd",
-    "text": "[Value: RS 1160 CRORE (VIA NEWS)] Announcement under Regulation 30 (LODR) - Receipt of Order-In-Appeal from the Office of the Commissioner of Central Tax (Appeals-I) Bangaluru",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-18T12:01:14.113098",
-    "company": "FDC Ltd",
-    "text": "FDC Limited has been informed regarding the newspapers publication of the offer opening advertisement cum corrigendum to the public announcement in connection with the Buyback of fully paid-up equity shares through the tender offer route on a proportionate basis, as per SEBI(buyback) regulation.\r\nThe advertisement was published on November 18, 2026, in the following newspapers: Business standard English and Hindi (all editions) and Navshakti - marathi",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-18T12:01:13.579154",
-    "company": "Sharika Enterprises Ltd",
-    "text": "[Value: RS 42.23 LAKH (VIA NEWS)] Intimation of receipt of Work Order from Punjab Energy Development Agency",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
   }
 ]
