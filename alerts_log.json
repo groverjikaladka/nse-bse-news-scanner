@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-26T17:45:52.502564",
+    "company": "Sanmit Infra Ltd",
+    "text": "Enclosed herewith Disclosure under Reg 30 of SEBI (LODR), 2015  with respect to Subsidiary- Sanmit Truevalue Infraprojects Private Limited receiving Work Order from M/s. a.c. Kothari Infrastructure Developers",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-26T17:16:02.700697",
     "company": "Tips Films Limited",
     "text": "Tips Films Limited has informed the Exchange regarding appointment of D. A. Kamat & Co., Practicing Company Secretaries, under SEBI Delisting Regulations.",
@@ -1671,12 +1678,5 @@
     "text": "Receipt of work of order from Indian Oil Limited.",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
-  },
-  {
-    "date": "2026-11-19T12:01:19.124065",
-    "company": "Sandur Manganese & Iron Ores Limited",
-    "text": "Sandur Manganese & Iron Ores Limited has informed the Exchange regarding a press and media release dated November 19, 2026, titled \"Sandur plans Rs.280 crore beneficiation capex, targets up to 1.7 MTPA of upgraded ore output\".",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
   }
 ]
