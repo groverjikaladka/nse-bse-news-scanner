@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-27T21:15:54.079162",
+    "company": "Devyani International Ltd",
+    "text": "Update on Scheme of Amalgamation",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-27T20:01:17.819345",
     "company": "Lupin Limited",
     "text": "Lupin Limited has informed the Exchange regarding a press release dated November 27, 2026, titled \"Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States\".",
@@ -1726,13 +1733,6 @@
     "company": "SC Agrotech Ltd",
     "text": "AgriBridge strategic investment framework, proposed renegotiation of international commercial terms and evaluation of additional technology partners",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T15:31:26.091472",
-    "company": "Morarka Finance Ltd",
-    "text": "[Value: RS 0.35 CRORE (VIA NEWS)] As per Attachment",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
