@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-27T22:01:26.352342",
+    "company": "GAIL (India) Limited",
+    "text": "[Value: 65.8 CRORE (VIA NEWS)] GAIL (India) Limited has informed the Exchange regarding a press release dated November 27, 2026, titled \"Press Release on  Signing of MoU between GAIL (India) Limited & Gujarat Narmada Valley Fertilizers & Chemicals Limited \".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-27T22:01:24.434175",
+    "company": "Gail (India) Ltd",
+    "text": "[Value: RS 13.93 CRORE (VIA NEWS)] Press Release on 'Signing of MoU between GAIL (India) Limited & Gujarat Narmada Valley Fertilizers & Chemicals Limited'",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-27T21:31:31.474847",
     "company": "Devyani International Limited",
     "text": "Devyani International Limited has informed the Exchange about update on Scheme of Amalgamation",
@@ -1733,13 +1747,6 @@
     "company": "Texmaco Rail & Engineering Ltd",
     "text": "[Value: RS 362.85 CRORE (VIA NEWS)] Receipt of Order from North Central Railway",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T16:15:57.997099",
-    "company": "SC Agrotech Ltd",
-    "text": "AgriBridge strategic investment framework, proposed renegotiation of international commercial terms and evaluation of additional technology partners",
-    "categories": "M&A/Corporate Action",
     "source": "BSE"
   }
 ]
