@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-27T23:16:05.625347",
+    "company": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
+    "text": "Gujarat Narmada Valley Fertilizers and Chemicals Limited has informed the Exchange regarding a press release dated November 27, 2026, titled \"Press Release on Signing of MoU between GAIL (India) Limited & Gujarat Narmada Valley Fertilizers & Chemicals Limited\".",
+    "categories": "Order/MoU/Contract",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-27T23:16:03.568967",
+    "company": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd",
+    "text": "Press Release on signing of MoU between GAIL (India) Limited & Gujarat Narmada Valley Fertilizers & Chemicals Limited.",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-27T22:01:26.352342",
     "company": "GAIL (India) Limited",
     "text": "[Value: 65.8 CRORE (VIA NEWS)] GAIL (India) Limited has informed the Exchange regarding a press release dated November 27, 2026, titled \"Press Release on  Signing of MoU between GAIL (India) Limited & Gujarat Narmada Valley Fertilizers & Chemicals Limited \".",
@@ -1691,34 +1705,6 @@
     "company": "DCW Ltd",
     "text": "This is in relation to the captioned Buyback, the Company hereby submits the daily report pursuant to Regulation 18(i) of the Buyback Regulations regarding the Equity Shares bought back on Friday, November 20, 2026",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T17:45:58.371429",
-    "company": "Jullundur Motor Agency (Delhi) Limited",
-    "text": "Jullundur Motor Agency (Delhi) Limited has informed the Exchange about Submission of Letter of Offer for Buyback through tender offer route",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-20T17:45:57.801934",
-    "company": "Jullundur Motor Agency (Delhi) Limited",
-    "text": "Jullundur Motor Agency (Delhi) Limited has informed the Exchange about Submission of Letter of Offer for Buyback through tender offer route",
-    "categories": "M&A/Corporate Action",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-20T17:31:29.553130",
-    "company": "Dev Information Technology Ltd",
-    "text": "[Value: RS 1.02 CRORE (VIA NEWS)] Intimation under regulation 30 for receipt of work order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T17:31:26.791711",
-    "company": "Earkart Ltd",
-    "text": "Intimation under Regulation 30 of SEBI(Listing Obligations and Disclosure Requirements)Regulation, 2015 regarding completions of its US FDA Establishment Registration and Device Listing for Hearing Aid Products",
-    "categories": "Regulatory/Drug Approval",
     "source": "BSE"
   }
 ]
