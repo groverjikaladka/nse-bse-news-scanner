@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-27T19:01:16.399210",
+    "company": "Shalby Ltd",
+    "text": "Action initiated or order passed",
+    "categories": "Order/MoU/Contract",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-27T18:45:58.778882",
     "company": "Automobile Corporation of Goa Ltd-$",
     "text": "Completion of extinguishment of Equity Shares bought back under the Buyback.",
