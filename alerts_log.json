@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-27T05:31:26.937111",
+    "company": "ACME Solar Holdings Ltd",
+    "text": "Update on commissioning of solar component of the Hybrid Power Project",
+    "categories": "Capacity/Expansion",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-27T00:15:57.380323",
     "company": "Acme Solar Holdings Limited",
     "text": "ACME Solar Holdings Limited has informed the Exchange about commissioning of solar component of the Hybrid Power Project",
@@ -1642,41 +1649,6 @@
     "company": "Rossell Techsys Ltd",
     "text": "[Value: RS 910 CRORE (VIA NEWS)] Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order",
     "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T00:01:25.024893",
-    "company": "Juniper Green Energy Limited",
-    "text": "Juniper Green Energy Limited has informed the Exchange about commissioning of additional capacity",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-20T00:01:21.973999",
-    "company": "Juniper Green Energy Ltd",
-    "text": "Update on commissioning of solar component of wind-solar hybrid power project",
-    "categories": "Capacity/Expansion",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-19T23:46:02.588021",
-    "company": "Juniper Green Energy Limited",
-    "text": "Juniper Green Energy Limited has informed the Exchange about commissioning of BESS Capacity",
-    "categories": "Capacity/Expansion",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-19T23:46:01.028856",
-    "company": "Inventurus Knowledge Solutions Ltd",
-    "text": "Enclosed is the intimation of merger of Turbo Health Holdings, LLC with Inventurus Knowledge Solutions, Inc.",
-    "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-19T23:46:00.393713",
-    "company": "Juniper Green Energy Ltd",
-    "text": "Update on commissioning of BESS capacity",
-    "categories": "Capacity/Expansion",
     "source": "BSE"
   }
 ]
