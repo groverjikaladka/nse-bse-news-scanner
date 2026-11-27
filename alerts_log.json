@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-11-27T18:31:30.122660",
+    "company": "Amber Enterprises India Limited",
+    "text": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, we wish to inform the exchange on the hearing held on 27th November 2026 pertaining to the Scheme of Amalgamation of AmberPR Technoplast India Private Limited with and into the Company, in context of which the matter has been heard at length and the order has been reserved.",
+    "categories": "M&A/Corporate Action",
+    "source": "NSE"
+  },
+  {
+    "date": "2026-11-27T18:31:28.387430",
+    "company": "Automobile Corporation of Goa Ltd-$",
+    "text": "Disclosure under Regulation 30 of SEBI LODR -Extinguishment of Equity Shares pursuant to Buyback",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
+    "date": "2026-11-27T18:31:27.733420",
+    "company": "Amber Enterprises India Ltd",
+    "text": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, we wish to inform the exchange on the hearing held on 27th November 2026 pertaining to the Scheme of Amalgamation of AmberPR Technoplast India Private Limited with and into the Company, in context of which the matter has been heard at length and the order has been reserved.",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-27T18:15:55.450310",
     "company": "Gloster Ltd",
     "text": "Diclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Order Reserved for the final motion petition by the Hon NCLT, Kolkata",
@@ -1691,27 +1712,6 @@
     "company": "Dhampur Bio Organics Ltd",
     "text": "Pursuant to the Regulation 30 of SEBI (LODR) Regulations, please find attached notice of postal ballot seeking approval for buyback of equity shares of the Company.",
     "categories": "M&A/Corporate Action",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T13:01:20.280785",
-    "company": "Newgen Software Technologies Limited",
-    "text": "[Value: RS 17.14 CRORE (VIA NEWS)] Newgen Software Technologies Limited has informed the Exchange about Newgen Software Technologies Limited, has received and accepted a Purchase Order from a customer for providing Loan Origination Solution, which includes, License, implementation services, cloud hosting, and related support services. The aggregate value of the aforesaid Purchase Order is &#8377;17,46,00,000",
-    "categories": "Order/MoU/Contract",
-    "source": "NSE"
-  },
-  {
-    "date": "2026-11-20T13:01:18.763249",
-    "company": "Equitas Small Finance Bank Ltd",
-    "text": "[Value: RS 534 CRORE (VIA NEWS)] Equitas Small Finance Bank Limited has informed the Exchanges regarding the receipt of Order from GST authority",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T12:45:56.745776",
-    "company": "EMS Ltd",
-    "text": "[Value: RS 900 CRORE (VIA NEWS)] Intimation of Receipt of Letter of Award from National Highways Authority of India for operations at Ratowa Fee Plaza",
-    "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
 ]
