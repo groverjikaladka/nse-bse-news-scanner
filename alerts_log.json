@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-27T18:15:55.450310",
+    "company": "Gloster Ltd",
+    "text": "Diclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Order Reserved for the final motion petition by the Hon NCLT, Kolkata",
+    "categories": "M&A/Corporate Action",
+    "source": "BSE"
+  },
+  {
     "date": "2026-11-27T18:01:13.468904",
     "company": "Zicom Electronic Security Systems Limited",
     "text": "Zicom Electronic Security Systems Limited has informed the Exchange about change in Management as per NCLT Order",
@@ -1704,20 +1711,6 @@
     "date": "2026-11-20T12:45:56.745776",
     "company": "EMS Ltd",
     "text": "[Value: RS 900 CRORE (VIA NEWS)] Intimation of Receipt of Letter of Award from National Highways Authority of India for operations at Ratowa Fee Plaza",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T12:45:55.802246",
-    "company": "Rossell Techsys Ltd",
-    "text": "[Value: RS 910 CRORE (VIA NEWS)] Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order",
-    "categories": "Order/MoU/Contract",
-    "source": "BSE"
-  },
-  {
-    "date": "2026-11-20T12:31:29.356227",
-    "company": "Rossell Techsys Ltd",
-    "text": "[Value: RS 910 CRORE (VIA NEWS)] Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Receipt of Order",
     "categories": "Order/MoU/Contract",
     "source": "BSE"
   }
